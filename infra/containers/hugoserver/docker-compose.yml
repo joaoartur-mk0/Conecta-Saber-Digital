@@ -1,0 +1,25 @@
+version: '3'
+services:
+  hugo:
+    image: hugomods/hugo:exts
+    container_name: hugo-dev
+    command: server --bind 0.0.0.0 --buildDrafts
+    volumes:
+      - ../../../site:/src
+    working_dir: /src
+    networks:
+      - public
+      - private
+    labels:
+      - "traefik.enable=true"
+      - "traefik.docker.network=public"
+      - "traefik.http.routers.conecta-hugo-app.rule=Host(`${DNS}`)"
+      - "traefik.http.routers.conecta-hugo-app.entrypoints=websecure"
+      - "traefik.http.routers.conecta-hugo-app.tls.certresolver=meuresolver"
+      - "traefik.http.services.conecta-hugo-app.loadbalancer.server.port=1313"
+
+networks:
+  public:
+    external: true
+  private:
+    external: true
