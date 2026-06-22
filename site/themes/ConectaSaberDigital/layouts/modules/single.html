@@ -3,12 +3,14 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="/css/style.css" />
         <title>{{ .Title }} - Conecta Saber Digital</title>
     </head>
     <body class="layout-documentacao">
         <div class="page-wrapper">
             <aside class="sidebar-modulos">
                 <nav>
+                    <!-- Não alterar a sessão NAV -->
                     <h2>Módulos do Curso</h2>
 
                     {{ range .Site.Sections }} {{ if ne .Section "homepage" }}

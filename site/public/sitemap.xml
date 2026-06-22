@@ -14,19 +14,16 @@
     <loc>http://localhost:1313/modulo-1-windows/aula-1/</loc>
     <lastmod>2026-06-22T19:00:00-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/modulo-1-windows/aula-2/</loc>
+    <lastmod>2026-06-22T19:00:00-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-22T19:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/homepage/</loc>
     <lastmod>2026-06-22T19:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blue/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/green/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/red/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
