@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>{{ .Title }} - Conecta Saber Digital</title>
+    </head>
+    <body class="layout-documentacao">
+        <div class="page-wrapper">
+            <aside class="sidebar-modulos">
+                <nav>
+                    <h2>Módulos do Curso</h2>
+
+                    {{ range .Site.Sections }} {{ if ne .Section "homepage" }}
+                    <details class="dropdown-modulo">
+                        <summary>{{ .Title }}</summary>
+
+                        <ul class="topicos-lista">
+                            {{ range .Pages }}
+                            <li>
+                                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </details>
+                    {{ end }} {{ end }}
+                </nav>
+            </aside>
+
+            <main class="conteudo-aula">
+                <header class="cabecalho-aula">
+                    <h1>{{ .Title }}</h1>
+                </header>
+
+                <article class="corpo-aula">{{ .Content }}</article>
+            </main>
+        </div>
+    </body>
+</html>

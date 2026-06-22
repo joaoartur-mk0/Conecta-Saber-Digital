@@ -1,7 +1,7 @@
 baseURL = 'https://conecta-saber-digital.duckdns.org/'
 languageCode = 'pt-br'
 title = 'Conecta Saber Digital'
-theme = 'book'
+theme = 'ConectaSaberDigital'
 
 cleanDestinationDir = true
 
@@ -12,6 +12,3 @@ cleanDestinationDir = true
 
   author = "Equipe Conecta Saber Digital"
   description = "Plataforma de Alfabetização Digital e Cibersegurança"
-
-  BookTheme = 'dark'
-  BookLogo = '/img/logo.png'

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Início on Conecta Saber Digital</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content in Início on Conecta Saber Digital</description>
+		<title>Módulo 2: OpenSource on Conecta Saber Digital</title>
+		<link>http://localhost:1313/modulo-2-opensource/</link>
+		<description>Recent content in Módulo 2: OpenSource on Conecta Saber Digital</description>
 		<generator>Hugo</generator>
 		<language>pt-br</language>
 		
@@ -12,19 +12,12 @@
 		
 			<lastBuildDate>Mon, 22 Jun 2026 19:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/modulo-2-opensource/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>00 - OpenSource</title>
 				<link>http://localhost:1313/modulo-2-opensource/aula-1/</link>
 				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
 				<guid>http://localhost:1313/modulo-2-opensource/aula-1/</guid>
-				<description>&lt;p&gt;Windows&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>00 - Windows</title>
-				<link>http://localhost:1313/modulo-1-windows/aula-1/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-1-windows/aula-1/</guid>
 				<description>&lt;p&gt;Windows&lt;/p&gt;</description>
 			</item>
 	</channel>

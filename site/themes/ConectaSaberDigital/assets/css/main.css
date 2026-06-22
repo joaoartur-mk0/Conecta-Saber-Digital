@@ -1,0 +1,35 @@
+@import "components/header.css";
+@import "components/footer.css";
+
+body {
+    color: #222;
+    font-family: sans-serif;
+    line-height: 1.5;
+    margin: 1rem;
+    max-width: 768px;
+}
+
+a {
+    color: #00e;
+    text-decoration: none;
+}
+
+.page-wrapper {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.sidebar-modulos {
+    flex: 0 0 300px;
+    background-color: #f4f4f5;
+    border-right: 1px solid #ddd;
+    overflow-y: auto;
+}
+
+.conteudo-aula {
+    flex: 1;
+    overflow-y: auto;
+    padding: 2rem;
+}
