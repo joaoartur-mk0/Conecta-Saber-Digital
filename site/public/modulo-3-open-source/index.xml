@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Início on Conecta Saber Digital</title>
-		<link>http://localhost:1313/</link>
-		<description>Recent content in Início on Conecta Saber Digital</description>
+		<title>Módulo 3: Ferramentas Web e Cultura Open Source on Conecta Saber Digital</title>
+		<link>http://localhost:1313/modulo-3-open-source/</link>
+		<description>Recent content in Módulo 3: Ferramentas Web e Cultura Open Source on Conecta Saber Digital</description>
 		<generator>Hugo</generator>
 		<language>pt-br</language>
 		
@@ -12,7 +12,7 @@
 		
 			<lastBuildDate>Mon, 22 Jun 2026 19:00:00 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/modulo-3-open-source/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>00 - Apresentação</title>
 				<link>http://localhost:1313/modulo-3-open-source/topico-01/</link>
@@ -21,53 +21,11 @@
 				<description>&lt;p&gt;Esta apostila foi desenvolvida com o objetivo de apresentar &lt;strong&gt;ferramentas web gratuitas&lt;/strong&gt; e&#xA;a &lt;strong&gt;cultura Open Source (Código Aberto)&lt;/strong&gt; , promovendo a inclusão digital, a produtividade&#xA;e o uso consciente da tecnologia. O conteúdo utiliza linguagem simples, prática e&#xA;acessível, permitindo que qualquer participante compreenda os conceitos e aplique os&#xA;conhecimentos no dia a dia.&#xA;Durante as atividades, os alunos terão contato com ferramentas amplamente utilizadas&#xA;no mercado de trabalho, aprenderão critérios de segurança para download de programas&#xA;e conhecerão soluções gratuitas que podem substituir softwares proprietários em&#xA;diversas situações.&#xA;A metodologia adotada é baseada na aprendizagem prática, com demonstrações em sala,&#xA;exercícios guiados e atividades de laboratório.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>00 - Google Workspace</title>
-				<link>http://localhost:1313/modulo-2-google-workspace/topico-01/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-2-google-workspace/topico-01/</guid>
-				<description>&lt;p&gt;Windows&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>00 - Windows</title>
-				<link>http://localhost:1313/modulo-1-windows/topico-01/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-1-windows/topico-01/</guid>
-				<description>&lt;p&gt;Windows&lt;/p&gt;</description>
-			</item>
-			<item>
 				<title>01 - Introdução</title>
 				<link>http://localhost:1313/modulo-3-open-source/topico-02/</link>
 				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
 				<guid>http://localhost:1313/modulo-3-open-source/topico-02/</guid>
 				<description>&lt;p&gt;A internet oferece milhares de ferramentas gratuitas capazes de auxiliar estudantes,&#xA;profissionais e usuários domésticos em tarefas diárias. Muitas dessas soluções são&#xA;desenvolvidas por comunidades de programadores que compartilham seu trabalho&#xA;livremente, seguindo os princípios do Open Source.&#xA;Além de reduzir custos, essas ferramentas incentivam a colaboração, a transparência e a&#xA;inovação tecnológica. Atualmente, grande parte dos servidores da internet, sistemas&#xA;operacionais, navegadores e aplicativos utiliza tecnologias de código aberto.&#xA;Conhecer essas ferramentas permite maior autonomia digital e acesso a recursos de&#xA;qualidade sem a necessidade de adquirir licenças comerciais.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>01 - Windows</title>
-				<link>http://localhost:1313/modulo-1-windows/topico-02/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-1-windows/topico-02/</guid>
-				<description>&lt;p&gt;Windows aula 2&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>00 - Google Workspace</title>
-				<link>http://localhost:1313/modulo-4-inteligencia-artificial/topico-01/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-4-inteligencia-artificial/topico-01/</guid>
-				<description>&lt;p&gt;Windows&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>00 - Google Workspace</title>
-				<link>http://localhost:1313/modulo-5-ciberseguran%C3%A7a/topico-01/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-5-ciberseguran%C3%A7a/topico-01/</guid>
-				<description>&lt;p&gt;Windows&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>00 - Google Workspace</title>
-				<link>http://localhost:1313/modulo-6-cidania-digital/topico-01/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-6-cidania-digital/topico-01/</guid>
-				<description>&lt;p&gt;Windows&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

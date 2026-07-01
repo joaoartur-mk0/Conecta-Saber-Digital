@@ -1,45 +1,82 @@
 <!doctype html>
 <html lang="pt-BR">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Conecta Saber Digital</title>
-    </head>
-    <body>
-        <header class="header-principal">
-            <div class="logo-container">
-                <img
-                    src="/images/conecta.jpeg"
-                    alt="Logo Conecta Saber Digital"
-                />
-            </div>
-            <nav class="navegacao-header">
-                <a href="/inscricao" class="btn-inscricao"
-                    >Inscreva-se no Projeto</a
-                >
-            </nav>
-        </header>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="{{ site.Params.description }}" />
+  <link rel="icon" type="image/png" href="/img/iconConecta.png" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <title>{{ site.Title }}</title>
+</head>
 
-        <main>
-            <section class="hero-section">
-                <div class="hero-content">
-                    <h1>Fluência e Segurança no Mundo Digital</h1>
-                    <p>
-                        O projeto de extensão Conecta Saber Digital promove a
-                        inclusão digital da comunidade por meio de um currículo
-                        estruturado em seis módulos progressivos. Nossa jornada
-                        de capacitação conduz o participante do nível iniciante
-                        à autonomia operacional e à adoção de práticas
-                        preventivas de segurança na internet.
-                    </p>
-                    <h2>Primeiros Passos</h2>
-                    <p>Explore o site.</p>
-                    <a href="homepage/" class="btn-acessar-conteudo"
-                        >Acessar Material Didático</a
-                    >
-                </div>
-                <div class="hero-image"></div>
-            </section>
-        </main>
-    </body>
+<body class="layout-home">
+  <header class="site-header">
+    <a class="brand-link" href="/" aria-label="Página inicial">
+      <img src="/img/logoConecta.png" alt="Conecta Saber Digital" />
+    </a>
+
+    <nav class="header-actions" aria-label="Acesso rápido">
+      <a href="/homepage/" class="btn btn-light">Acessar aulas</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="home-hero">
+      <div class="hero-copy">
+        <span class="eyebrow">Curso básico de informática</span>
+        <h1>Conteúdos simples para aprender tecnologia com confiança.</h1>
+        <p>
+          Um repositório organizado para acompanhar as aulas do Conecta Saber Digital,
+          com materiais introdutórios, atividades e guias práticos para o uso cotidiano
+          do computador e da internet.
+        </p>
+
+        <div class="hero-actions">
+          <a href="/homepage/" class="btn btn-primary">Começar agora</a>
+          <a href="#modulos" class="btn btn-ghost">Ver módulos</a>
+        </div>
+      </div>
+
+      <div class="hero-panel">
+        <img src="/img/logoConecta.png" alt="Marca Conecta Saber Digital" />
+        <div class="course-note">
+          <strong>Material de apoio</strong>
+          <span>Windows, softwares livres, navegação e segurança digital.</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-band" id="modulos">
+      <div class="section-heading">
+        <span class="eyebrow">Biblioteca do curso</span>
+        <h2>Módulos disponíveis</h2>
+        <p>Escolha um módulo para acessar as aulas, revisar conceitos e avançar no seu ritmo.</p>
+      </div>
+
+      <div class="module-grid">
+          {{ range .Site.Sections.ByWeight }}
+          {{ if ne .Section "homepage" }}
+          {{ $aulas := .Pages.ByWeight }}
+          {{ $primeiraAula := index $aulas 0 }}
+
+      <a class="module-card" href="{{ $primeiraAula.RelPermalink }}">
+        <span class="module-kicker">Módulo</span>
+        <h3>{{ .Title }}</h3>
+        <p>
+          {{ len .Pages }} aula{{ if ne (len .Pages) 1 }}s{{ end }}
+          disponível{{ if ne (len .Pages) 1 }}is{{ end }}
+        </p>
+      </a>
+    {{ end }}
+  {{ end }}
+</div>
+
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Conecta Saber Digital - {{ now.Year }}</p>
+    <p>Repositório de conteúdos para alfabetização digital.</p>
+  </footer>
+</body>
 </html>

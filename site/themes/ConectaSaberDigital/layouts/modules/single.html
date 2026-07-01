@@ -1,41 +1,118 @@
 <!doctype html>
 <html lang="pt-BR">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" href="/css/style.css" />
-        <title>{{ .Title }} - Conecta Saber Digital</title>
-    </head>
-    <body class="layout-documentacao">
-        <div class="page-wrapper">
-            <aside class="sidebar-modulos">
-                <nav>
-                    <!-- Não alterar a sessão NAV -->
-                    <h2>Módulos do Curso</h2>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="{{ site.Params.description }}" />
+  <link rel="icon" type="image/png" href="/img/iconConecta.png" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <title>{{ .Title }} - Conecta Saber Digital</title>
+</head>
 
-                    {{ range .Site.Sections }} {{ if ne .Section "homepage" }}
-                    <details class="dropdown-modulo">
-                        <summary>{{ .Title }}</summary>
+<body class="layout-documentacao">
+  <header class="course-header">
+    <a class="brand-link compact" href="/" aria-label="Página inicial">
+      <img src="/img/logoConecta.png" alt="Conecta Saber Digital" />
+    </a>
 
-                        <ul class="topicos-lista">
-                            {{ range .Pages }}
-                            <li>
-                                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                            </li>
-                            {{ end }}
-                        </ul>
-                    </details>
-                    {{ end }} {{ end }}
-                </nav>
-            </aside>
+    <a class="btn btn-light" href="/">Início</a>
+  </header>
 
-            <main class="conteudo-aula">
-                <header class="cabecalho-aula">
-                    <h1>{{ .Title }}</h1>
-                </header>
+  <div class="page-wrapper" id="pageWrapper">
+  <aside class="sidebar-modulos" id="sidebarModulos">
+    <nav>
+      <h2>Módulos do Curso</h2>
 
-                <article class="corpo-aula">{{ .Content }}</article>
-            </main>
-        </div>
-    </body>
+      {{ range .Site.Sections }}
+        {{ if ne .Section "homepage" }}
+          <details class="dropdown-modulo">
+            <summary>{{ .Title }}</summary>
+
+            <ul class="topicos-lista">
+              {{ range .Pages }}
+                <li>
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </li>
+              {{ end }}
+            </ul>
+          </details>
+        {{ end }}
+      {{ end }}
+    </nav>
+  </aside>
+
+  <button
+    class="sidebar-icon-toggle"
+    id="sidebarToggle"
+    type="button"
+    aria-label="Ocultar menu lateral"
+    aria-expanded="true"
+    aria-controls="sidebarModulos"
+  >
+    <span class="icon-sidebar-open">‹</span>
+    <span class="icon-sidebar-closed">☰</span>
+  </button>
+
+  <main class="conteudo-aula">
+    <header class="cabecalho-aula">
+      <span class="eyebrow">Material do curso</span>
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    <article class="corpo-aula">
+      {{ .Content }}
+    </article>
+
+    <nav class="aula-footer-nav" aria-label="Navegação entre tópicos">
+  {{ $topicos := .CurrentSection.Pages.ByWeight }}
+  {{ $topicoAtual := .RelPermalink }}
+  {{ $indiceAtual := -1 }}
+
+  {{ range $index, $topico := $topicos }}
+    {{ if eq $topico.RelPermalink $topicoAtual }}
+      {{ $indiceAtual = $index }}
+    {{ end }}
+  {{ end }}
+
+  <div class="footer-nav-left">
+    {{ if gt $indiceAtual 0 }}
+      {{ $indiceAnterior := sub $indiceAtual 1 }}
+      {{ $topicoAnterior := index $topicos $indiceAnterior }}
+
+      <a class="footer-nav-btn" href="{{ $topicoAnterior.RelPermalink }}">
+        ← {{ $topicoAnterior.Title }}
+      </a>
+    {{ end }}
+  </div>
+
+  <div class="footer-nav-right">
+    {{ if lt $indiceAtual (sub (len $topicos) 1) }}
+      {{ $indiceProximo := add $indiceAtual 1 }}
+      {{ $proximoTopico := index $topicos $indiceProximo }}
+
+      <a class="footer-nav-btn" href="{{ $proximoTopico.RelPermalink }}">
+        {{ $proximoTopico.Title }} →
+      </a>
+    {{ end }}
+  </div>
+</nav>
+
+  </main>
+</div>
+
+<script>
+  const pageWrapper = document.getElementById("pageWrapper");
+  const sidebarToggle = document.getElementById("sidebarToggle");
+
+  sidebarToggle.addEventListener("click", function () {
+    const isCollapsed = pageWrapper.classList.toggle("sidebar-collapsed");
+    sidebarToggle.setAttribute("aria-expanded", String(!isCollapsed));
+    sidebarToggle.setAttribute(
+      "aria-label",
+      isCollapsed ? "Mostrar menu lateral" : "Ocultar menu lateral"
+    );
+  });
+</script>
+
+</body>
 </html>

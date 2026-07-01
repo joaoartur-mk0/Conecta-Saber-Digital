@@ -15,16 +15,16 @@
 			<atom:link href="http://localhost:1313/modulo-1-windows/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>00 - Windows</title>
-				<link>http://localhost:1313/modulo-1-windows/aula-1/</link>
+				<link>http://localhost:1313/modulo-1-windows/topico-01/</link>
 				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-1-windows/aula-1/</guid>
+				<guid>http://localhost:1313/modulo-1-windows/topico-01/</guid>
 				<description>&lt;p&gt;Windows&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>01 - Windows</title>
-				<link>http://localhost:1313/modulo-1-windows/aula-2/</link>
+				<link>http://localhost:1313/modulo-1-windows/topico-02/</link>
 				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-1-windows/aula-2/</guid>
+				<guid>http://localhost:1313/modulo-1-windows/topico-02/</guid>
 				<description>&lt;p&gt;Windows aula 2&lt;/p&gt;</description>
 			</item>
 	</channel>
