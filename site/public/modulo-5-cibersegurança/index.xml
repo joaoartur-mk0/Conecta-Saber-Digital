@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Módulo 5: Cibersegurança (Cybersecurity Awareness) on Conecta Saber Digital</title>
+		<link>http://localhost:1313/modulo-5-ciberseguran%C3%A7a/</link>
+		<description>Recent content in Módulo 5: Cibersegurança (Cybersecurity Awareness) on Conecta Saber Digital</description>
+		<generator>Hugo</generator>
+		<language>pt-br</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 22 Jun 2026 19:00:00 -0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/modulo-5-ciberseguran%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>00 - Google Workspace</title>
+				<link>http://localhost:1313/modulo-5-ciberseguran%C3%A7a/topico-01/</link>
+				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
+				<guid>http://localhost:1313/modulo-5-ciberseguran%C3%A7a/topico-01/</guid>
+				<description>&lt;p&gt;Windows&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
