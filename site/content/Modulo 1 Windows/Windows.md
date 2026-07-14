@@ -261,6 +261,7 @@ Para mudar a tela de fundo é simples, basta executar cada passo abaixo:
 ### Opções de Personalização
 
 <!-- Imagem 16 -->
+![imagem 16](/img/Windows_img/Imagem16.png)
 
 E você vai escolhendo a opção de acordo com a sua necessidade. Uma coisa deve ser levada em consideração, lembre-se sempre de que, onde você adiciona um recurso é normalmente onde deve-se retornar para retirar o mesmo recurso.
 
@@ -282,18 +283,22 @@ Vamos ver cada uma das opções:
 * **Plano de Fundo com Imagem:** Clique em **Imagem**, em seguida no botão **Procurar**, e navegue até a pasta com suas imagens e escolha.
 
 <!-- Imagem 17 -->
+![imagem 17](/img/Windows_img/Imagem17.png)
 
 Ex. Navegar a até a pasta Imagens do Computador e selecionar uma, e clicar no Botão Escolher Imagem, em seguida pode fechar a tela de configuração. Em seguida feche a tela de Personalização
 
 <!-- Imagem 18 -->
+![imagem 18](/img/Windows_img/Imagem18.png)
 
 * **Plano de Fundo com Cor:** Escolha **Cor Sólida** e, em seguida, uma das opções de cores, ou **cores personalizadas**.
 
 <!-- Imagem 19 -->
+![imagem 19](/img/Windows_img/Imagem19.png)
 
 * **Plano de Fundo com Slides:** Clique em **Apresentação de Slides**. Em seguida, clique em **Procurar** para indicar a pasta com as imagens. Não esqueça de definir o tempo para mudar a imagem da tela, se as imagens serão exibidas de forma sequencial ou aleatória e o ajuste da imagem na tela.
 
 <!-- Imagem 20 e 21 -->
+![imagem 20](/img/Windows_img/Imagem20.png) ![imagem 21](/img/Windows_img/Imagem21.png)
 
 # Botão Iniciar 
 
@@ -302,6 +307,7 @@ Ex. Navegar a até a pasta Imagens do Computador e selecionar uma, e clicar no B
 Por padrão, o menu Iniciar do Windows 10 traz alguns grupos de blocos.
 
 <!-- imagem 22 -->
+![imagem 22](/img/Windows_img/Imagem22.png)
 
 Clicando no botão Iniciar, a tela será exibida e podemos trabalhar com os itens de menu ou até mesmo com os blocos. A partir daí podemos configurar, isso quer dizer que para remover ou editar um bloco fixado ao menu Iniciar, use o menu de contexto, lá você terá as opções de desativar a animação dinâmica, ajustar o tamanho ou tirá-lo do menu.
 
@@ -320,6 +326,7 @@ Além das personalizações feitas através do menu Iniciar, ainda é possível 
 A barra de tarefas está localizada na parte inferior da tela e permite acesso direto aos aplicativos ou programas que estão sendo executados no seu computador. É onde está o menu Iniciar, uma das formas de acessar todos os programas no seu computador e a Cortana, o assistente virtual e buscador do sistema operacional. Além disso, é onde temos acesso direto aos programas ou aplicativos que estão abertos. No lado direito, temos as informações de status da bateria, conexão à Internet, a hora e o acesso ao painel de notificação.
 
 <!-- imagem 23 -->
+![imagem 23](/img/Windows_img/Imagem23.png)
 
 ## Como fixar um programa na Barra de Tarefas
 
@@ -340,12 +347,14 @@ Se você usa um programa com bastante frequência, é recomendável fixá-lo à 
 Se você quiser mais opções para personalizar sua barra de tarefas, pode entrar na opção **Configurações da barra de tarefas** e modificar a forma que você deseja ver esta ferramenta.
 
 <!-- imagem 24 -->
+![imagem 24](/img/Windows_img/Imagem24.png)
 
 * Clique com o **botão direito do mouse** em qualquer espaço livre da sua Barra de tarefas.
 * No menu que aparecer, selecione **Configurações da barra de tarefas**.
 * No painel que for aberto, habilite ou desabilite as opções que deseja alterar na sua barra de tarefas, clicando em cada uma, ou utilize as outras configurações disponíveis.
 
 <!-- imagem 25 -->
+![imagem 25](/img/Windows_img/Imagem25.png)
 
 # Personalização de Cores
 
@@ -356,6 +365,8 @@ Sempre que você clica no Menu Iniciar, Barra de Tarefas ou Atalhos, perceberá 
 * Na tela de Personalização, clique em **Cores**.
 
 <!-- imagem 26 e 27 coloque em baixo da outra pra fazer sentido-->
+![imagem 26](/img/Windows_img/Imagem26.png)
+![imagem 27](/img/Windows_img/Imagem27.png)
 
 # Personalizando a Tela de Bloqueio
 
@@ -368,10 +379,12 @@ Basta acionar a Tela de Bloqueio! Para isso, você pode pressionar simultaneamen
 * **Ctrl + Alt + Del** e escolher a opção **Bloquear** (ou simplesmente utilizar o atalho direto **Logotipo do Windows + L**).
 
 <!-- imagem 28 -->
+![imagem 28](/img/Windows_img/Imagem28.png)
 
 Porém, você pode configurar essa tela para mostrar notificações de aplicativos, compromissos da agenda, além da data e hora. Também é possível adicionar as suas próprias fotos para o plano de fundo ou deixar o Windows exibir as imagens de forma aleatória.
 
 <!-- imagem 29 -->
+![imagem 29](/img/Windows_img/Imagem29.png)
 
 # Configurando a Proteção de Tela
 
@@ -382,6 +395,8 @@ A proteção de tela é um recurso do sistema que preenche a tela com imagens, t
 O Windows 10 também disponibiliza protetores de tela animados. Você pode personalizar a tela do computador ou notebook com bolhas, textos 3D em movimento, faixas e até fotos de uma de suas pastas pessoais no PC. Além de dar o seu toque pessoal, o recurso evita que curiosos vejam seus e-mails e notificações e atrasa a suspensão do computador. Essa ferramenta se tornou muito utilizada em outras versões do sistema operacional da Microsoft. É possível configurar a Proteção de Tela por outros meios como:
 
 <!-- imagem 30 e 31 coloque em baixo da outra pra fazer sentido-->
+![imagem 30](/img/Windows_img/Imagem30.png)
+![imagem 31](/img/Windows_img/Imagem31.png)
 
 # Escolhendo Temas / Fontes do Windows
 
@@ -395,6 +410,7 @@ O tema é uma combinação de imagens da tela de fundo da área de trabalho, cor
 A partir daí, você pode ajustar cada elemento individualmente (**Tela de fundo, Cor, Sons, Cursor do Mouse**) ou simplesmente escolher um dos temas completos listados abaixo para aplicar todas as mudanças de uma só vez.
 
 <!-- imagem 32 -->
+![imagem 32](/img/Windows_img/Imagem32.png)
 
 ### Fontes
 
@@ -403,6 +419,7 @@ Esta opção mostra todas as fontes (estilos de letras) instaladas no Windows, q
 * Na tela de Personalização, clique em **Fontes** para gerenciar, instalar ou remover os estilos disponíveis no sistema.
 
 <!-- imagem 33 -->
+![imagem 33](/img/Windows_img/Imagem33.png)
 
 # Área de Trabalho do Windows
 
@@ -413,6 +430,7 @@ Deixe o menu Iniciar com o layout de sua preferência. Nesta tela, você pode de
 * Na tela de Personalização, clique em **Iniciar** para ajustar essas preferências.
 
 <!-- imagem 34 -->
+![imagem 34](/img/Windows_img/Imagem34.png)
 
 ## Barra de Tarefas
 
@@ -423,6 +441,7 @@ Você pode trabalhar com a Barra de Tarefas do jeito que achar mais conveniente 
 * Na tela de Personalização, clique em **Barra de Tarefas** para configurar seu comportamento (como ocultar automaticamente, mudar a posição na tela ou gerenciar os ícones que aparecem nela).
 
 <!-- imagem 35 -->
+![imagem 35](/img/Windows_img/Imagem35.png)
 
 # Exercícios
 
@@ -468,10 +487,12 @@ d. Botão Direito, Personalizar, Temas e escolheria uma das opções
 Explorador de arquivos, que também já foi chamado de Gerenciador de arquivos nas primeiras versões do Windows e a pouco tempo era conhecido como Windows Explorer, é um gerenciador de arquivos e pastas do sistema Windows. É utilizado para copiar, excluir, organizar, e mover pastas, documentos. É representado por um ícone em forma de uma pasta amarela na Barra de Tarefas, mais pode ser aberto ou executado de outras formas, essa é a mais fácil e mais usada.
  
  <!-- imagem 36 -->
+ ![imagem 36](/img/Windows_img/Imagem36.png)
 
  ## O que compõe o Explorador de Arquivos
 
  <!-- imagem 37 -->
+ ![imagem 37](/img/Windows_img/Imagem37.png)
 
  # Guias do Explorador
 
@@ -485,14 +506,17 @@ Explorador de arquivos, que também já foi chamado de Gerenciador de arquivos n
  ### Guia Inicio
 
  <!-- imagem 39 -->
+ ![imagem 39](/img/Windows_img/Imagem39.png)
 
  ### Guia Compartilhar
 
 <!-- imagem 40 -->
+![imagem 40](/img/Windows_img/Imagem40.png)
 
 ### Guia Exibir
 
 <!-- imagem 41 -->
+![imagem 41](/img/Windows_img/Imagem41.png)
 
 ## Mais o que mudou no Explorador de Arquivos no Windows 10?
  
@@ -510,10 +534,12 @@ Explorador de arquivos, que também já foi chamado de Gerenciador de arquivos n
     * Clique na Barra e ative o item desejado.
 
     <!-- imagem 42 -->
+    ![imagem 42](/img/Windows_img/Imagem42.png)
 
 * **Criando uma Pasta usando o Explorador de Arquivos**
 
     <!-- imagem 43 -->
+    ![imagem 43](/img/Windows_img/Imagem43.png)
 
 ## Manipulando Pastas e Arquivos 
 
@@ -524,18 +550,24 @@ Explorador de arquivos, que também já foi chamado de Gerenciador de arquivos n
 Para trocar o nome da Pasta ou de um Arquivo (renomear), clique sobre a Pasta ou arquivo, e na guia início, Renomear, e digitar o novo nome.
 
 <!-- imagem 44 -->
+![imagem 44](/img/Windows_img/Imagem44.png)
+
 
 * **Excluindo/Deletando Pastas ou Arquivos**
 
 Para Excluir/Deletar uma Pasta ou Arquivo, clique sobre o item a ser excluído/deletado, e em seguida na Guia início, clique em Excluir.
 
 <!-- imagem 45 -->
+![imagem 45](/img/Windows_img/Imagem45.png)
+
 
 * **Movendo ou Copiando Pastas e Arquivos**
 
 Para mover ou copiar Pastas ou Arquivos, clique sobre a Pasta ou Arquivo, e na guia Início, **Mover para** ou **Copiar para**, e clique na Pasta destino.
 
 <!-- imagem 46 -->
+![imagem 46](/img/Windows_img/Imagem46.png)
+
 
 * **Selecionando Arquivos / Pastas**
 
@@ -546,6 +578,9 @@ Para mover ou copiar Pastas ou Arquivos, clique sobre a Pasta ou Arquivo, e na g
 * **Selecionando todos Arquivos / Pastas de uma vez**
  
  <!-- imagem 47 -->
+ ![imagem 47](/img/Windows_img/Imagem47.png)
+ 
+
 
  ## Manipulando Pasta/Arquivo
  
@@ -553,36 +588,47 @@ Para mover ou copiar Pastas ou Arquivos, clique sobre a Pasta ou Arquivo, e na g
     * Para Abrir um arquivo com o aplicativo específico, clique sobre o arquivo, em seguida na guia Início, em seguida em Abrir, ou clique com o botão direito do mouse, em seguida abrir com, e selecione o aplicativo.
 
 <!-- imagem 48 -->
+![imagem 48](/img/Windows_img/Imagem48.png)
 
 * **Visualizando os detalhes da Pasta ou Arquivo**
 
 Para saber os detalhes de um disco, pasta ou arquivo, clique sobre ele depois acione os Detalhes. Em seguida uma tela com todas as propriedades será exibida. Se quiser pode clicar no item propriedades da Guia Início.
 
 <!-- imagem 49 -->
+![imagem 49](/img/Windows_img/Imagem49.png)
+
 
 * **Às vezes o arquivo precisa ser compartilhado, ou enviado para alguém.**
 
 Para compartilhar clique sobre o item, em seguida em Compartilhar na guia compartilhar
 
 <!-- imagem 50 -->
+![imagem 50](/img/Windows_img/Imagem50.png)
+
 
 ## Manipulando Pasta/Arquivo
  
 * **Os itens serão exibidos na tela, escolha um deles e siga o passo a passo.**
 
-<!-- imagem 51 -->  
+<!-- imagem 51 -->
+![imagem 51](/img/Windows_img/Imagem51.png)
+ 
 
 * **Compartilhando pastas ou arquivos pelo Outlook**
 
    * Selecione o item a ser enviado pelo Outlook, na guia Compartilhar clique no item Email.
 
 <!-- imagem 52 -->
+![imagem 52](/img/Windows_img/Imagem52.png)
+
 
 * **Outra opção muito importante e útil na guia Compartilhar é o Zip (compactar)**
     * Às vezes o arquivo/pasta a ser enviado ou gravado é muito grande, o que se pode fazer neste momento é compactar.
     * Clique no item e, na Guia Compartilhar, clique em Zip.
 
 <!-- imagem 53 -->
+![imagem 53](/img/Windows_img/Imagem53.png)
+
 
 ## Manipulando Pasta/Arquivo
  
@@ -591,46 +637,59 @@ Para compartilhar clique sobre o item, em seguida em Compartilhar na guia compar
     * Pode também no explorador de arquivos, clicar no arquivo e na guia Compartilhar, clicar em imprimir.
 
 <!-- imagem 54 -->
+![imagem 54](/img/Windows_img/Imagem54.png)
+
 
 * **A guia Exibir tem algumas formas de visualizar as pastas e arquivos**
  
     * Forma Normal, usando as opções de painéis, você pode personalizar.
 
     <!-- imagem 55 -->
+    ![imagem 55](/img/Windows_img/Imagem55.png)
+
 
 * Pode ver os arquivos em um layout melhor, com ou sem detalhes: Nome, Data, Tipo, Local. Para ver dessa forma, usamos a opção de Layout.
 
   <!-- imagem 56 -->
+  ![imagem 56](/img/Windows_img/Imagem56.png)
+
 
 * Podemos ainda organizar as pastas e arquivos por data, por tipo, e etc. Usando a opção de Exibição atual
 
 <!-- imagem 57 -->
+![imagem 57](/img/Windows_img/Imagem57.png)
+
 
 ## Manipulando Pasta/Arquivo
  
 * Podemos também mostrar ou ocultar algumas colunas no explorador, para isso usamos a opção de Mostrar/ocultar.
 
 <!-- imagem 58 -->
+![imagem 58](/img/Windows_img/Imagem58.png)
 
 ## Pesquisando Pasta/Arquivo
  
 * Às vezes gravamos um arquivo ou pasta e nos esquecemos do nome, não se preocupe porque é possível fazer uma pesquisa de uma forma simples. Use a caixa de pesquisa e lá digite o nome ou parte dele, ou se quiser o tipo de arquivo.
 
 <!-- imagem 59 -->
+![imagem 59](/img/Windows_img/Imagem59.png)
 
 * Vai aparecer uma nova guia no explorador. Chamada pesquisar, no momento em que clicar na caixa de pesquisa, ela facilita ainda mais a pesquisa.
 
 <!-- imagem 60 -->
+![imagem 60](/img/Windows_img/Imagem60.png)
 
 ## Gerenciando Pasta/Arquivo
  
 * Quando clicamos em alguma arquivo de imagem ele exibe a guia Gerenciar. Mais para entender melhor esse recurso, habilite a opção **Painel de Visualização** na guia Exibir, grupos painéis.
 
 <!-- imagem 61 -->
- 
+ ![imagem 61](/img/Windows_img/Imagem61.png)
+
 * Quando clicamos em alguma arquivo de áudio ele exibe a guia Reproduzir. Mais para entender melhor esse recurso, habilite a opção **Painel de visualização** na guia exibir, grupo painéis.
 
 <!-- imagem 62 -->
+![imagem 62](/img/Windows_img/Imagem62.png)
 
 # Exercícios 
 
@@ -675,6 +734,7 @@ Porém, apesar das mudança consideráveis do aplicativo, aqueles que não usara
 Por exemplo, sempre que precisavam adicionar ou remover dispositivos e programas, ou, ajustar itens do sistema, recorriam ao painel de controle. Ele era como uma central administrativa do SO, e a partir dele o usuário podia configurar os recursos, e através dele, ter acesso às questões de segurança, aparência, cópias de segurança (backup), data/hora, idiomas, moeda corrente, e contas de usuário.
 
 <!-- imagem 63 -->
+![imagem 63](/img/Windows_img/Imagem63.png)
 
 * Lembre-se que não existe perfeição
 Painel de Controle ainda não é totalmente dispensável, com certeza algumas modificações e ajustes deverão ser feitos em Configurações, e tem mais, muita gente ainda não se acostumou com o novo aplicativo.
@@ -686,14 +746,21 @@ Como Abrir o Painel de Controle?
 * Botão direito do mouse no logo do Windows, Executar, digitar Control ou Control Panel, clica em OK.
 
 <!-- imagem 64 e 65 -->
+![imagem 64](/img/Windows_img/Imagem64.png) ![imagem 65](/img/Windows_img/Imagem65.png)
+
+
 
 * Clicar na Barra de pesquisa, digitar Painel de Controle, clicar na opção correspondente.
 
 <!-- imagem 66 -->
+![imagem 66](/img/Windows_img/Imagem66.png)
+
 
 * Botão Iniciar, Configurações, Temas, Configurações de ícones da área de trabalho, clique na caixa para habilitar o Painel de Controle, clique em OK. No menu iniciar, pasta Sistema do Windows, Painel de Controle.
 
 <!-- imagem 67, 68 e 69 -->
+![imagem 67](/img/Windows_img/Imagem67.png) ![imagem 68](/img/Windows_img/Imagem68.png) ![imagem 69](/img/Windows_img/Imagem69.png)
+
 
 Não importa qual a forma que você usa, todas elas te levarão ao Painel de Controle, o que temos que ter atenção mesmo é, o que pretendemos ou precisamos fazer no Painel, para melhorar o meu dia a dia. Lembrando sempre de ir ao outro aplicativo e aos poucos verificando onde se encontram as opções que mais preciso, pois a Microsoft tem como objetivo, substituir o velho Painel de Controle.
 
@@ -704,10 +771,13 @@ Não importa qual a forma que você usa, todas elas te levarão ao Painel de Con
 * Por padrão ele é dividido em categorias:
 
 <!-- imagem 70 -->
+![imagem 70](/img/Windows_img/Imagem70.png)
+
 
 * Mais é possível alterar o seu layout clicando na opção **Exibir** por
 
 <!-- imagem 71 -->
+![imagem 71](/img/Windows_img/Imagem71.png)
 
 * As 03 formas de exibição são:
  
@@ -720,6 +790,7 @@ Não importa qual a forma que você usa, todas elas te levarão ao Painel de Con
 * Categorias do Painel de Controle e seus itens mais importantes.
 
 <!-- imagem 72 -->
+![imagem 72](/img/Windows_img/Imagem72.png)
 
 ## Conhecendo Itens do Painel de Controle
 
@@ -729,72 +800,87 @@ Firewall é uma forma de proteção, esse componente do Windows ajuda a bloquear
 * Abra o Painel de Controle, clique em Sistema e Segurança
 
 <!-- imagem 73 -->
+![imagem 73](/img/Windows_img/Imagem73.png)
 
 * Clique em Windows Defender Firewall
 
 <!-- imagem 74 -->
+![imagem 74](/img/Windows_img/Imagem74.png)
 
 * Se precisar permitir o acesso de um Aplicativo, clique em permitir um aplicativo ou recurso através do Windows Defender Firewall
 
 <!-- imagem 75 -->
+![imagem 75](/img/Windows_img/Imagem75.png)
 
 * Se o aplicativo estiver na lista, habilite com um clique na caixa, se não clique em Permitir outro aplicativo.
 
 <!-- imagem 76 -->
+![imagem 76](/img/Windows_img/Imagem76.png)
 
 * Indique qual aplicativo e clique em adicionar
 
 <!-- imagem 77 -->
+![imagem 77](/img/Windows_img/Imagem77.png)
 
 * Para alterar as notificações, ativar ou desativar as configurações do Windows Defender Firewall, clique em **Alterar configurações** ou em **Ativar ou Desativar o Windows Defender Firewall** no menu lateral.
 
 <!-- imagem 78 -->
+![imagem 78](/img/Windows_img/Imagem78.png)
 
 * Marque as opções de sua preferência: verde ativa e vermelho desativa o Windows Defender. Nas caixas de seleção, você pode marcar e configurar os bloqueios e as notificações.
 
 <!-- imagem 79 -->
-
+![imagem 79](/img/Windows_img/Imagem79.png)
 * Pode-se ainda restaurar as configurações padrão ou acessar as configurações avançadas.
 
 <!-- imagem 80 -->
+![imagem 80](/img/Windows_img/Imagem80.png)
 
 * Restaurar padrões
 
 <!-- imagem 81 -->
+![imagem 81](/img/Windows_img/Imagem81.png)
 
 Configurações avançadas, nesta área aconselhamos só entrar quem conhece um pouco sobre políticas de segurança do Windows. É muito complexa.
 
 <!-- imagem 82 -->
+![imagem 82](/img/Windows_img/Imagem82.png)
 
 ## Sistema
 
 Nesta área você pode verificar as configurações básicas do computador: Qual o SO instalado e sua versão, o tipo de Sistema, o Processador, a Memória RAM, Nome do Computador e Grupo de Trabalho. Além de permitir acesso à configuração de todos os dispositivos.
 
 <!-- imagem 83 -->
+![imagem 83](/img/Windows_img/Imagem83.png)
 
 Para verificar os **Dispositivos** instalados, clique em **Gerenciador de Dispositivos**
 
 <!-- imagem 84 -->
+![imagem 84](/img/Windows_img/Imagem84.png)
 
 * A tela de **Gerenciador de dispositivos** será exibida, observe bem: se algum sinal de **INTERROGAÇÃO** ou **EXCLAMAÇÃO** aparecer em algum dos dispositivos, neste caso ou não foi reconhecido e instalado corretamente ou está com mau funcionamento. Será necessária a sua desinstalação e reinstalação ou a **Atualização do Driver**. Para isso, clique com o botão direito do mouse sobre esse dispositivo e use a opção correta.
 
 <!-- imagem 85 -->
+![imagem 85](/img/Windows_img/Imagem85.png)
 
 Para fazer conexões remotas entre computadores usando o Windows e a própria rede:
 
 * Clique em **Configurações Remotas**
 
 <!-- imagem 86 -->
+![imagem 86](/img/Windows_img/Imagem86.png)
 
 * Clique em **Remoto** e defina as configurações: **Assistência Remota** ou **Área de Trabalho Remota**, dependendo da sua necessidade. Clique em **Permitir conexões**.
 
 <!-- imagem 87 -->
+![imagem 87](/img/Windows_img/Imagem87.png)
 
 Para os casos em que, após a atualização de algum aplicativo ou do próprio Windows, o SO fica ruim ou apresenta alguns danos (procedimento não recomendado para quem desconhece o SO), podemos recorrer ao recurso de **Restaurar o sistema** para um ponto anterior ao problema:
 
 * Clique em **Proteção do Sistema**, depois em **Restauração do Sistema**, escolha a data, cliqe em **Avançar** e depois em **concluir**.
 
 <!-- imagem 88 -->
+![imagem 88](/img/Windows_img/Imagem88.png)
 
 ## Opções de energia
 
@@ -803,18 +889,21 @@ Sempre que a tela do computador escurece o que normalmente você faz? Movimenta 
 * No **Painel de Controle**, clique em **Sistema e Segurança**
 
 <!-- imagem 89 -->
+![imagem 89](/img/Windows_img/Imagem89.png)
 
 * Em seguida, Opções de energia
 
 <!-- imagem 90 -->
-
+![imagem 90](/img/Windows_img/Imagem90.png)
 * Em Escolher ou personalizar um plano de energia, clique em alterar configurações do plano.
 
 <!-- imagem 91 -->
+![imagem 91](/img/Windows_img/Imagem91.png)
 
 * Agora você pode ajustar melhor ainda. As opções mais comuns são: Disco rígido, suspender, botões de energia e tampa, e vídeo.
 
 <!-- imagem 92 -->
+![imagem 92](/img/Windows_img/Imagem92.png)
 
 ## Ferramentas administrativas
 
@@ -823,22 +912,27 @@ São as ferramentas para uso dos administradores do SO e usuários de conhecimen
 * No Painel de Controle clique em **Sistema e Segurança**
 
 <!-- imagem 93 -->
+![imagem 93](/img/Windows_img/Imagem93.png)
 
 Em seguida, **Ferramentas Administrativas**
 
 <!-- imagem 94 -->
+![imagem 94](/img/Windows_img/Imagem94.png)
 
 * Se você entrou aqui, deve saber o que quer fazer, e como fazer, como foi mencionado acima, área para usuários avançados e administradores.
 
 <!-- imagem 95 -->
+![imagem 95](/img/Windows_img/Imagem95.png)
 
 * Por exemplo, tem algum aplicativo que deve rodar em determinados horário em dias programados e você pretende que o sistema o execute, use o agendador de tarefas, criar tarefa.
 
 <!-- imagem 96 -->
+![imagem 96](/img/Windows_img/Imagem96.png)
 
 * Na tela seguinte as ações e condições
 
 <!-- imagem 97 -->
+![imagem 97](/img/Windows_img/Imagem97.png)
 
 ## Central de rede e compartilhamento
 
@@ -847,18 +941,22 @@ Em **Central de rede e compartilhamento** é possível solucionar problemas da r
 * No Painel de Controle clique em Rede e Internet
 
 <!-- imagem 98 -->
+![imagem 98](/img/Windows_img/Imagem98.png)
 
 * Em seguida, Central de Compartilhamento e Rede
 
 <!-- imagem 99 -->
+![imagem 99](/img/Windows_img/Imagem99.png)
 
 * Na tela seguinte você terá informações da rede, você pode ainda escolher alterar as configurações do adaptador ou Compartilhamento
 
 <!-- imagem 100 -->
+![imagem 100](/img/Windows_img/Imagem100.png)
 
 * Tela par alterar a Configurações do adaptador
 
 <!-- imagem 101 -->
+![imagem 101](/img/Windows_img/Imagem101.png)
 
 · Tela para alterar as configurações de compartilhamento avançadas, nela você deve definir as configurações para os diferentes perfis:
  
@@ -875,10 +973,12 @@ Em **Central de rede e compartilhamento** é possível solucionar problemas da r
    * **Rede Particular / Convidado ou público**
 
    <!-- imagem 102 -->
+![imagem 102](/img/Windows_img/Imagem102.png)
 
   * Todas as Redes  
 
    <!-- imagem 103 -->
+   ![imagem 103](/img/Windows_img/Imagem103.png)
 
 ## Dispositivos e impressoras
 
@@ -895,10 +995,13 @@ Podemos realizar essas entre outras tarefas na pasta de dispositivos e Impressor
 * No Painel de Controle clique em Hardware e Sons
 
 <!-- imagem 104 -->
+![imagem 104](/img/Windows_img/Imagem104.png)
 
 * Em seguida, Central de Compartilhamento e Rede
 
 <!-- imagem 105 e 106-->
+![imagem 105](/img/Windows_img/Imagem105.png)
+![imagem 106](/img/Windows_img/Imagem106.png)
 
 * Para verificar documentos na fila da impressora clique duas vezes sobre a impressora, em sua grande maioria será exibido uma nova ela com todas as informações do dispositivo. Por exemplo, se clicar em HP Deskjet 360 séries como no desenho acima, veja a próxima tela. Essas telas cheias de opções são definidas pelos fabricantes, quer dizer que nem todas as telas terão exatamente as mesmas opções.
 
@@ -909,34 +1012,42 @@ Podemos realizar essas entre outras tarefas na pasta de dispositivos e Impressor
   * Definir preferências
 
 <!-- imagem 107 -->
+![imagem 107](/img/Windows_img/Imagem107.png)
 
 * Em Personalizar a Impressora temos Página teste, compartilhamento
 
 <!-- imagem 108 -->
+![imagem 108](/img/Windows_img/Imagem108.png)
 
 * Para compartilhar, após clicar em compartilhamento
 
 <!-- imagem 109 -->
+![imagem 109](/img/Windows_img/Imagem109.png)
 
 * Clique em alterar opções de compartilhamento
 
 <!-- imagem 110 -->
+![imagem 110](/img/Windows_img/Imagem110.png)
 
 * Marque a opção compartilhar esta impressora e digite um nome para o compartilhamento.
 
 <!-- imagem 111 -->
+![imagem 111](/img/Windows_img/Imagem111.png)
 
 * Para impressoras compartilhadas entre máquinas com diferentes versões do Windows, clique em drives adicionais, e aplicar
 
 <!-- imagem 112 -->
+![imagem 112](/img/Windows_img/Imagem112.png)
 
 * Em definir preferências temos layout do papel, qualidade/papel e atalho para impressão.
 
 <!-- imagem 113 -->
+![imagem 113](/img/Windows_img/Imagem113.png)
 
 * Tornar uma impressora como padrão, clicar com o botão direito sobre a impressora, em seguida em definir como impressora padrão.
 
 <!-- imagem 114 -->
+![imagem 114](/img/Windows_img/Imagem114.png)
 
 ## Som
 
@@ -945,22 +1056,27 @@ Nesta pasta é possível ver as informações sobre os dispositivos de áudio, t
 * No **Painel de Controle**, clique em **Hardware e Sons**
 
 <!-- imagem 115 -->
+![imagem 115](/img/Windows_img/Imagem115.png)
 
 * Em seguida, clique em som
 
 <!-- imagem 116 -->
+![imagem 116](/img/Windows_img/Imagem116.png)
 
 * Em reprodução, é possível escolher o dispositivo. Às vezes você precisa alternar de caixas para som do monitor.
 
 <!-- imagem 117 -->
+![imagem 117](/img/Windows_img/Imagem117.png)
 
 * Em gravação, é possível escolher o dispositivo.
 
 <!-- imagem 118 -->
+![imagem 118](/img/Windows_img/Imagem118.png)
 
 * Em sons, você pode definir seu esquema.
 
 <!-- imagem 119 -->
+![imagem 119](/img/Windows_img/Imagem119.png)
 
 ## Centro de Mobilidade do Windows
 
@@ -969,18 +1085,21 @@ Aplicativo prático que permite ao usuário acessar facilmente aos principais re
 * No Painel de Controle clique em Hardware e Sons
 
 <!-- imagem 120 -->
+![imagem 120](/img/Windows_img/Imagem120.png)
 
 * Em seguida, clique em Centro de Mobilidade do Windows
 
 <!-- imagem 121 -->
+![imagem 121](/img/Windows_img/Imagem121.png)
 
 * Como podemos observar é possível definir alguns pontos importantes antes de fazer uma apresentação, mais um ponto a ser observado é conectar vídeo.
 
 <!-- imagem 122 -->
-
+![imagem 122](/img/Windows_img/Imagem122.png)
 * Pode ser necessário definir como será projetado o vídeo.
 
 <!-- imagem 123 -->
+![imagem 123](/img/Windows_img/Imagem123.png)
 
 ## Programas e Recursos
 
@@ -993,22 +1112,26 @@ Se alguns aplicativos e programas não estiverem funcionando corretamente, neste
 * No Painel de Controle clique em Programas
 
 <!-- imagem 124 -->
+![imagem 124](/img/Windows_img/Imagem124.png)
 
 * Em seguida, clique em Programas e Recursos
 
 <!-- imagem 125 -->
+![imagem 125](/img/Windows_img/Imagem125.png)
 
 * Clique com o botão direito sobre o programa, em seguida na opção desejada.
 
 <!-- imagem 126 -->
+![imagem 126](/img/Windows_img/Imagem126.png)
 
 * Para ativar/desativar um recurso do Windows, na tela acima, clique em ativar ou desativar recursos do Windows
 
 <!-- imagem 127 -->
-
+![imagem 127](/img/Windows_img/Imagem127.png)
 * Use as caixas de seleção para ativar ou desativar um recurso.
 
 <!-- imagem 128 -->
+![imagem 128](/img/Windows_img/Imagem128.png)
 
 ## Programas padrão
 
@@ -1017,22 +1140,27 @@ Usado para definir qual o programa será utilizado quando clicar em um arquivo, 
 * No Painel de Controle clique em Programas
 
 <!-- imagem 129 -->
+![imagem 129](/img/Windows_img/Imagem129.png)
 
 * Em seguida, clique em Programas Padrão
 
 <!-- imagem 130 -->
+![imagem 130](/img/Windows_img/Imagem130.png)
 
 * Nesta tela temos as opções possíveis, vamos conhecer.
 
 <!-- imagem 131 -->
+![imagem 131](/img/Windows_img/Imagem131.png)
 
 * Definir Padrão/Associar um tipo de arquivo/Definir acesso a programas e padrões do computador, clica e escolhe o aplicativo.
 
 <!-- imagem 132 -->
+![imagem 132](/img/Windows_img/Imagem132.png)
 
 * Alterar configuração de Reprodução Automática
 
 <!-- imagem 133 -->
+![imagem 133](/img/Windows_img/Imagem133.png)
 
 ## Contas de Usuário
 
@@ -1046,62 +1174,77 @@ A administrador tem mais direitos o padrão. Por exemplo, só um administrador p
 * No Painel de Controle clique em Contas de Usuário
 
 <!-- imagem 134 -->
+![imagem 134](/img/Windows_img/Imagem134.png)
 
 * Em seguida, clique em Contas de Usuário
 
 <!-- imagem 135 -->
+![imagem 135](/img/Windows_img/Imagem135.png)
 
 * Clique na opção de Alterar o nome, tipo, ou gerenciar outra conta
 
 <!-- imagem 136 -->
+![imagem 136](/img/Windows_img/Imagem136.png)
 
 * Alterar o nome da conta, digitar o novo nome e **Alterar Nome**
 
 <!-- imagem 137 -->
+![imagem 137](/img/Windows_img/Imagem137.png)
 
 * Contas de Usuário Alterar o tipo da conta
 
 <!-- imagem 138 -->
+![imagem 138](/img/Windows_img/Imagem138.png)
 
 * Em Gerenciar outra conta, e escolhe uma conta, ou Adicionar um novo usuário.
 
 <!-- imagem 139 -->
+![imagem 139](/img/Windows_img/Imagem139.png)
 
 * Escolhendo um usuário, pode alterar nome, criar senha, alterar tipo de conta, excluir a conta.
 
 <!-- imagem 140 -->
+![imagem 140](/img/Windows_img/Imagem140.png)
 
 * Criar uma senha
 
 <!-- imagem 141 -->
+![imagem 141](/img/Windows_img/Imagem141.png)
 
 * Excluir uma conta
 
 <!-- imagem 142 -->
+![imagem 142](/img/Windows_img/Imagem142.png)
 
 * Adicionando um novo usuário
 
 <!-- imagem 143 -->
+![imagem 143](/img/Windows_img/Imagem143.png)
 
 * Clique em adicionar outra pessoa
 
 <!-- imagem 144 -->
+![imagem 144](/img/Windows_img/Imagem144.png)
 
 * Clique em não tenho as informações
 
 <!-- imagem 145 -->
+![imagem 145](/img/Windows_img/Imagem145.png)
 
 * Clique em adicionar sem uma conta da Microsoft
 
 <!-- imagem 146 -->
+![imagem 146](/img/Windows_img/Imagem146.png)
 
 * Informar o nome e senha se houver a necessidade
 
 <!-- imagem 147 -->
+![imagem 147](/img/Windows_img/Imagem147.png)
 
 * Observe que a conta foi criada, mais para é necessária clicar nela para que o sistema crie a sua
 
 <!-- imagem 148 -->
+![imagem 148](/img/Windows_img/Imagem148.png)
 
 ## Central de facilidade de acesso
 
@@ -1110,18 +1253,22 @@ Traz algumas ferramentas de que facilitam o uso do computador, em determinadas o
 * No Painel de Controle clique em facilidade de acesso
 
 <!-- imagem 149 -->
+![imagem 149](/img/Windows_img/Imagem149.png)
 
 * Em seguida, clique em Central de facilidade de acesso
 
 <!-- imagem 150 -->
+![imagem 150](/img/Windows_img/Imagem150.png)
 
 * Nesta tela temos algumas opções em destaque, por serem as mais utilizadas, como a Lupa, Narrador, Teclado Virtual e Alto contraste.
 
 <!-- imagem 151 -->
+![imagem 151](/img/Windows_img/Imagem151.png)
 
 Tem ainda algumas opções, lembrando sempre que, ao selecionar uma das configurações, elas serão iniciadas automaticamente
 
 <!-- imagem 152 -->
+![imagem 152](/img/Windows_img/Imagem152.png)
 
 ## Central de Facilidade de Acesso
 
@@ -1130,24 +1277,28 @@ A Lupa amplia parte da tela ou a tela toda para que você possa ver melhor as pa
 * Clique em **Iniciar Lupa**, para sair use a tecla **Windows**  + **ESC**
 
 <!-- imagem 153 -->
+![imagem 153](/img/Windows_img/Imagem153.png)
 
 Existem vários tipos de teclado. O mais comum é o teclado físico externo. Porém, o Windows conta com uma ferramenta chamada teclado virtual, que pode ser usada no lugar de um teclado físico para se movimentar na tela do computador ou inserir texto, e não é necessário que sua tela seja Touch para usá-lo.
 
 * Clique em **Iniciar Teclado Virtual**
 
 <!-- imagem 154 -->
+![imagem 154](/img/Windows_img/Imagem154.png)
 
 O Narrador é um recurso que ajuda principalmente as pessoas com deficiência visual. Ele lê tudo que está presente na tela, e principalmente onde for posicionado o mouse.
 
 * Clique em **Iniciar Narrador**, para sair use a tecla **Caps lock** + **ESC**
 
 <!-- imagem 155 -->
+![imagem 155](/img/Windows_img/Imagem155.png)
 
 Às vezes, o usuário tem dificuldade para ler os textos, identificar links, devido as combinações de cores serem desfavoráveis, Esse tipo de página não são fácil de ler até para pessoas com a visão perfeita, imagine aquele com deficiências visuais. Cores de alto contraste podem facilitar e agilizar a leitura no seu computador.
 
 * Clique em **Configurar o Alto Contraste**, para sair use as teclas **ALT + Shift + PrtScn**
 
 <!-- imagem 156 -->
+![imagem 156](/img/Windows_img/Imagem156.png)
 
 ## Data e hora
 
@@ -1156,18 +1307,22 @@ Aqui alteramos data e hora do Windows e consequentemente do computador, o fuso h
 * No Painel de Controle clique em Relógio e Região
 
 <!-- imagem 157 -->
+![imagem 157](/img/Windows_img/Imagem157.png)
 
 * Em seguida, clique em Data e Hora
 
 <!-- imagem 158 -->
+![imagem 158](/img/Windows_img/Imagem158.png)
 
 Clique em **Alterar data e hora**, e ajuste o calendário e o relógio.
 
 <!-- imagem 159 -->
+![imagem 159](/img/Windows_img/Imagem159.png)
 
 Para exibir relógios com a hora em outros países, clique em **Relógios Adicionais**, em seguida ative as caixas de seleção , **Mostrar este relógio** e ajuste.
 
 <!-- imagem 160 -->
+![imagem 160](/img/Windows_img/Imagem160.png)
 
 ## Região
 
@@ -1176,18 +1331,22 @@ Configuração do formato de data, hora e moeda, e também o layout do teclado.
 * No Painel de Controle clique em Relógio e Região
 
 <!-- imagem 161 -->
+![imagem 161](/img/Windows_img/Imagem161.png)
 
 * Em seguida, clique em Região
 
 <!-- imagem 162 -->
+![imagem 162](/img/Windows_img/Imagem162.png)
 
 * Agora é só definir a configuração de sua preferência
 
 <!-- imagem 163 -->
+![imagem 163](/img/Windows_img/Imagem163.png)
 
 Para mais configurações, clique em **Configurações Adicionais**
 
 <!-- imagem 164 -->
+![imagem 164](/img/Windows_img/Imagem164.png)
 
 # Configurações
 
@@ -1206,14 +1365,17 @@ E vale lembrar: os itens do Painel que aprendemos estão presentes no novo compo
 Ficou de certa forma até mais fácil de navegar na nova tela: ao abrir o painel, clique na caixa de texto e digite o item que precisa encontrar.
 
 <!-- imagem 165 -->
+![imagem 165](/img/Windows_img/Imagem165.png)
 
 Para abrir, na caixa de pesquisa e digite Configurações, em seguida clique na opção certa.
 
 <!-- imagem 166 -->
+![imagem 166](/img/Windows_img/Imagem166.png)
 
 Ou clique no botão Iniciar, Configurações
 
 <!-- imagem 167 -->
+![imagem 167](/img/Windows_img/Imagem167.png)
 
 # Exercícios
 
@@ -1285,6 +1447,7 @@ Já aqueles programas que não vem acoplados aos sistema operacional, e temos qu
 Clique na tecla **Windows** > **Acessório do windows**, em seguida no aplicativo
 
 <!-- Imagem 168  -->
+![imagem 168](/img/Windows_img/Imagem168.png)
 
 * Principais Programas
 
@@ -1305,42 +1468,50 @@ Clique na tecla **Windows** > **Acessório do windows**, em seguida no aplicativ
 * Para abrir clique tecla **Windows** > **Acessórios do Windows** > **Bloco de Notas**
 
 <!-- Imagem 169  -->
+![imagem 169](/img/Windows_img/Imagem169.png)
 
 Após digitar o texto, você faz uso dos menus
 
 <!-- Imagem 170  -->
+![imagem 170](/img/Windows_img/Imagem170.png)
 
 * Algumas dicas 
 
   * Cabeçalho e Rodapé
 
   <!-- Imagem 171  -->
+  ![imagem 171](/img/Windows_img/Imagem171.png)
 
 * Criar um arquivo de voz. Abra o Bloco de notas e digite. Em seguida, clique em Arquivo, Salvar Como, digite o nome do arquivo seguido de (.vbs). Agora, execute o arquivo.  
 
 <!-- Imagem 172  -->
+![imagem 172](/img/Windows_img/Imagem172.png)
 
 * Usá-lo como um diário sem a necessidade de digitar a hora e a data.
 É simples, abra o Bloco de notas e digite (.LOG) na primeira linha. Feche e salve o arquivo com o nome de Diário, feche-o. Abra o Arquivo diário, e observe que a hora e data já estarão.
 
 <!-- Imagem 173  -->
+![imagem 173](/img/Windows_img/Imagem173.png)
 
 * Efeito Matrix, o computador gera números aleatórios. Abra o Bloco de notas e digite os códigos abaixo, salve o arquivo com o nome de Matrix.bat, fecho-o. Execute-o
 
 <!-- Imagem 174  -->
+![imagem 174](/img/Windows_img/Imagem174.png)
 
 * Criar um Mensagem de vírus, falsa é claro. Abra o Bloco de notas, digite os comandos abaixo, salve o arquivo como **vírus.bat**. Execute-o
 
 <!-- Imagem 175  -->
+![imagem 175](/img/Windows_img/Imagem175.png)
 
 * Muito utilizado na criação de páginas web com comandos de HTML. Abra o Bloco de notas, digite os comandos abaixo, salve **Pagina.htm**.
 
 <!-- Imagem 176  -->
+![imagem 176](/img/Windows_img/Imagem176.png)
 
 * Simplesmente digitar textos que não precise de formatação. Abra o Bloco de notas e digite o texto abaixo. Salve com o nome de texto.
 
 <!-- Imagem 177  -->
-
+![imagem 177](/img/Windows_img/Imagem177.png)
 ## WordPad
 
 É um editor de textos simples e discreto que já vem instalado no Windows, e que sempre é considerado como última opção a ser utilizado para digitar textos. Todos nós sabemos que o MS Word vem sempre em primeiro plano, e que até mesmo o bloco ne notas, mesmo sem recursos está à frente. Por isso chamamos o WordPad carinhosamente de Primo pobre do Word.
@@ -1350,6 +1521,7 @@ Porém, se não há uma necessidade de tantos recursos e funcionalidades, e prec
 * Vamos abrir o WordPad e digitar o texto abaixo, em seguida formata-lo, e salvar com o nome de Texto WordPad. Para abrir clique tecla **Windows > Acessórios do windows > wordPad**.
 
 <!-- Imagem 178  -->
+![imagem 178](/img/Windows_img/Imagem178.png)
 
 Texto a ser digitado:
 
@@ -1367,10 +1539,12 @@ Por ter ferramentas de edição em pequena escala, o Paint é muito utilizado na
 **Paint** para abrir clique tecla **Windows > Acessório do Windows > Paint**.
 
 <!-- Imagem 179  -->
+![imagem 179](/img/Windows_img/Imagem179.png)
 
 **Paint 3D** para abrir clique tecla **Windows > Acessório do Windows > Paint 3D**.
 
 <!-- Imagem 180  -->
+![imagem 180](/img/Windows_img/Imagem180.png)
 
 ## Calculadora/Conversor
 
@@ -1402,10 +1576,11 @@ O aplicativo Calculadora para Windows 10 é uma versão Touch da calculadora da 
   * Tipos de Calculadora
 
   <!-- Imagem 181 -->
-
+  ![imagem 181](/img/Windows_img/Imagem181.png)
   * Tipos de Conversores
 
    <!-- Imagem 182 -->
+  ![imagem 182](/img/Windows_img/Imagem182.png)
 
 ## Notas autoadesivas
 
@@ -1414,11 +1589,12 @@ Conhecidas como "Post-Its", são os adesivos amarelos usados para colar em diver
 * Para abrir clique tecla **Windows > Notas Autoadesivas**.
 
 <!-- Imagem 183 -->
+![imagem 183](/img/Windows_img/Imagem183.png)
 
 ** Você adicionar várias mensagens na tela, e mudar de cor em **"..."**.
 
 <!-- Imagem 184 -->
-
+![imagem 184](/img/Windows_img/Imagem184.png)
 ## Ferramenta de captura
 
 Às vezes estamos trabalhando e acontece algum problema, e o computador, exibe uma mensagem de erro, não sabemos como fazer para passar esse código para um técnico exatamente como apresentado na tela. Não seria tão complicado, se as mensagens de erro não fosse em Inglês, ou outra língua, se não Português. Poderia ser Também uma imagem importante para um trabalho que está sendo desenvolvido, no Word, PowerPoint, e precisamos usar a mesma. As novas versões do Windows tem uma ferramenta que ajuda nesse tipo de situação. A Ferramenta de captura é simples, e permite a seleção da área de trabalho, ou parte dela. Essa captura de tela pode ser inclusive de aplicativos em uso, ou mensagem de erro do computador.
@@ -1433,20 +1609,25 @@ Conhecidas como "Post-Its", são os adesivos amarelos usados para colar em diver
 * Para abrir clique tecla **Windows > Acessórios do Windows > Ferramenta de captura**.
 
 <!-- Imagem 185 e 186 -->
+![imagem 185](/img/Windows_img/Imagem185.png)
+![imagem 186](/img/Windows_img/Imagem186.png)
 
 ## Gravador de Passos
 
 É uma ferramenta que já vem instalada no Windows, ela registra cada evento do mouse, e gera um passo a passo de tudo que foi feito. Muito bom para criar tutoriais de passo a passo. Imagine que você precise ensinar a alguém, o uso correto de um sistema, ou como fazer um download, e etc. Esse recurso é ideal, ele registra cada tela que entrou, tecla que usou, texto que digitou. Isso facilita a compreensão de repetir um evento.
 
 <!-- Imagem 187 -->
+![imagem 187](/img/Windows_img/Imagem187.png)
 
 * Para abrir clique tecla **Windows > Acessórios do Windows Gravador de passos**
 
 <!-- Imagem 188 -->
+![imagem 188](/img/Windows_img/Imagem188.png)
 
 * Clique em Iniciar Gravação, execute todo o processo, e ao final, clique em Para Gravação. Clique em Salvar
 
 <!-- Imagem 189 -->
+![imagem 189](/img/Windows_img/Imagem189.png)
 
 Para verificar o arquivo gravado, vá até a pasta, localize o arquivo e clique duas vezes.
 
@@ -1521,51 +1702,61 @@ O primeiro browser foi o World Wide Web, criado em 1990, depois surgiram os outr
 
 - **Google Chrome**
 <!-- Imagem 190 -->
+![imagem 190](/img/Windows_img/Imagem190.png)
 
 É o líder entre os navegadores mais utilizados, se você somar todos os outros 9 navegadores e multiplicar seu resultado por dois, mesmo assim ele fica na frente.
 
 - **Mozilla Firefox**
 <!-- Imagem 191 -->
+![imagem 191](/img/Windows_img/Imagem191.png)
 
 É o segundo entre os navegadores, vem fazendo atualizações e tornando-se cada vez mais um navegador melhor.
 
 - **Internet Explorer**
 <!-- Imagem 192 -->
+![imagem 192](/img/Windows_img/Imagem192.png)
 
 Mesmo com a Microsoft lançando e aprimorando seu substituto, ele ainda sobrevive e continua como um dos preferidos pelos usuários.
 
 - **Edge*
 <!-- Imagem 193 -->
+![imagem 193](/img/Windows_img/Imagem193.png)
 
 A grande novidade é o desempenho. Num teste rápido provou que o uso dos recursos são melhor otimizados, abrindo até seis páginas idênticas entre o Chrome e o Edge, enquanto um consume cerca de 1,4GB de memória, o outro (Edge) apenas 665 MB.
 
 - **Safari**
 <!-- Imagem 194 -->
+![imagem 194](/img/Windows_img/Imagem194.png)
 
 Projetado especialmente para rodar em aparelhos da Apple, é difícil conseguir uma performance melhor em outros navegadores.
 
 - **QQ**
 <!-- Imagem 195 -->
+![imagem 195](/img/Windows_img/Imagem195.png)
 
 É um navegador web para Android desenvolvido pela empresa chinesa Tencent, que oferece as funções comuns que vemos em outros, mas em chinês como janela anônima.
 
 - **Sogou**
 <!-- Imagem 196 -->
+![imagem 196](/img/Windows_img/Imagem196.png)
 
 O que se relata na internet sobre esse browser é de adware malicioso, e não recomendam que o instalem, por que ele altera as configurações e a privacidade do usuário, enviando os URLs aos servidores na China, sem a sua permissão.
 
 - **Opera**
 <!-- Imagem 197 -->
+![imagem 197](/img/Windows_img/Imagem197.png)
 
 Enquanto o Chrome conta com um ecossistema de extensões para fornecer a funcionalidade que os usuários desejam As diferenças aparecem quando você olha para os recursos internos do Opera.
 
 - **Yandex**
 <!-- Imagem 198 -->
+![imagem 198](/img/Windows_img/Imagem198.png)
 
 É um browser que se destaca na Rússia, foi desenvolvido pelos criadores do mecanismo de busca Yandex. Ele é bem parecido com Chrome, no que diz respeito a algumas funções como, uma análise de segurança do website.
 
 - **UC**
 <!-- Imagem 199 -->
+![imagem 199](/img/Windows_img/Imagem199.png)
 
 Browser inicialmente criado para dispositivos móveis ganhou versão para PCs e rapidamente tomou a frente de outros concorrentes, principalmente na China.
 
@@ -1577,29 +1768,35 @@ Vamos supor que precise ler um livro de domínio público **(condição jurídic
 Vamos abrir um Browser (Chrome)
 
 <!-- Imagem 200 -->
+![imagem 200](/img/Windows_img/Imagem200.png)
 
 No campo de pesquisa digite: Dom Casmurro.pdf, tecle ENTER
 
 <!-- Imagem 201 -->
+![imagem 201](/img/Windows_img/Imagem201.png)
 
 Vários links serão exibidos, navegue entre eles, e escolha. Ao clicar, pode ser que ele baixe o arquivo	automaticamente,	observe	se	aparece	um progresso de baixa de arquivo	no canto inferior esquerdo do browser.
 
 <!-- Imagem 202 -->
+![imagem 202](/img/Windows_img/Imagem202.png)
 
 Download arquivos de texto
 
 Pode ser que o arquivo seja aberto na tela, neste caso clique no icone destacado na imagem abaixo para fazer o download
 
 <!-- Imagem 203 -->
+![imagem 203](/img/Windows_img/Imagem203.png)
 
 Uma outra possibilidade pode ser que você seja direcionado para uma nova tela e nela você tenha um botão para download.
 
 <!-- Imagem 204 -->
+![imagem 204](/img/Windows_img/Imagem204.png)
 
 Esse é um exemplo de arquivo de texto o que não muda muito, para baixar apresentação do PowerPoint (.ppt, pptx), que no caso pode navegar nos modelos do office 360, da Microsoft. https://templates.office.com/pt-br/premium-templates, não esqueça de que, nem tudo que está disponível na internet é grátis, em sua grande maioria tem direitos autorais.
 Para arquivos do Excel use as extensões (.xls, .xlsx), observe o exemplo abaixo.
 
 <!-- Imagem 205 -->
+![imagem 205](/img/Windows_img/Imagem205.png)
 
 ## Download de músicas
 
@@ -1608,40 +1805,48 @@ Vamos então ao passo 1 – Pesquisando na internet
 Abra o google, digita o título da música seguida de (mp3) e a palavra download.
 
 <!-- Imagem 206 -->
+![imagem 206](/img/Windows_img/Imagem206.png)
 
 Da mesma forma que aconteceu com a pesquisa dos arquivos de texto, aqui também serão exibidos vários links, navegue entre eles, e escolha, dos sites listados, tem alguns mais famosos como, palcomp3, suamusica, krafta, ou um outro que por ventura você se acostume. Ao clicar, pode ser que ele baixe o arquivo automaticamente, observe se aparece um progresso de baixa de arquivo no canto inferior esquerdo do browser.
 
 <!-- Imagem 207 -->
+![imagem 207](/img/Windows_img/Imagem207.png)
 
 * Download de músicas – palcomp3
 
 Quando entrar no site, observe a barra inferior, e clique no icone destacado na imagem abaixo.
 
 <!-- Imagem 208 -->
+![imagem 208](/img/Windows_img/Imagem208.png)
 
 Observe o canto superior direito da tela irá aparecer o nome da música, sinal que o Download foi feito com sucesso.
 
 <!-- Imagem 209 -->
+![imagem 209](/img/Windows_img/Imagem209.png)
 
 * Download de músicas – suamusica
 
 Quando entrar neste site, observe a barra inferior, e clique em Baixar sem gerenciador
 
 <!-- Imagem 210 -->
+![imagem 210](/img/Windows_img/Imagem210.png)
 
 * Download de músicas – krafta
 
 Quando entrar neste site, observe a barra inferior, e clique em Baixar
 
 <!-- Imagem 211 -->
+![imagem 211](/img/Windows_img/Imagem211.png)
 
 Em seguida clica em Download MP3
 
 <!-- Imagem 212 -->
+![imagem 212](/img/Windows_img/Imagem212.png)
 
 Agora clica em Download
 
 <!-- Imagem 213 -->
+![imagem 213](/img/Windows_img/Imagem213.png)
 
 ## Download arquivos de imagens
 
@@ -1651,14 +1856,17 @@ Vamos lá...
 Abrir o browser, www.google.com.br, clique em Imagens
 
 <!-- Imagem 214 -->
+![imagem 214](/img/Windows_img/Imagem214.png)
 
 Observe que agora você está na pasta de imagens do google. No exemplo abaixo vamos pesquisar imagens de natureza. Pressione **ENTER**.
 
 <!-- Imagem 215 -->
+![imagem 215](/img/Windows_img/Imagem215.png)
 
 Várias imagens serão mostradas na tela, escolha uma e apenas clique sobre ela, veja que uma película da imagem ampliada, é mostrada a direita, clique o botão direito do mouse na imagem. Salvar imagem como, definir nome e local de destino, e clique em Salvar.
 
 <!-- Imagem 216 -->
+![imagem 216](/img/Windows_img/Imagem216.png)
 
 ## Download vídeos do Youtube
 
@@ -1668,23 +1876,27 @@ Com uma dúvida sempre em mente, antes de escrever esse artigo, fiz uma consulta
 Abra o Youtube e pesquise seu vídeo. 
 
 <!-- Imagem 217 -->
+![imagem 217](/img/Windows_img/Imagem217.png)
 
 Copie o endereço do vídeo.
 
 <!-- Imagem 218 -->
+![imagem 218](/img/Windows_img/Imagem218.png)
 
 Pelo navegador acesse savefrom.net.
 
 <!-- Imagem 219 -->
+![imagem 219](/img/Windows_img/Imagem219.png)
 
 Cole o link na barra, e depois em baixar.
 
 <!-- Imagem 220 -->
+![imagem 220](/img/Windows_img/Imagem220.png)
 
 Espere alguns segundos até aparece essa tela, e clique em **baixar MP4 720**
 
 <!-- Imagem 221 -->
-
+![imagem 221](/img/Windows_img/Imagem221.png)
 # Exercício
 
 1) Qual a diferença entre Download e Upload?
