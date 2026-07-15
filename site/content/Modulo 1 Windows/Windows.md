@@ -723,7 +723,9 @@ d. Músicas
 10) Descreva o passo a passo para mover ou copiar arquivos entre pastas.
 
 
-# Aula 03 – Painel de Controle X Configurações
+# Aula 03 
+
+# Painel de Controle X Configurações
 
 O Painel de Controle, tem sido por décadas, uma das ferramentas mais importantes do Windows, no momento de personalização e configuração do computador. Porém, desde o lançamento do Windows 8, que a Microsoft vem apostando em um aplicativo com cara nova, e mais flexível, chamado "Configurações" para realizar algumas tarefas que antes eram feitas apenas no Painel de Controle.
  
@@ -1433,7 +1435,9 @@ d. Ferramenta de configuração do teclado, mouse e monitor.
 
 
 
-# Aula 4 - Acessórios do Windows
+# Aula 4 - 
+
+# Acessórios do Windows
 
 ## O que são os acessórios
 
@@ -1662,7 +1666,7 @@ goto a
 
 10) Crie um passo a passo, abrindo e fechado qualquer aplicativo, salve na área de trabalho com o nome passo 1, e veja seu conteúdo.
 
-# Aula 05 – Termos Técnicos e Downloads
+# Aula 05 –  Termos Técnicos e Downloads
 
 ## Download
 

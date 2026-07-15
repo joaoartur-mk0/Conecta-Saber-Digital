@@ -3,19 +3,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/ia-aplicada/</loc>
+    <loc>http://localhost:1313/modulo-3-open-source/topico-01/</loc>
+    <lastmod>2026-06-22T19:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modulo-1-windows/aula-1---sistema-de-arquivos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/modulo1-windows/aula-1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-=======
     <loc>http://localhost:1313/modulo-2-google-workspace/topico-01/</loc>
     <lastmod>2026-06-22T19:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/modulo-1-windows/topico-01/</loc>
+    <lastmod>2026-06-22T19:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/modulo-3-open-source/topico-02/</loc>
     <lastmod>2026-06-22T19:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/modulo-1-windows/topico-02/</loc>
@@ -48,23 +45,15 @@
     <loc>http://localhost:1313/modulo-6-cidania-digital/topico-01/</loc>
     <lastmod>2026-06-22T19:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modulo-3-open-source/topico-01/</loc>
-    <lastmod>2026-06-22T19:00:00-03:00</lastmod>
->>>>>>> c4be2a3d6b5172c38d0d596fceb21e0d0a8fa49a
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-22T19:00:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/homepage/</loc>
     <lastmod>2026-06-22T19:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/modulo-3-open-source/topico-02/</loc>
+    <loc>http://localhost:1313/modulo-1-windows/windows/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/modulo-1-windows/</loc>
-  </url><url>
-    <loc>http://localhost:1313/modulo1-windows/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

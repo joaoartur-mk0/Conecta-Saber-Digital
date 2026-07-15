@@ -1,0 +1,232 @@
+# Explorador de Arquivos
+
+## O que é o Explorador de Arquivos
+
+Explorador de arquivos, que também já foi chamado de Gerenciador de arquivos nas primeiras versões do Windows e a pouco tempo era conhecido como Windows Explorer, é um gerenciador de arquivos e pastas do sistema Windows. É utilizado para copiar, excluir, organizar, e mover pastas, documentos. É representado por um ícone em forma de uma pasta amarela na Barra de Tarefas, mais pode ser aberto ou executado de outras formas, essa é a mais fácil e mais usada.
+ 
+ <!-- imagem 36 -->
+ ![imagem 36](/img/Windows_img/Imagem36.png)
+
+ ## O que compõe o Explorador de Arquivos
+
+ <!-- imagem 37 -->
+ ![imagem 37](/img/Windows_img/Imagem37.png)
+
+ # Guias do Explorador
+
+ ## Guias do Explorador de arquivos
+ 
+ ### Menu Arquivo
+
+ <!-- imagem 38 -->
+ ![imagem 38](/img/Windows_img/Imagem38.png)
+
+ ### Guia Inicio
+
+ <!-- imagem 39 -->
+ ![imagem 39](/img/Windows_img/Imagem39.png)
+
+ ### Guia Compartilhar
+
+<!-- imagem 40 -->
+![imagem 40](/img/Windows_img/Imagem40.png)
+
+### Guia Exibir
+
+<!-- imagem 41 -->
+![imagem 41](/img/Windows_img/Imagem41.png)
+
+## Mais o que mudou no Explorador de Arquivos no Windows 10?
+ 
+* O OneDrive agora faz parte do Explorador de Arquivos.
+* Quando o Explorador de Arquivos for aberto, você entrará no Acesso rápido. As pastas usadas com frequência e os arquivos usados recentemente ficam listados ali, assim você não precisa procurar por eles uma série de pastas para encontrá-los.
+* Agora, você pode usar aplicativos para compartilhar arquivos e fotos diretamente de Explorador de Arquivos. Selecione os arquivos que deseja compartilhar, acesse a guia **Compartilhar**, selecione o botão **Compartilhar** e, em seguida, escolha um aplicativo.
+* Meu computador agora é chamado Este Computador e ele não aparecerá na área de trabalho por padrão.
+* As bibliotecas não aparecerão no Explorador de Arquivos, a menos que você queira. Para adicioná-las ao painel esquerdo, selecione a aba **Exibição** > **Painel de navegação** > **Mostrar bibliotecas**.
+
+## Trabalhando com Pastas e Arquivos
+
+### Barra de Acesso Rápido
+ 
+* **Personalizando a Barra de acesso rápido do Explorador de Arquivos:**
+    * Clique na Barra e ative o item desejado.
+
+    <!-- imagem 42 -->
+    ![imagem 42](/img/Windows_img/Imagem42.png)
+
+* **Criando uma Pasta usando o Explorador de Arquivos**
+
+    <!-- imagem 43 -->
+    ![imagem 43](/img/Windows_img/Imagem43.png)
+
+## Manipulando Pastas e Arquivos 
+
+### Manipulando Pasta/Arquivo
+
+* **Trocando o nome da Pasta**
+
+Para trocar o nome da Pasta ou de um Arquivo (renomear), clique sobre a Pasta ou arquivo, e na guia início, Renomear, e digitar o novo nome.
+
+<!-- imagem 44 -->
+![imagem 44](/img/Windows_img/Imagem44.png)
+
+
+* **Excluindo/Deletando Pastas ou Arquivos**
+
+Para Excluir/Deletar uma Pasta ou Arquivo, clique sobre o item a ser excluído/deletado, e em seguida na Guia início, clique em Excluir.
+
+<!-- imagem 45 -->
+![imagem 45](/img/Windows_img/Imagem45.png)
+
+
+* **Movendo ou Copiando Pastas e Arquivos**
+
+Para mover ou copiar Pastas ou Arquivos, clique sobre a Pasta ou Arquivo, e na guia Início, **Mover para** ou **Copiar para**, e clique na Pasta destino.
+
+<!-- imagem 46 -->
+![imagem 46](/img/Windows_img/Imagem46.png)
+
+
+* **Selecionando Arquivos / Pastas**
+
+    * Para selecionar um único arquivo ou uma pasta, apenas clique sobre o item desejado.
+    * Para selecionar arquivos ou pastas sequenciais, clique no primeiro item, segure a tecla **SHIFT** e em seguida clique no último arquivo da seleção de arquivos ou pastas.
+    * Para selecionar arquivos ou pastas alternadas, clique no primeiro item, segure a tecla **CTRL** e vá clicando nos itens da seleção de arquivos ou pastas.
+
+* **Selecionando todos Arquivos / Pastas de uma vez**
+ 
+ <!-- imagem 47 -->
+ ![imagem 47](/img/Windows_img/Imagem47.png)
+ 
+ 
+* **Abrindo arquivos com Aplicativos específicos (abrir com)**
+    * Para Abrir um arquivo com o aplicativo específico, clique sobre o arquivo, em seguida na guia Início, em seguida em Abrir, ou clique com o botão direito do mouse, em seguida abrir com, e selecione o aplicativo.
+
+<!-- imagem 48 -->
+![imagem 48](/img/Windows_img/Imagem48.png)
+
+* **Visualizando os detalhes da Pasta ou Arquivo**
+
+Para saber os detalhes de um disco, pasta ou arquivo, clique sobre ele depois acione os Detalhes. Em seguida uma tela com todas as propriedades será exibida. Se quiser pode clicar no item propriedades da Guia Início.
+
+<!-- imagem 49 -->
+![imagem 49](/img/Windows_img/Imagem49.png)
+
+
+* **Às vezes o arquivo precisa ser compartilhado, ou enviado para alguém.**
+
+Para compartilhar clique sobre o item, em seguida em Compartilhar na guia compartilhar
+
+<!-- imagem 50 -->
+![imagem 50](/img/Windows_img/Imagem50.png)
+
+ 
+* **Os itens serão exibidos na tela, escolha um deles e siga o passo a passo.**
+
+<!-- imagem 51 -->
+![imagem 51](/img/Windows_img/Imagem51.png)
+ 
+
+* **Compartilhando pastas ou arquivos pelo Outlook**
+
+   * Selecione o item a ser enviado pelo Outlook, na guia Compartilhar clique no item Email.
+
+<!-- imagem 52 -->
+![imagem 52](/img/Windows_img/Imagem52.png)
+
+
+* **Outra opção muito importante e útil na guia Compartilhar é o Zip (compactar)**
+    * Às vezes o arquivo/pasta a ser enviado ou gravado é muito grande, o que se pode fazer neste momento é compactar.
+    * Clique no item e, na Guia Compartilhar, clique em Zip.
+
+<!-- imagem 53 -->
+![imagem 53](/img/Windows_img/Imagem53.png)
+
+ 
+* **Imprimir arquivos é claro que o mais simples quando ele está aberto em uso**
+    * Porém, o usuário pode imprimir clicando o botão direito do mouse, em seguida em imprimir.
+    * Pode também no explorador de arquivos, clicar no arquivo e na guia Compartilhar, clicar em imprimir.
+
+<!-- imagem 54 -->
+![imagem 54](/img/Windows_img/Imagem54.png)
+
+
+* **A guia Exibir tem algumas formas de visualizar as pastas e arquivos**
+ 
+    * Forma Normal, usando as opções de painéis, você pode personalizar.
+
+    <!-- imagem 55 -->
+    ![imagem 55](/img/Windows_img/Imagem55.png)
+
+
+* Pode ver os arquivos em um layout melhor, com ou sem detalhes: Nome, Data, Tipo, Local. Para ver dessa forma, usamos a opção de Layout.
+
+  <!-- imagem 56 -->
+  ![imagem 56](/img/Windows_img/Imagem56.png)
+
+
+* Podemos ainda organizar as pastas e arquivos por data, por tipo, e etc. Usando a opção de Exibição atual
+
+<!-- imagem 57 -->
+![imagem 57](/img/Windows_img/Imagem57.png)
+
+ 
+* Podemos também mostrar ou ocultar algumas colunas no explorador, para isso usamos a opção de Mostrar/ocultar.
+
+<!-- imagem 58 -->
+![imagem 58](/img/Windows_img/Imagem58.png)
+
+## Pesquisando Pasta/Arquivo
+ 
+* Às vezes gravamos um arquivo ou pasta e nos esquecemos do nome, não se preocupe porque é possível fazer uma pesquisa de uma forma simples. Use a caixa de pesquisa e lá digite o nome ou parte dele, ou se quiser o tipo de arquivo.
+
+<!-- imagem 59 -->
+![imagem 59](/img/Windows_img/Imagem59.png)
+
+* Vai aparecer uma nova guia no explorador. Chamada pesquisar, no momento em que clicar na caixa de pesquisa, ela facilita ainda mais a pesquisa.
+
+<!-- imagem 60 -->
+![imagem 60](/img/Windows_img/Imagem60.png)
+
+## Gerenciando Pasta/Arquivo
+ 
+* Quando clicamos em alguma arquivo de imagem ele exibe a guia Gerenciar. Mais para entender melhor esse recurso, habilite a opção **Painel de Visualização** na guia Exibir, grupos painéis.
+
+<!-- imagem 61 -->
+ ![imagem 61](/img/Windows_img/Imagem61.png)
+
+* Quando clicamos em alguma arquivo de áudio ele exibe a guia Reproduzir. Mais para entender melhor esse recurso, habilite a opção **Painel de visualização** na guia exibir, grupo painéis.
+
+<!-- imagem 62 -->
+![imagem 62](/img/Windows_img/Imagem62.png)
+
+# Exercícios 
+
+1) O que é o Explorador de Arquivos e como já foi Conhecido em versões anteriores?
+a. Gerenciador de Arquivos e Pastas, onde podemos organizar, copiar, excluir, e criar, já foi chamado de Gerenciador de Impressão e Windows Explorer.
+b. Gerenciador de Arquivos e Pastas, onde podemos organizar, copiar, excluir, e criar, já foi chamado de Gerenciador de Imagens e Windows Explorer.
+c. Gerenciador de Arquivos e Pastas, onde podemos organizar, copiar, excluir, e criar, já foi chamado de Gerenciador de Arquivos e Windows Explorer.
+d. Gerenciador de Arquivos e Pastas, onde podemos organizar, copiar, excluir, e criar, já foi chamado de Gerenciador de Aplicativos e Windows Explorer.
+ 
+2) De que forma podemos abrir o Explorador de Arquivos?
+ 
+3) Abra o Explorador de Arquivos e, através dele Crie uma pasta Chamada Explorador, dentro da Biblioteca Documentos
+ 
+4) Ainda no Explorador mude o nome da pasta para Explorador de Arquivos
+ 
+5) Abra a Biblioteca Documentos, e organize os arquivos por tipo.
+ 
+6) Ative no Painel de Navegação a opção para mostrar todas as pastas.
+ 
+7) Ative o Painel de Visualização e clique em um arquivo, depois ative o painel de detalhes e clique no mesmo arquivo, e agora escreva qual a diferença entre as opções ativadas.
+ 
+8) Para aparecer a guia de Gerenciar, clicamos em que tipo de arquivo
+a. Pastas
+b. Documentos
+c. Imagens
+d. Músicas
+ 
+9) Qual o passo a passo para compartilhar um arquivo pelo Email ou Outlook, usando o Explorador de Arquivos.
+ 
+ 
+10) Descreva o passo a passo para mover ou copiar arquivos entre pastas.

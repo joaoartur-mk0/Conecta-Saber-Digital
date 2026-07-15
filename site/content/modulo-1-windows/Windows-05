@@ -1,0 +1,250 @@
+# Aula 05 –  Termos Técnicos e Downloads
+
+1) **Download**
+
+É a ação de baixar/transferir informações (Textos, imagens, músicas, vídeos, filmes, e etc.) da internet para seu equipamento, que pode ser computador ou celular. Esse tipo de cópia de arquivos, pode ser feita de forma dedicada (FTP), quanto pelo simples acesso a uma página da Internet no navegador.
+O ideal seria dizer que basicamente, ao acessar a internet e navegar, já estamos tecnicamente fazendo download, por que, ao cessa uma página ele está na verdade baixando-a para o seu computador.
+** Cuidado! Fazer download de algo na internet, há uma variedade de sites disponibilizando arquivos, que podem ser gratuitos ou não, atente-se ao risco de infectar a máquina com vírus que muitas vezes vem acoplados aos arquivos baixados, principalmente os executáveis (.exe), e não são poucos os arquivos maliciosos que circulam pela rede.
+Mesmo assim, a cada dia está se tornando um hábito comum, as empresas disponibilizarem seus softwares a partir de downloads, já existem até lojas para isso, é simples veja a AppStore (Apple e Android), e a Google Play da Google.
+
+2) **Upload**
+
+É a ação inversa ao download. Ocorre quando o usuário envia arquivos de texto, vídeo ou imagens do seu computador para a internet.
+
+3) **Upgrade** 
+
+Termo usado na área da informática e de equipamentos eletrônicos, quando se refere à troca de hardware, software ou um BIOS por uma versão melhor ou mais recente, melhorando a funcionalidade do equipamento.
+Upgrade também é um termo usado para a compra de novos equipamentos, principalmente quando envolvem novas tecnologias.
+Update
+Significa **“atualizar”** ou **“modernizar”**. Esta palavra costuma ser utilizada para se referir às versões mais recentes de determinada tecnologia, como softwares, jogos eletrônicos e etc.
+
+4) **Browser**
+
+É o programa utilizado para navegar na web, ele é capaz de processar diversas linguagens, como HTML, ASP, PHP. Sua interface gráfica vai variar de acordo com o quem desenvolveu, e quem escolhe qual usar é o próprio usuário. O browser é responsável pela comunicação com os servidores, é ele que processa os dados recebidos pelos servidores da Internet e processa as respostas.
+
+O primeiro browser foi o World Wide Web, criado em 1990, depois surgiram os outros. Hoje os principais são:
+  - Google Chrome
+  - Mozilla Firefox
+  - Internet Explorer
+  - Edge
+  - Safari
+  - QQ
+  - Sogou Explorer
+  - Opera
+  - Yandex
+  - UC Browser
+
+**Principais Browsers**
+
+- **Google Chrome**
+<!-- Imagem 190 -->
+![imagem 190](/img/Windows_img/Imagem190.png)
+
+É o líder entre os navegadores mais utilizados, se você somar todos os outros 9 navegadores e multiplicar seu resultado por dois, mesmo assim ele fica na frente.
+
+- **Mozilla Firefox**
+<!-- Imagem 191 -->
+![imagem 191](/img/Windows_img/Imagem191.png)
+
+É o segundo entre os navegadores, vem fazendo atualizações e tornando-se cada vez mais um navegador melhor.
+
+- **Internet Explorer**
+<!-- Imagem 192 -->
+![imagem 192](/img/Windows_img/Imagem192.png)
+
+Mesmo com a Microsoft lançando e aprimorando seu substituto, ele ainda sobrevive e continua como um dos preferidos pelos usuários.
+
+- **Edge*
+<!-- Imagem 193 -->
+![imagem 193](/img/Windows_img/Imagem193.png)
+
+A grande novidade é o desempenho. Num teste rápido provou que o uso dos recursos são melhor otimizados, abrindo até seis páginas idênticas entre o Chrome e o Edge, enquanto um consume cerca de 1,4GB de memória, o outro (Edge) apenas 665 MB.
+
+- **Safari**
+<!-- Imagem 194 -->
+![imagem 194](/img/Windows_img/Imagem194.png)
+
+Projetado especialmente para rodar em aparelhos da Apple, é difícil conseguir uma performance melhor em outros navegadores.
+
+- **QQ**
+<!-- Imagem 195 -->
+![imagem 195](/img/Windows_img/Imagem195.png)
+
+É um navegador web para Android desenvolvido pela empresa chinesa Tencent, que oferece as funções comuns que vemos em outros, mas em chinês como janela anônima.
+
+- **Sogou**
+<!-- Imagem 196 -->
+![imagem 196](/img/Windows_img/Imagem196.png)
+
+O que se relata na internet sobre esse browser é de adware malicioso, e não recomendam que o instalem, por que ele altera as configurações e a privacidade do usuário, enviando os URLs aos servidores na China, sem a sua permissão.
+
+- **Opera**
+<!-- Imagem 197 -->
+![imagem 197](/img/Windows_img/Imagem197.png)
+
+Enquanto o Chrome conta com um ecossistema de extensões para fornecer a funcionalidade que os usuários desejam As diferenças aparecem quando você olha para os recursos internos do Opera.
+
+- **Yandex**
+<!-- Imagem 198 -->
+![imagem 198](/img/Windows_img/Imagem198.png)
+
+É um browser que se destaca na Rússia, foi desenvolvido pelos criadores do mecanismo de busca Yandex. Ele é bem parecido com Chrome, no que diz respeito a algumas funções como, uma análise de segurança do website.
+
+- **UC**
+<!-- Imagem 199 -->
+![imagem 199](/img/Windows_img/Imagem199.png)
+
+Browser inicialmente criado para dispositivos móveis ganhou versão para PCs e rapidamente tomou a frente de outros concorrentes, principalmente na China.
+
+5) **Download arquivos de texto**
+
+No momento em que se faz necessário fazer um download de um arquivo de texto, é bom saber que você pode baixar arquivos com extensão .txt, .doc. pdf.
+Vamos supor que precise ler um livro de domínio público **(condição jurídica na qual uma obra não possui o elemento do direito real ou de propriedade que tem o direito autoral, não havendo, assim, restrição de uso de uma obra por qualquer um que queira utilizá-la.)**. Nestes casos podemos fazer o download.
+
+Vamos abrir um Browser (Chrome)
+
+<!-- Imagem 200 -->
+![imagem 200](/img/Windows_img/Imagem200.png)
+
+No campo de pesquisa digite: Dom Casmurro.pdf, tecle ENTER
+
+<!-- Imagem 201 -->
+![imagem 201](/img/Windows_img/Imagem201.png)
+
+Vários links serão exibidos, navegue entre eles, e escolha. Ao clicar, pode ser que ele baixe o arquivo	automaticamente,	observe	se	aparece	um progresso de baixa de arquivo	no canto inferior esquerdo do browser.
+
+<!-- Imagem 202 -->
+![imagem 202](/img/Windows_img/Imagem202.png)
+
+Download arquivos de texto
+
+Pode ser que o arquivo seja aberto na tela, neste caso clique no icone destacado na imagem abaixo para fazer o download
+
+<!-- Imagem 203 -->
+![imagem 203](/img/Windows_img/Imagem203.png)
+
+Uma outra possibilidade pode ser que você seja direcionado para uma nova tela e nela você tenha um botão para download.
+
+<!-- Imagem 204 -->
+![imagem 204](/img/Windows_img/Imagem204.png)
+
+Esse é um exemplo de arquivo de texto o que não muda muito, para baixar apresentação do PowerPoint (.ppt, pptx), que no caso pode navegar nos modelos do office 360, da Microsoft. https://templates.office.com/pt-br/premium-templates, não esqueça de que, nem tudo que está disponível na internet é grátis, em sua grande maioria tem direitos autorais.
+Para arquivos do Excel use as extensões (.xls, .xlsx), observe o exemplo abaixo.
+
+<!-- Imagem 205 -->
+![imagem 205](/img/Windows_img/Imagem205.png)
+
+6) **Download de músicas**
+
+Já aconteceu de você lembrar de uma música antiga? É, aquela que de alguma forma faz parte da sua vida, que te leva para algum momento, de preferência um momento bom, ou lembra alguém, e você quer baixar para ouvir a qualquer momento. Se não sabia como fazer isso, agora chegou o momento de aprender. Vamos conhecer aqui, duas formas de executar esses processo, uma delas é pesquisando diretamente no google por exemplo, e outra baixando diretamente pelo Youtube. Tudo isso sem a necessidade de instalar qualquer aplicativo em seu computador.
+Vamos então ao passo 1 – Pesquisando na internet
+Abra o google, digita o título da música seguida de (mp3) e a palavra download.
+
+<!-- Imagem 206 -->
+![imagem 206](/img/Windows_img/Imagem206.png)
+
+Da mesma forma que aconteceu com a pesquisa dos arquivos de texto, aqui também serão exibidos vários links, navegue entre eles, e escolha, dos sites listados, tem alguns mais famosos como, palcomp3, suamusica, krafta, ou um outro que por ventura você se acostume. Ao clicar, pode ser que ele baixe o arquivo automaticamente, observe se aparece um progresso de baixa de arquivo no canto inferior esquerdo do browser.
+
+<!-- Imagem 207 -->
+![imagem 207](/img/Windows_img/Imagem207.png)
+
+* Download de músicas – palcomp3
+
+Quando entrar no site, observe a barra inferior, e clique no icone destacado na imagem abaixo.
+
+<!-- Imagem 208 -->
+![imagem 208](/img/Windows_img/Imagem208.png)
+
+Observe o canto superior direito da tela irá aparecer o nome da música, sinal que o Download foi feito com sucesso.
+
+<!-- Imagem 209 -->
+![imagem 209](/img/Windows_img/Imagem209.png)
+
+* Download de músicas – suamusica
+
+Quando entrar neste site, observe a barra inferior, e clique em Baixar sem gerenciador
+
+<!-- Imagem 210 -->
+![imagem 210](/img/Windows_img/Imagem210.png)
+
+* Download de músicas – krafta
+
+Quando entrar neste site, observe a barra inferior, e clique em Baixar
+
+<!-- Imagem 211 -->
+![imagem 211](/img/Windows_img/Imagem211.png)
+
+Em seguida clica em Download MP3
+
+<!-- Imagem 212 -->
+![imagem 212](/img/Windows_img/Imagem212.png)
+
+Agora clica em Download
+
+<!-- Imagem 213 -->
+![imagem 213](/img/Windows_img/Imagem213.png)
+
+7) **Download arquivos de imagens**
+
+Às vezes você está desenvolvendo um trabalho no Word, Excel ou uma apresentação no PowerPoint, e de repente de depara com a necessidade de inserir uma imagem referente ao assunto, só que você não tem em PenDrive, HD, Celular, ou CD/DVD. O que fazer neste momento? Uma dica é recorrer ao Google Imagens, sim, o Google tem uma pasta de imagens, que é simples de pesquisar e de fazer o download. Não esqueça de que nem todas a imagens que estão disponíveis na Web, são de uso livre. Se não for fotos pessoais, mesmo assim, procure dar o crédito à quem fez upload.
+Vamos lá...
+
+Abrir o browser, www.google.com.br, clique em Imagens
+
+<!-- Imagem 214 -->
+![imagem 214](/img/Windows_img/Imagem214.png)
+
+Observe que agora você está na pasta de imagens do google. No exemplo abaixo vamos pesquisar imagens de natureza. Pressione **ENTER**.
+
+<!-- Imagem 215 -->
+![imagem 215](/img/Windows_img/Imagem215.png)
+
+Várias imagens serão mostradas na tela, escolha uma e apenas clique sobre ela, veja que uma película da imagem ampliada, é mostrada a direita, clique o botão direito do mouse na imagem. Salvar imagem como, definir nome e local de destino, e clique em Salvar.
+
+<!-- Imagem 216 -->
+![imagem 216](/img/Windows_img/Imagem216.png)
+
+8) **Download vídeos do Youtube**
+
+Lembrando sempre que existem regras estabelecidas pelo Youtube, de que você não deve baixar vídeos, músicas ou qualquer conteúdo do site, você poderá perder sua conta no mesmo.
+Com uma dúvida sempre em mente, antes de escrever esse artigo, fiz uma consulta na web sobre o assunto, e encontrei um advogado que justifica que não é deve ser considerado crime, o ato de baixar para uso próprio, qualquer dúvida assistam ao vídeo, vou deixar o link no final desse artigo.
+
+Abra o Youtube e pesquise seu vídeo. 
+
+<!-- Imagem 217 -->
+![imagem 217](/img/Windows_img/Imagem217.png)
+
+Copie o endereço do vídeo.
+
+<!-- Imagem 218 -->
+![imagem 218](/img/Windows_img/Imagem218.png)
+
+Pelo navegador acesse savefrom.net.
+
+<!-- Imagem 219 -->
+![imagem 219](/img/Windows_img/Imagem219.png)
+
+Cole o link na barra, e depois em baixar.
+
+<!-- Imagem 220 -->
+![imagem 220](/img/Windows_img/Imagem220.png)
+
+Espere alguns segundos até aparece essa tela, e clique em **baixar MP4 720**
+
+<!-- Imagem 221 -->
+![imagem 221](/img/Windows_img/Imagem221.png)
+# Exercício
+
+1) Qual a diferença entre Download e Upload?
+
+2) De acordo com a lei, é proibido baixar arquivos na WEB, principalmente qual tido?
+
+3) Baixe uma música do seu gosto pelo navegador ou Youtube.
+
+4) Faça o Download de algum livro de domínio público.
+
+5) Baixe um vídeo pelo Youtube
+
+6) Faça o download de pelo menos 3 imagens.
+
+7) Qual foi sua maior dificuldade nesta aula?
