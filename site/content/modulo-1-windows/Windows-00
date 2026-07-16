@@ -1,28 +1,49 @@
 # Sumário
 
-## 1. Aula 01 – Conhecendo o Windows 10
+## 1. Aula 01 – Introdução à Informática
 
-- 1.1. Introdução ao Windows 10
-- 1.2. Softwares
-  - 1.2.1. O que são Softwares 
-  - 1.2.2. Softwares Básicos (Sistema Operacional) 
-  - 1.2.3. Softwares de Aplicativos 
-- 1.3. Versões do Windows
-  - 1.3.1. Do Windows 3.0 ao Windows 10 
-  - 1.3.2. Versão do Windows Atual 
-- 1.4. Área de Trabalho
-  - 1.4.1. Partes Básicas da Área de Trabalho
-  - 1.4.2. Personalizando a Área de Trabalho
-  - 1.4.3. Função do Botão Iniciar
-  - 1.4.4. Conhecendo a Barra de Tarefas
-  - 1.4.5. Personalizando Cores
-  - 1.4.6. Tela de Bloqueio
-  - 1.4.7. Proteção de Tela
-  - 1.4.8. Temas do Windows
-  - 1.4.9. Fontes do Windows
-  - 1.4.10. Personalizando o Botão Iniciar
-  - 1.4.11. Personalizando a Barra de Tarefas
-- 1.5. Exercício da Aula 01
+- 1.1. Resumo da História
+- 1.2. Sistema Computacional
+- 1.3. Conhecendo o Computador
+  - 1.3.1. O que é o Computador
+  - 1.3.2. Classificação dos Computadores
+- 1.4. Hardware
+  - 1.4.1. Conceito
+  - 1.4.2. Motherboard
+  - 1.4.3. CPU
+  - 1.4.4. Hard Disk
+  - 1.4.5. Memória RAM e ROM
+  - 1.4.6. Fonte de Alimentação
+  - 1.4.7. Monitor
+  - 1.4.8. Teclado
+  - 1.4.9. Mouse
+  - 1.4.10. Gabinete
+  - 1.4.11. Nobreak
+- 1.5. Periféricos
+  - 1.5.1. O que são os periféricos
+  - 1.5.2. Periféricos de Entrada
+  - 1.5.3. Periféricos de Saída
+  - 1.5.4. Periféricos de Entrada e Saída
+- 1.6. Softwares
+  - 1.6.1. O que são Softwares
+  - 1.6.2. Softwares Básicos (Sistema Operacional)
+  - 1.6.3. Softwares de Aplicativos
+- 1.7. Versões do Windows
+  - 1.7.1. Do Windows 3.0 ao Windows 10
+  - 1.7.2. Versão do Windows Atual
+- 1.8. Área de Trabalho
+  - 1.8.1. Partes Básicas da Área de Trabalho
+  - 1.8.2. Personalizando a Área de Trabalho
+  - 1.8.3. Função do Botão Iniciar
+  - 1.8.4. Conhecendo a Barra de Tarefas
+  - 1.8.5. Personalizando Cores
+  - 1.8.6. Tela de Bloqueio
+  - 1.8.7. Proteção de Tela
+  - 1.8.8. Temas do Windows
+  - 1.8.9. Fontes do Windows
+  - 1.8.10. Personalizando o Botão Iniciar
+  - 1.8.11. Personalizando a Barra de Tarefas
+- 1.9. Exercício da Aula 01
 
 ## 2. Aula 02 – Trabalhando com o Explorador de Arquivos
 
