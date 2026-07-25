@@ -1,0 +1,445 @@
+# Aula 1 -  Introdução à Informática
+
+# Resumo da História
+
+Sua história se confunde com a própria história humana, denominando-a de ciência da informação. Pois os dedos foram os primeiros meios a serem utilizados pelo homem para fazer seus cálculos, por que não havia naquela época cálculos complexos, eram apenas cálculos simples.
+ 
+Com a crescimento da sociedade avançando de forma considerada, foram surgindo problemas mais complicados, com situações que necessitavam de se fazer cálculos cada vez maiores e complexos. Então veio a necessidade de se criar uma solução, eis que surge o que hoje chamamos de primeiro instrumento criado especialmente para ajudar na realização desses cálculos: o Ábaco, surgiu e foi utilizado por mais de 5.000 anos e até hoje vem sendo utilizado, mesmo com alguns propósitos e modificações em determinados lugares do mundo.
+ 
+No processo de continuidade dessas invenções, vieram:
+ 
+* **La pascaline (1642)**, a famosa máquina de cálculos de Pascal, que através de seu uso seria capaz de somar e subtrair por meio de engrenagens mecânicas.
+* **Leibniz (1671)**, máquina de calcular que adicionou à La pascaline os recursos de multiplicação e divisão.
+* **Charles Babbage**, projetou em 1823 a "máquina diferencial" e em 1834 a máquina analítica; embora elas não tenham sido concluídas, serviram de inspiração para a criação de uma série de equipamentos. Por essa colaboração, foi ele considerado o pai dos computadores.
+* **Hollerith (1880)**, criou uma máquina para tabular o censo nos EUA. Foi a primeira utilização de cartão perfurado da história. Os resultados obtidos, a tentativa de generalizar seu uso em aplicações comerciais.
+ 
+Anos depois foi criada a IBM, Internation Business Machines. Em 1906 surge a eletrônica moderna que possibilitou o processamento, a comunicação e o armazenamento de dados, processo que se achava quase impossível através do mecanismo eletromecânico. Ainda em 1906 foi inventada a válvula eletrônica pelo engenheiro norte-americano Lee De Forest.
+ 
+Em 1946 foi apresentado o ENIAC, máquina considerada como o primeiro grande computador, ele funcionava com milhares válvulas eletrônicas, pesava toneladas e ocupava um espaço considerável de aproximadamente 180 m2. Foi projetado durante o curso da segunda guerra, mundial, com o objetivo de fazer cálculos precisos no bombardeamento e disparo. Foi idealizado e desenvolvido na Pensilvânia em 1943 por John Mauchly e J. Presper Eckert.
+ 
+O que veio causar impacto e um verdadeiro avanço na eletrônica e para substituir a válvula foi a criação dos transistores em 1947, foi realmente uma verdadeira revolução, um grande passo para a evolução tecnológica. Através da diminuição do tamanho dos componentes eletrônicos, deu o aparecimento dos primeiros computadores científicos e comerciais, por volta de 1964, o que fez movimentar algumas empresas americanas rumo a criação do CI (Circuito Integrado), que a era um componente eletrônico com centenas ou milhares de transistores.
+ 
+Nos anos 60, foi criado o CHIP chamando de microprocessador, considerado o "cérebro" do computador, feito de silício, integrados por componentes eletrônicos necessários para o funcionamento do computador. E foi graças ao surgimento do microprocessador, que vieram os primeiros PC´s.
+
+## Sistema Computacional
+
+Um sistema computacional consiste num conjunto de dispositivos eletrônicos (hardware) capazes de processar informações de acordo com um programa (software), e o usuário (peopleware) que se utiliza dos meios para executar tarefas do dia a dia. 
+
+<!-- imagem 222 -->
+![imagem 222](/img/Windows_img/Imagem222.png)
+
+O software mais importante é o sistema operacional, porque ele fornece as bases para a execução das aplicações, às quais o usuário deseja executar. (Dicionário)
+
+Ele tem como função, gerenciar todos o composto físico da máquina, bem como todos os programas instalados sobre ele, os aplicativos, que nada mais, nem nada menos são, que programas criados para atender a necessidades especificas, como criar documento de textos, planilhas eletrônicas, montagem de fotos, criação de logos, games, banners, e etc. Já o usuário é todo aquele que utiliza e usufrui dos recursos oferecidos pela máquina.
+
+- Sistema Computacional
+<!-- imagem 223 -->
+![imagem 223](/img/Windows_img/Imagem223.png)
+
+## Conhecendo o Computador
+
+### O que é o computador (PC)?
+
+É uma máquina criada para a receber e processar dados, realizando diversas operações. Atual ele ainda é um dos dispositivos eletrônicos mais populares e utilizados nas empresas para realizar as mais complexas atividades, como o desenvolvimento de programas de conteúdo, comunicação entre funcionários, busca de informações, utilizar diversas e diferentes aplicações, e tantas outras possibilidades.
+
+* **Classificação dos computadores**
+
+Existem várias classificações para os PC´s, tais como:
+
+- **Desktop:** São os computadores de mesa. Aquele que fica fixo em lugar da casa ou escritório.
+<!-- imagem 224 -->
+![imagem 224](/img/Windows_img/Imagem224.png)
+
+- **Notebook:** São os computadores portáteis, com mobilidade de se levar onde quiser.
+<!-- imagem 225 -->
+![imagem 225](/img/Windows_img/Imagem225.png)
+
+- **Tablet:** São menores equipamentos portáteis e pequenos, com sensibilidade de toque na tela. Que por incrível que pareça, realiza quase todas funções do Desktop ou Notebook.
+<!-- imagem 226 -->
+![imagem 226](/img/Windows_img/Imagem226.png)
+
+- Smatphones
+<!-- imagem 227 -->
+![imagem 227](/img/Windows_img/Imagem227.png)
+
+## Hardware
+
+É todo o composto físico da máquina, são todos os dispositivos e peças que de certa forma dizemos, tudo aquilo que pode ser visto e tocado na máquina. São componentes importantes para o bom funcionamento do computador. Como:
+
+* **A Motherboard (Placa-mãe)**, é a peça mais importante da máquina, ela é a única que em sua ausência dizemos que não existe computador e sim apenas, peças, porém, se ela estiver sozinha no gabinete, então temos um computador faltando peças. É chamada de mãe por que ela interliga todos os componentes da máquina. 
+* **O CPU (Processador)**, é responsável por executar as instruções de um programa de computador. Mais conhecido como o “cérebro do computador”.
+* **O HD (Disco rígido)**, é o dispositivo onde são instalados os programas necessários para o usuário, e onde são guardadas informações como aplicativos, imagens, textos, planilhas, vídeos e músicas.
+As Memória, são dispositivos que permitem ao computador guardar dados temporariamente como a memória RAM (volátil), ou permanentemente como a ROM (não-volátil).
+* **A Fonte de Alimentação**, é um equipamento usado para alimentar cargas elétricas. Cada dispositivo eletroeletrônico necessita de uma fonte para prover energia para seus componentes. A função da fonte é transformar a corrente alternada da tomada em corrente contínua (AC) já nas tensões corretas, usadas pelos componentes. Ela serve também como uma última linha de defesa contra picos de tensão e instabilidade na corrente, depois do nobreak ou estabilizador.
+* **O Monitor de Vídeo**, parece até uma TV, e de certa forma as TVs atuais podem ser utilizadas nos computadores como monitores, isso é possível através dos cabos VGA, ou HDMI, o monitor é um dispositivo de saída do computador, a função dele é exibir as informações através de imagens que possam ser compreendidas pelo usuário.
+* **O Teclado**, parece a antiga máquina de datilografia, é para a entrada de informações no Computador. Ele tem o teclado alfanumérico, numérico e de funções. Apesar de ter sido projetado para digitação, pode ser usado para o controlar as funções do computador ou do sistema operacional.
+* **O Mouse**, é também um dispositivo de entrada de informações no computador.
+* **O Gabinete**, é onde fixamos e acomodamos todas as peças do computador, que precisam estar protegidas das ações do tempo, ou de ações que possam inutilizar ou dificultar o seu uso, como derramar algo sobre eles, como líquido por exemplo.
+* **O Nobreak**, é um equipamento responsável por regular a voltagem e a energia que necessária aos eletrônicos conectados a ele. Outra função importante é que ele alimenta os aparelhos por meio de uma bateria, quando há queda ou variações bruscas de energia.
+
+<!-- imagem 228 -->
+![imagem 228](/img/Windows_img/Imagem228.png)
+
+## Periféricos
+
+**O que são os Periféricos?**
+
+São acessórios ou aparelhos ligados ao computador que transmitem algum tipo de informação, seja ela de entrada ou de saída, cujo objetivo é enviar ou receber essas informações. E podem ser de:
+
+1) Periféricos de Entrada, são os dispositivos utilizado para fornecer dados ao computador. Através desses dispositivos informamos ao computador o que queremos que seja feito e com as informações. Os periféricos de entrada mais conhecidos são o teclado e o mouse.
+2) Periféricos de Saída, tem função contrária aos de entrada, eles auxiliam na exibição das informações ao usuário, seja de forma digital ou impressa. Dentre os mais comuns estão: impressora, monitor, caixas de som.
+3) Periféricos de Entrada e Saída, são periféricos que tem a capacidade de executar as duas funções ao mesmo tempo, ou seja, tanto nos permitem fornecer dados ao computador como transmitir informação de saída. Entre os mais usados está a Impressora multifuncional, Placa de Rede.
+
+<!-- imagem 229 -->
+![imagem 229](/img/Windows_img/Imagem229.png)
+
+## Software
+
+O que são Softwares? 
+
+São programas necessários e importantes para o bom funcionamento do computador, e também para que os usuários possam explorar ao máximo seus recursos, obtendo os resultados pretendidos. O Primeiro a ser instalado na máquina é o Sistema Operacional, em seguida os programas de aplicativos. 
+
+Os softwares tornam possível a interação entre o usuário e o computador. Eles permitem aos usuários criar documentos de texto e planilhas eletrônicas, navegar na internet, montagem de fotos, edição e criação de vídeos, criação de logos, entre outras. Classificam-se em:
+
+- Sistema Operacional
+
+<!-- Imagem 1 -->
+![imagem 1](/img/Windows_img/Imagem1.png)
+
+- Aplicativos
+
+<!-- Imagem 2 e 3 -->
+![imagem 2](/img/Windows_img/Imagem2.png)![imagem 3](/img/Windows_img/Imagem3.png)
+
+
+Abaixo veremos uma lista das principais versões do Windows, desde a criação do MS-DOS considerado como Windows já que também foi desenvolvido pela Microsoft, foi criado em 1981 e utilizado até 1983, mais aqui no Brasil foi utilizado até final da década de 80.
+
+Nos Estados Unidos já era desenvolvido a primeira versão do que hoje chamamos de Windows, chamado de Windows 1.0. Era uma interface gráfica bidimensional para o MS-DOS e foi lançado em 1985. Em 1987 veio a o Windows 2.0, praticamente igual ao 1.0, como novidades ele trouxe mais recursos, mais ferramentas e uma paleta de cores maior, apesar de a maioria dos computadores daquela época fossem lentos quando utilizavam a interface gráfica de boa qualidade. Aqui já era permitido ao usuário utilizar as janelas, sobrepondo, minimizando e maximizando. Era apresentado em oito disquetes de alta densidade de 5,25" de 360 KB cada um.
+
+No início da década de 90, foi lançado mais um sucesso da Microsoft, o Windows 3.x. Acreditem, em relação as versões anteriores, ele era um programa inteiramente novo, e considerada o primeiro sistema gráfico da empresa, mas ainda precisava instalar MS-DOS para depois o Windows.
+
+Em agosto de 1995 a Microsoft deu um salto considerável, uma mudança radical, lançando o Windows 95, agora sim uma interface nova, cheia de novidades, como Menu Iniciar e a Barra de tarefas.
+
+<!-- Imagem 4 -->
+![imagem 4](/img/Windows_img/Imagem4.png)
+
+
+Nesta versão, o MS-DOS perdeu parte da sua importância, o Windows já podia ser instalado sem a necessidade de sua instalação prévia. Em seguida vieram as versões do 98, 98SE, que corrigiram falhas do seu antecessor. Uma das novidades foi a completa integração do Sistema Operacional com a Internet utilizando o Internet Explorer 4.
+
+Em 2000 lançaram o Windows ME, tentando ainda a utilização da base do Windows 95. Trouxe novidades, como o suporte às máquinas fotográficas digitais, aos jogos via Internet e também na criação de redes domésticas. Incluíram o Movie Maker, e Windows Media Player, atualizaram o Internet Explorer para 5.57. Trouxeram o recurso "Restauração do Sistema", que possibilitava recuperar o sistema da mesma forma que estava em uma determinada data, muito bom para desfazer alterações desnecessárias.
+
+Ainda em 2000 também foi lançado outra versão do sistema, o Windows 2000, esse teve dificuldades para ser aceito no mercado, devido as falhas de segurança, fácil de se descobrir as senhas de usuários pelos crackers e outros invasores. Novidades mesmo quase nenhuma se não alguns poucos detalhes.
+
+Em 2001 veio o tão esperado Windows XP, desde o lançamento do Windows 95 que não se via uma mudança radical de verdade, nesta a interface sofreu recebeu realmente uma nova cara. Novidades deste sistema foi a velocidade tanto de inicialização do sistema, como a de processamento. Mais como tudo é questionado, veio então um entrave, a necessidade de aumentar os recursos do hardware da máquina, e isso exigia um investimento por parte dos usuários, mesmo sabendo que para o uso doméstico ele foi considerado um dos mais bem recebidos, devido a sua interface fácil e simples.
+
+Ao decorrer da década outras versões foram lançadas, mais essas eram mais direcionadas para uso com recursos de rede, os sistemas operacionais da Família NT tinham um conjunto de recursos e opções de configuração, para melhor exploração dessas novidades. Um dos objetivos dele era dar mais segurança e comodidade aos usuários das empresas e lojas, tudo isso por que as versões do momento não eram suficientemente estáveis e confiáveis. Esse era um sistema operacional multitarefa e de múltiplos usuários. A sigla NT significa Nova Tecnologia (New Technology).
+
+A Microsoft não parava de lançar sistemas, e veio então a versão Windows Vista, por volta de 2006, e com as vendas iniciadas somente em 2007. Tinha seis edições diferentes, todas projetadas com a finalidade de se ajustar ao jeito como o usuário pretendia usar seu computador. O Windows Vista tinha uma interface conhecida como Windows Aero, com recursos de transparência, era possível no alternar janelas que elas fossem visualizadas em 3D chamado Flip 3D (para ativar usava-se simultaneamente as teclas de atalho Logotipo do Windows + Tab) e visualização em miniaturas ao passar o mouse sobre um item na barra de tarefas e ao alternar de janelas através do comando Alt+Tab. Além dessas novidades ele trouxe o Windows Media Center, para facilitar o entretenimento, trouxe também outras ferramentas para dar mais segurança, como o Windows Defender e o Windows Firewall. Sem contar que veio preparado para trabalhar me alta definição.
+
+- Visualização em Flip
+
+<!-- Imagem 5 -->
+![imagem 5](/img/Windows_img/Imagem5.png)
+
+- Windows Media Center
+
+<!-- Imagem 6 -->
+![imagem 6](/img/Windows_img/Imagem6.png)
+
+
+A Microsoft foi mudando aos poucos as funções do Windows. Muita coisa nova chegou, e algumas foram perdendo espaço nas versões do sistema, e um deles foi o Windows Media Center.
+
+Não demorou muito e já surgiu o que seria uma verdadeira evolução no sistema, o que a Microsoft não conseguira melhorar nas versões anteriores, ela criava mais uma vez a expectativa do público fiel, e como seguimento das várias tentativas, eis que nos é apresentado o mais novo sistema operacional, o Windows 7, para substituir o Windows Vista e inclui uma série de novos recursos e melhorias. O usuário já podia perceber em detalhes algumas das melhoras, como exemplo, maior integração aos processadores de Múltiplos Núcleos e a inicialização do sistema sendo de certa forma mais rápida.
+
+Das inovações uma delas foi a interface gráfica, utilizando ícones maiores na barra de tarefas, se assemelhando ao Macintosh, com maior nível de transparente em relação ao Windows Vista. Na nova barra de tarefas o usuário podia fixar programas, porém diferentemente, ao abrir um programa fixado o mesmo atalho se transforma na janela aberta, não exibindo um segundo ícone na barra de tarefas.
+
+Foi bom enquanto durou, O Windows 7 chegou ao mercado em outubro de 2009 e tornou-se um dos sistemas operacionais de maior sucesso. Como sucessor do Windows XP e do Windows Vista, o sistema inovou no design, nos recursos e nas ferramentas, e trouxe maior compatibilidade a softwares e novas funcionalidades.
+
+Em 2011 a Microsoft lança uma versão Beta (para os curiosos baixarem e testarem) a nova versão desta vez é Windows 8 Developer Preview, sendo seguida pela versão Consumer Preview, e em maio de 2012, foi liberada para baixar a versão Windows 8 Release Preview. Segundo a empresa, este um sistema com possibilidade de uso em qualquer tipo de dispositivo, e sua interface além de nova estaria adaptada para dispositivos sensíveis ao toque.
+
+O Windows 8.1 era exatamente igual ao seu antecessor, mesmo assim a Microsoft não considerava como uma atualização e correção de erros, mais sim como uma nova versão. Mais foi projetado com base no Windows 8, trouxe algumas correções e ajustes nos recursos de personalização e de pesquisa, em aplicativos, sendo possível baixar através do Windows Store e na conectividade em nuvem. Além disso, trouxe mais segurança e confiabilidade que todos esperavam do sistema.
+
+<!-- Imagem 7 -->
+![imagem 7](/img/Windows_img/Imagem7.png)
+
+## Versão atual do Windows
+
+Em nosso curso conheceremos o Microsoft Windows 10, que é a mais recente versão do sistema operacional da Microsoft, nessa nova versão, tem uma série de mudanças em relação ao Windows 8.1. Entre essas mudanças estão, a volta do menu Iniciar, múltiplos ambientes de trabalho, novo navegador (Microsoft Edge), aplicativos renovados (Foto, Vídeo, Música, Loja, Outlook, Office Mobile e até o Prompt de comando) e da união das múltiplas plataformas (inclusive o App Xbox).
+
+### O que você precisa saber do Windows 10
+
+O Windows 10, essa nova versão do sistema operacional que você provavelmente usa no computador, está disponível em sua versão final. Mas não é só isso: ele marca uma transição importante. A partir de agora, o Windows será tratado como serviço, não como produto. Na prática isso significa que a Microsoft aperfeiçoará o sistema constantemente em vez de só fazê-lo em uma nova versão daqui a três anos, como era até agora.
+
+Outra implicação dessa nova filosofia é que as atualizações serão obrigatórias e automáticas, mais ou menos como ocorre em smartphones. Nada muito grande, pelo menos para usuários domésticos. Já as empresas terão, opcionalmente, uma versão com um controle maior sobre as atualizações do Windows.
+
+<!-- Imagem 8 -->
+![imagem 8](/img/Windows_img/Imagem3.png)
+
+## Área de Trabalho
+
+Após ligar o computador o sistema será iniciado, mais ai vem um detalhe, se no computador tiver um ou mais usuários cadastrados, ou seja, autorizados a utilizarem o equipamento, eis que, se os usuários não criaram uma senha de acesso, o sistema vai direto para a **Área de Trabalho**, caso contrário ele vai parar em uma tela chamada tela de bloqueio, ou tela de Logon do Windows, onde podemos ver o(s) usuário(s) cadastrado(s) na máquina. Então clique com o mouse no seu usuário e observe que se você tem uma senha ela será requisitada, caso contrário apenas clique no botão entrar.
+
+<!-- Imagem 9-->
+![imagem 9](/img/Windows_img/Imagem9.png)
+
+A próxima tela é também chamada de Desktop, ou Área de trabalho. Esta é a tela principal do 
+Windows. É nela que trabalhamos, podemos criar pastas de trabalho para guardar os 
+documentos (imagens, fotos, planilhas, textos, músicas, vídeos, e etc.), e organizar da forma que 
+melhor convém. Ela serve de superfície para o trabalhar, é como se fosse uma mesa. A esquerda 
+ficam os ícones, umas figuras que representam algum objeto, programa, ou atalhos.
+
+
+## Tela da Área de Trabalho
+
+<!-- Imagem 10 -->
+![imagem 10](/img/Windows_img/Imagem10.png)
+
+A área de trabalho possui as seguintes partes básicas:
+
+* **Plano de Fundo:** Imagem que aparece no fundo da área de trabalho.
+* **Barra de tarefas:** Onde ficam os atalhos e os programas que estão abertos no momento.
+* **Menu iniciar:** Permite acesso rápido a programas e componentes do computador.
+* **Área de notificação:** Apresenta mensagens e informações importantes sobre o sistema.
+* **Relógio:** Exibe a hora atual do sistema.
+
+Podemos organizar os ícones na tela usando:
+1. O **botão direito**, **Exibir**;
+2. O **botão direito**, **Classificar por**;
+3. Para criar uma pasta, **botão direito**, **Novo**, **Pasta**.
+
+<!-- Imagem 11, 12 e 13 -->
+![imagem 11](/img/Windows_img/Imagem11.png)![imagem 12](/img/Windows_img/Imagem12.png)![imagem 13](/img/Windows_img/Imagem13.png)
+
+
+
+## Personalizando a Área de Trabalho
+
+### Alterando o Plano de Fundo
+ 
+Para mudar a tela de fundo é simples, basta executar cada passo abaixo:
+
+* **Botão Direito (Right Button)** em qualquer parte livre da área de trabalho.
+
+<!-- Imagem 14 -->
+![imagem 14](/img/Windows_img/Imagem14.png)
+
+* Na tela seguinte clique em **Personalizar**
+
+<!-- Imagem 15 -->
+![imagem 15](/img/Windows_img/Imagem15.png)
+
+### Opções de Personalização
+
+<!-- Imagem 16 -->
+![imagem 16](/img/Windows_img/Imagem16.png)
+
+E você vai escolhendo a opção de acordo com a sua necessidade. Uma coisa deve ser levada em consideração, lembre-se sempre de que, onde você adiciona um recurso é normalmente onde deve-se retornar para retirar o mesmo recurso. O Windows é considerado uma das ferramentas de melhor interação entre os recursos da máquina e as necessidades do usuário.
+
+A personalização do Windows 10 permite deixar o ambiente de trabalho com a sua cara, além de melhorar a usabilidade do sistema. Para acessar a tela central de configurações de aparência, o caminho inicial é padrão:
+
+1. Clique com o **botão direito do mouse** em um espaço vazio da Área de Trabalho.
+2. No menu de contexto que aparece, clique em **Personalizar**.
+
+### Alterando o Plano de Fundo
+
+* Agora você pode escolher como ficará a sua área de trabalho. Pode escolher uma imagem, uma cor ou uma exibição de slides com as imagens da pasta Imagens (ou de uma pasta específica, você só precisa indicar para o sistema qual é a pasta).
+
+Vamos ver cada uma das opções:
+
+* **Plano de Fundo com Imagem:** Clique em **Imagem**, em seguida no botão **Procurar**, e navegue até a pasta com suas imagens e escolha.
+
+<!-- Imagem 17 -->
+![imagem 17](/img/Windows_img/Imagem17.png)
+
+Ex. Navegar a até a pasta Imagens do Computador e selecionar uma, e clicar no Botão Escolher Imagem, em seguida pode fechar a tela de configuração. Em seguida feche a tela de Personalização
+
+<!-- Imagem 18 -->
+![imagem 18](/img/Windows_img/Imagem18.png)
+
+* **Plano de Fundo com Cor:** Escolha **Cor Sólida** e, em seguida, uma das opções de cores, ou **cores personalizadas**.
+
+<!-- Imagem 19 -->
+![imagem 19](/img/Windows_img/Imagem19.png)
+
+* **Plano de Fundo com Slides:** Clique em **Apresentação de Slides**. Em seguida, clique em **Procurar** para indicar a pasta com as imagens. Não esqueça de definir o tempo para mudar a imagem da tela, se as imagens serão exibidas de forma sequencial ou aleatória e o ajuste da imagem na tela.
+
+<!-- Imagem 20 e 21 -->
+![imagem 20](/img/Windows_img/Imagem20.png) ![imagem 21](/img/Windows_img/Imagem21.png)
+
+## Botão Iniciar 
+
+### Função do Botão Iniciar
+
+Por padrão, o menu Iniciar do Windows 10 traz alguns grupos de blocos.
+
+<!-- imagem 22 -->
+![imagem 22](/img/Windows_img/Imagem22.png)
+
+Clicando no botão Iniciar, a tela será exibida e podemos trabalhar com os itens de menu ou até mesmo com os blocos. A partir daí podemos configurar, isso quer dizer que para remover ou editar um bloco fixado ao menu Iniciar, use o menu de contexto, lá você terá as opções de desativar a animação dinâmica, ajustar o tamanho ou tirá-lo do menu.
+
+Os blocos e grupos de blocos também podem ser facilmente reposicionados: basta clicar e arrastar livremente para alterar a posição de um bloco ou movê-lo para outro grupo. Para mover um grupo de blocos, clique sobre o botão à direita de seu nome.
+
+Caso queira acrescentar atalhos ao menu Iniciar, basta arrastá-los da lista à esquerda para dentro de um dos grupos – ou fora dos grupos existentes para criar um novo grupo.
+
+Você também pode ajustar a largura e altura do menu Iniciar do Windows 10. Para isso, basta clicar sobre um dos cantos do menu e arrastar para esquerda/direita ou para cima/baixo.
+
+Além das personalizações feitas através do menu Iniciar, ainda é possível alterar alguns ajustes nas configurações do sistema. Através do painel de controle, no item “Personalização”.
+
+## Barra de Tarefas
+
+### Conhecendo a Barra de Tarefas
+
+A barra de tarefas está localizada na parte inferior da tela e permite acesso direto aos aplicativos ou programas que estão sendo executados no seu computador. É onde está o menu Iniciar, uma das formas de acessar todos os programas no seu computador e a Cortana, o assistente virtual e buscador do sistema operacional. Além disso, é onde temos acesso direto aos programas ou aplicativos que estão abertos. No lado direito, temos as informações de status da bateria, conexão à Internet, a hora e o acesso ao painel de notificação.
+
+<!-- imagem 23 -->
+![imagem 23](/img/Windows_img/Imagem23.png)
+
+### Como fixar um programa na Barra de Tarefas
+
+Se você usa um programa com bastante frequência, é recomendável fixá-lo à sua barra de tarefas para poder acessá-lo mais facilmente e rapidamente.
+
+* **Fixando um programa:**
+  1. Clique no botão **Iniciar** para acessar a lista de programas instalados no seu sistema.
+  2. Clique com o **botão direito** sobre o programa que pretende fixar na barra de tarefas.
+  3. Selecione a opção **Mais** e, em seguida, escolha **Fixar na barra de tarefas**.
+
+* **Removendo um programa:**
+  * Para remover esse programa ou qualquer outro que esteja fixado, basta clicar com o **botão direito** sobre ele diretamente na barra de tarefas e selecionar a opção **Desafixar da barra de tarefas**.
+
+
+
+### Como configurar a barra de tarefas
+
+Se você quiser mais opções para personalizar sua barra de tarefas, pode entrar na opção **Configurações da barra de tarefas** e modificar a forma que você deseja ver esta ferramenta.
+
+<!-- imagem 24 -->
+![imagem 24](/img/Windows_img/Imagem24.png)
+
+* Clique com o **botão direito do mouse** em qualquer espaço livre da sua Barra de tarefas.
+* No menu que aparecer, selecione **Configurações da barra de tarefas**.
+* No painel que for aberto, habilite ou desabilite as opções que deseja alterar na sua barra de tarefas, clicando em cada uma, ou utilize as outras configurações disponíveis.
+
+<!-- imagem 25 -->
+![imagem 25](/img/Windows_img/Imagem25.png)
+
+## Personalização de Cores
+
+### Escolhendo Cores
+
+Sempre que você clica no Menu Iniciar, Barra de Tarefas ou Atalhos, perceberá uma cor realçando o mesmo. Pois fique sabendo que essas cores podem ser alteradas e personalizadas da forma que você preferir. Mas essas cores que agora iremos conhecer não vão alterar a imagem do Plano de Fundo. 
+
+* Na tela de Personalização, clique em **Cores**.
+
+<!-- imagem 26 e 27 coloque em baixo da outra pra fazer sentido-->
+![imagem 26](/img/Windows_img/Imagem26.png)
+![imagem 27](/img/Windows_img/Imagem27.png)
+
+## Personalizando a Tela de Bloqueio
+
+### Tela de Bloqueio
+
+A tela de bloqueio funciona como uma proteção para o seu computador. Suponha que você esteja utilizando o equipamento e, por algum motivo, precise se ausentar da mesa de trabalho, mas não quer ou não pode desligá-lo naquele momento. O que fazer? 
+
+Basta acionar a Tela de Bloqueio! Para isso, você pode pressionar simultaneamente as teclas:
+
+* **Ctrl + Alt + Del** e escolher a opção **Bloquear** (ou simplesmente utilizar o atalho direto **Logotipo do Windows + L**).
+
+<!-- imagem 28 -->
+![imagem 28](/img/Windows_img/Imagem28.png)
+
+Porém, você pode configurar essa tela para mostrar notificações de aplicativos, compromissos da agenda, além da data e hora. Também é possível adicionar as suas próprias fotos para o plano de fundo ou deixar o Windows exibir as imagens de forma aleatória.
+
+<!-- imagem 29 -->
+![imagem 29](/img/Windows_img/Imagem29.png)
+
+## Configurando a Proteção de Tela
+
+### Proteção de Tela
+
+A proteção de tela é um recurso do sistema que preenche a tela com imagens, textos ou animações enquanto a máquina está fora de uso por um tempo determinado pelo próprio usuário. Originalmente, esse recurso tinha a função de proteger o monitor do computador contra o desgaste dos pixels (conhecido como *burn-in* ou queima da tela).
+
+O Windows 10 também disponibiliza protetores de tela animados. Você pode personalizar a tela do computador ou notebook com bolhas, textos 3D em movimento, faixas e até fotos de uma de suas pastas pessoais no PC. Além de dar o seu toque pessoal, o recurso evita que curiosos vejam seus e-mails e notificações e atrasa a suspensão do computador. Essa ferramenta se tornou muito utilizada em outras versões do sistema operacional da Microsoft. É possível configurar a Proteção de Tela por outros meios como:
+
+<!-- imagem 30 e 31 coloque em baixo da outra pra fazer sentido-->
+![imagem 30](/img/Windows_img/Imagem30.png)
+![imagem 31](/img/Windows_img/Imagem31.png)
+
+## Escolhendo Temas / Fontes do Windows
+
+### Temas
+
+
+O tema é uma combinação de imagens da tela de fundo da área de trabalho, cores de janelas e sons. Para obter ou configurar um tema:
+
+* Na tela de Personalização, clique no menu lateral **Temas**. 
+
+A partir daí, você pode ajustar cada elemento individualmente (**Tela de fundo, Cor, Sons, Cursor do Mouse**) ou simplesmente escolher um dos temas completos listados abaixo para aplicar todas as mudanças de uma só vez.
+
+<!-- imagem 32 -->
+![imagem 32](/img/Windows_img/Imagem32.png)
+
+## Fontes
+
+Esta opção mostra todas as fontes (estilos de letras) instaladas no Windows, que podem ser personalizadas por aplicativos ou janelas, variando por tipo, tamanho e cores. 
+
+* Na tela de Personalização, clique em **Fontes** para gerenciar, instalar ou remover os estilos disponíveis no sistema.
+
+<!-- imagem 33 -->
+![imagem 33](/img/Windows_img/Imagem33.png)
+
+## Área de Trabalho do Windows
+
+### Botão Iniciar
+
+Deixe o menu Iniciar com o layout de sua preferência. Nesta tela, você pode definir formas de aparência de blocos, exibição da lista de aplicativos, entre outras opções de personalização.
+
+* Na tela de Personalização, clique em **Iniciar** para ajustar essas preferências.
+
+<!-- imagem 34 -->
+![imagem 34](/img/Windows_img/Imagem34.png)
+
+## Barra de Tarefas
+
+### Barra de Tarefas
+
+Você pode trabalhar com a Barra de Tarefas do jeito que achar mais conveniente para a sua rotina e organização de trabalho.
+
+* Na tela de Personalização, clique em **Barra de Tarefas** para configurar seu comportamento (como ocultar automaticamente, mudar a posição na tela ou gerenciar os ícones que aparecem nela).
+
+<!-- imagem 35 -->
+![imagem 35](/img/Windows_img/Imagem35.png)
+
+# Exercícios
+
+### Respostas do Exercício
+
+1) O que é Área de trabalho?
+a. É subpasta dos Meus Documentos
+b. É a Tela de usuário e senha
+c. É a tela de descanso
+d. É a tela em que trabalhamos, também conhecida como Desktop
+ 
+2) Explique com suas palavras o que é:
+a. Ícones à
+ 
+b. Pasta à
+ 
+3) Em Organize os ícones da área de trabalho de forma que os desenhos fiquem grandes e automaticamente.
+ 
+4) Classifique os itens da área de trabalho por Data de modificação
+ 
+5) Crie na área de trabalho uma pasta com o nome de Curso Windows, renomeia depois com seu nome
+ 
+6) Utilizando o recurso de Personalização mude a tela de fundo do Windows
+ 
+7) Se num determinado momento você percebesse que as cores, imagens, ícones entre outras coisas não estão do seu gosto, e quisesse usar um meio rápido de voltar a configuração padrão do Windows você faria o que?
+a. Botão Direito, Personalizar, Tela de Fundo e escolheria as opções
+b. Botão Direito, Personalizar, Iniciar e escolheria as opções
+c. Botão Direito, Personalizar, Barra de Tarefas e escolheria as opções
+d. Botão Direito, Personalizar, Temas e escolheria uma das opções
+ 
+8) Altere a imagem da Tela de Bloqueio
+ 
+9) Usando a opção personalizar coloque a barra de tarefas em outro ponto da tela, pode ser no topo, lado direito o lado esquerdo, em seguida devolva ao lugar certo.
+ 
+10) Configure a proteção de tela com seu nome, que apareça na tela a cada 2 minutos de ociosidade do sistema.
