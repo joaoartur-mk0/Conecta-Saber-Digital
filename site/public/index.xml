@@ -56,12 +56,25 @@
 				<description>&lt;p&gt;Windows aula 2&lt;/p&gt;</description>
 			</item>
 			<item>
-<<<<<<< HEAD
+				<title>02 - Google Docs</title>
+				<link>http://localhost:1313/modulo-2-google-workspace/topico-03/</link>
+				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
+				<guid>http://localhost:1313/modulo-2-google-workspace/topico-03/</guid>
+				<description>&lt;h1 id=&#34;google-docs&#34;&gt;Google Docs&lt;/h1&gt;&#xA;&lt;p&gt;O Google Docs é uma das principais ferramentas do Google Workspace e é amplamente utilizado para criar e editar documentos de texto na internet. Sua facilidade de uso, o salvamento automático e os recursos de colaboração em tempo real tornam essa ferramenta uma excelente opção para estudos, trabalho e atividades do dia a dia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;o-que-é-o-google-docs&#34;&gt;O que é o Google Docs?&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;O Google Docs&lt;/strong&gt; é um editor de textos online desenvolvido pelo Google. Ele permite criar, editar, formatar e compartilhar documentos diretamente pelo navegador ou aplicativo, sem a necessidade de instalar programas no computador.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>03 - Aulas Praticas</title>
 				<link>http://localhost:1313/modulo-3-open-source/topico-03/</link>
 				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
 				<guid>http://localhost:1313/modulo-3-open-source/topico-03/</guid>
 				<description>&lt;blockquote&gt;&#xA;&lt;h1 id=&#34;aula-prática-1--criando-um-documento-no-libreoffice&#34;&gt;Aula Prática 1 – Criando um Documento no LibreOffice&lt;/h1&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;objetivo&#34;&gt;Objetivo:&lt;/h2&gt;&#xA;&lt;p&gt;Criar um documento simples e exportá-lo em PDF&lt;/p&gt;&#xA;&lt;h2 id=&#34;apresentação-da-atividade&#34;&gt;Apresentação da Atividade:&lt;/h2&gt;&#xA;&lt;p&gt;Nesta atividade, o aluno aprenderá a utilizar o LibreOffice Writer, um editor de textos&#xA;gratuito e de código aberto, para criar documentos profissionais. Essa é uma habilidade&#xA;essencial para o dia a dia, sendo útil na elaboração de trabalhos escolares, currículos,&#xA;cartas, relatórios, atas, formulários e diversos outros documentos.&#xA;Além de aprender a criar e salvar um documento, o aluno também verá como exportá-lo&#xA;em PDF, formato amplamente utilizado para compartilhar arquivos sem que a&#xA;formatação seja alterada, facilitando o envio por e-mail, plataformas de ensino e&#xA;processos seletivos.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>03 - Google Sheets</title>
+				<link>http://localhost:1313/modulo-2-google-workspace/topico-04/</link>
+				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
+				<guid>http://localhost:1313/modulo-2-google-workspace/topico-04/</guid>
+				<description>&lt;h1 id=&#34;google-sheets&#34;&gt;Google Sheets&lt;/h1&gt;&#xA;&lt;p&gt;O Google Sheets permite criar, organizar e analisar informações por meio de planilhas eletrônicas armazenadas na nuvem. A ferramenta oferece recursos para realizar cálculos, criar gráficos, organizar dados e compartilhar planilhas com outras pessoas, facilitando o trabalho colaborativo e o gerenciamento de informações.&lt;/p&gt;&#xA;&lt;h2 id=&#34;o-que-é-o-google-sheets&#34;&gt;O que é o Google Sheets?&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;O Google Sheets&lt;/strong&gt; é um editor de planilhas do Google Workspace que funciona diretamente na nuvem. Ele possibilita criar, editar e compartilhar planilhas sem a necessidade de instalar programas no computador.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>04</title>
@@ -71,11 +84,25 @@
 				<description>&lt;blockquote&gt;&#xA;&lt;h1 id=&#34;aula-prática-4---digitalização-com-naps2&#34;&gt;Aula Prática 4 –  Digitalização com NAPS2&lt;/h1&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;objetivo&#34;&gt;Objetivo:&lt;/h2&gt;&#xA;&lt;p&gt;Transformar documentos físicos em PDF.&lt;/p&gt;&#xA;&lt;h2 id=&#34;apresentação-da-atividade&#34;&gt;Apresentação da Atividade:&lt;/h2&gt;&#xA;&lt;p&gt;Nesta atividade, o aluno aprenderá a utilizar o NAPS2 (Not Another PDF Scanner 2)&#xA;para digitalizar documentos físicos e convertê-los em arquivos PDF. Essa ferramenta&#xA;gratuita facilita a criação de documentos digitais com boa qualidade e organização.&#xA;A digitalização é amplamente utilizada no dia a dia para enviar documentos por e-mail,&#xA;realizar matrículas, participar de processos seletivos, encaminhar comprovantes e&#xA;arquivar documentos de forma segura e prática.&lt;/p&gt;</description>
 			</item>
 			<item>
+				<title>04 - Gerenciamento de Arquivos</title>
+				<link>http://localhost:1313/modulo-2-google-workspace/topico-05/</link>
+				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
+				<guid>http://localhost:1313/modulo-2-google-workspace/topico-05/</guid>
+				<description>&lt;h1 id=&#34;gerenciamento-de-arquivos-no-google-workspace&#34;&gt;Gerenciamento de Arquivos no Google Workspace&lt;/h1&gt;&#xA;&lt;p&gt;O Google Workspace oferece diversas ferramentas que permitem criar, armazenar, organizar e acessar arquivos de forma prática e segura. Independentemente da ferramenta utilizada, como Google Drive, Google Docs ou Google Sheets, é importante conhecer os recursos de gerenciamento de arquivos para manter as informações organizadas e facilitar seu acesso em diferentes dispositivos.&lt;/p&gt;&#xA;&lt;p&gt;O gerenciamento adequado de arquivos contribui para maior produtividade, evita a perda de documentos e torna mais eficiente o trabalho acadêmico, profissional e colaborativo.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>05 - Situações do Cotidiano (Troubleshooting) </title>
 				<link>http://localhost:1313/modulo-3-open-source/topico-05/</link>
 				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
 				<guid>http://localhost:1313/modulo-3-open-source/topico-05/</guid>
 				<description>&lt;h2 id=&#34;cenário-1-você-encontrou-um-programa-gratuito-em-um-site-desconhecido&#34;&gt;Cenário 1: Você encontrou um programa gratuito em um site desconhecido.&lt;/h2&gt;&#xA;&lt;h1 id=&#34;o-que-fazer-&#34;&gt;O que fazer? :&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Verificar o endereço do site.&lt;/li&gt;&#xA;&lt;li&gt;Pesquisar a reputação do software.&lt;/li&gt;&#xA;&lt;li&gt;Procurar a página oficial do desenvolvedor.&lt;/li&gt;&#xA;&lt;li&gt;Comparar a versão disponível antes do download.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;cenário-2--um-estudante-precisa-criar-uma-apresentação-para-um-seminário-mas-não-possui-programas-pagos&#34;&gt;Cenário 2:  Um estudante precisa criar uma apresentação para um seminário, mas não possui programas pagos.&lt;/h2&gt;&#xA;&lt;h1 id=&#34;o-que-fazer--1&#34;&gt;O que fazer? :&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Instalar uma suíte de escritório gratuita.&lt;/li&gt;&#xA;&lt;li&gt;Utilizar o LibreOffice Impress para criar os slides.&lt;/li&gt;&#xA;&lt;li&gt;Salvar o arquivo em formato compatível (.pptx ou .pdf).&lt;/li&gt;&#xA;&lt;li&gt;Testar a apresentação antes da exposição.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;cenário-3-um-usuário-recebeu-um-arquivo-compactado-zip-e-precisa-acessar-seu-conteúdo&#34;&gt;Cenário 3: Um usuário recebeu um arquivo compactado (.zip) e precisa acessar seu conteúdo.&lt;/h2&gt;&#xA;&lt;h1 id=&#34;o-que-fazer--2&#34;&gt;O que fazer? :&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Verificar a origem do arquivo recebido.&lt;/li&gt;&#xA;&lt;li&gt;Utilizar um descompactador confiável.&lt;/li&gt;&#xA;&lt;li&gt;Extrair os arquivos para uma pasta específica.&lt;/li&gt;&#xA;&lt;li&gt;Verificar os documentos antes de executá-los.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;cenário-4-um-usuário-precisa-compartilhar-um-arquivo-grande-com-colegas-de-trabalho&#34;&gt;Cenário 4: Um usuário precisa compartilhar um arquivo grande com colegas de trabalho.&lt;/h2&gt;&#xA;&lt;h1 id=&#34;o-que-fazer--3&#34;&gt;O que fazer? :&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Compactar o arquivo para reduzir seu tamanho.&lt;/li&gt;&#xA;&lt;li&gt;Utilizar um serviço de armazenamento em nuvem.&lt;/li&gt;&#xA;&lt;li&gt;Compartilhar o link de acesso.&lt;/li&gt;&#xA;&lt;li&gt;Verificar as permissões de visualização e edição.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>05 - Compartilhamento Seguro e Trabalho Colaborativo</title>
+				<link>http://localhost:1313/modulo-2-google-workspace/topico-06/</link>
+				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
+				<guid>http://localhost:1313/modulo-2-google-workspace/topico-06/</guid>
+				<description>&lt;h2 id=&#34;compartilhamento-seguro-e-trabalho-colaborativo&#34;&gt;Compartilhamento Seguro e Trabalho Colaborativo&lt;/h2&gt;&#xA;&lt;p&gt;O Google Workspace oferece recursos que permitem compartilhar arquivos e desenvolver atividades colaborativas de forma prática e segura. Esses recursos facilitam a comunicação entre estudantes, professores, equipes de trabalho e organizações, permitindo que várias pessoas acessem e colaborem em um mesmo documento sem a necessidade de enviar diversas cópias do arquivo.&lt;/p&gt;&#xA;&lt;p&gt;O uso adequado das permissões de acesso e das ferramentas de colaboração contribui para maior organização, produtividade e segurança das informações.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>06 - Resumo do Módulo </title>
@@ -90,34 +117,6 @@
 				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
 				<guid>http://localhost:1313/modulo-3-open-source/encerramento-07/</guid>
 				<description>&lt;p&gt;Parabéns pela conclusão deste módulo. O conhecimento sobre ferramentas web e&#xA;cultura Open Source amplia as possibilidades de acesso à tecnologia, reduz custos e&#xA;fortalece a autonomia digital.&#xA;Continue explorando soluções gratuitas, mantenha hábitos seguros na internet e utilize a&#xA;tecnologia de forma crítica, responsável e produtiva em seu cotidiano.&lt;/p&gt;</description>
-=======
-				<title>02 - Google Docs</title>
-				<link>http://localhost:1313/modulo-2-google-workspace/topico-03/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-2-google-workspace/topico-03/</guid>
-				<description>&lt;h1 id=&#34;google-docs&#34;&gt;Google Docs&lt;/h1&gt;&#xA;&lt;p&gt;O Google Docs é uma das principais ferramentas do Google Workspace e é amplamente utilizado para criar e editar documentos de texto na internet. Sua facilidade de uso, o salvamento automático e os recursos de colaboração em tempo real tornam essa ferramenta uma excelente opção para estudos, trabalho e atividades do dia a dia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;o-que-é-o-google-docs&#34;&gt;O que é o Google Docs?&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;O Google Docs&lt;/strong&gt; é um editor de textos online desenvolvido pelo Google. Ele permite criar, editar, formatar e compartilhar documentos diretamente pelo navegador ou aplicativo, sem a necessidade de instalar programas no computador.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>03 - Google Sheets</title>
-				<link>http://localhost:1313/modulo-2-google-workspace/topico-04/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-2-google-workspace/topico-04/</guid>
-				<description>&lt;h1 id=&#34;google-sheets&#34;&gt;Google Sheets&lt;/h1&gt;&#xA;&lt;p&gt;O Google Sheets permite criar, organizar e analisar informações por meio de planilhas eletrônicas armazenadas na nuvem. A ferramenta oferece recursos para realizar cálculos, criar gráficos, organizar dados e compartilhar planilhas com outras pessoas, facilitando o trabalho colaborativo e o gerenciamento de informações.&lt;/p&gt;&#xA;&lt;h2 id=&#34;o-que-é-o-google-sheets&#34;&gt;O que é o Google Sheets?&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;O Google Sheets&lt;/strong&gt; é um editor de planilhas do Google Workspace que funciona diretamente na nuvem. Ele possibilita criar, editar e compartilhar planilhas sem a necessidade de instalar programas no computador.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>04 - Gerenciamento de Arquivos</title>
-				<link>http://localhost:1313/modulo-2-google-workspace/topico-05/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-2-google-workspace/topico-05/</guid>
-				<description>&lt;h1 id=&#34;gerenciamento-de-arquivos-no-google-workspace&#34;&gt;Gerenciamento de Arquivos no Google Workspace&lt;/h1&gt;&#xA;&lt;p&gt;O Google Workspace oferece diversas ferramentas que permitem criar, armazenar, organizar e acessar arquivos de forma prática e segura. Independentemente da ferramenta utilizada, como Google Drive, Google Docs ou Google Sheets, é importante conhecer os recursos de gerenciamento de arquivos para manter as informações organizadas e facilitar seu acesso em diferentes dispositivos.&lt;/p&gt;&#xA;&lt;p&gt;O gerenciamento adequado de arquivos contribui para maior produtividade, evita a perda de documentos e torna mais eficiente o trabalho acadêmico, profissional e colaborativo.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>05 - Compartilhamento Seguro e Trabalho Colaborativo</title>
-				<link>http://localhost:1313/modulo-2-google-workspace/topico-06/</link>
-				<pubDate>Mon, 22 Jun 2026 19:00:00 -0300</pubDate>
-				<guid>http://localhost:1313/modulo-2-google-workspace/topico-06/</guid>
-				<description>&lt;h2 id=&#34;compartilhamento-seguro-e-trabalho-colaborativo&#34;&gt;Compartilhamento Seguro e Trabalho Colaborativo&lt;/h2&gt;&#xA;&lt;p&gt;O Google Workspace oferece recursos que permitem compartilhar arquivos e desenvolver atividades colaborativas de forma prática e segura. Esses recursos facilitam a comunicação entre estudantes, professores, equipes de trabalho e organizações, permitindo que várias pessoas acessem e colaborem em um mesmo documento sem a necessidade de enviar diversas cópias do arquivo.&lt;/p&gt;&#xA;&lt;p&gt;O uso adequado das permissões de acesso e das ferramentas de colaboração contribui para maior organização, produtividade e segurança das informações.&lt;/p&gt;</description>
->>>>>>> dc1fa739739aea16c8cfec327297f87e138db34b
 			</item>
 			<item>
 				<title>00 - Google Workspace</title>

@@ -28,7 +28,7 @@ etapa da atividade.
 > 2. Salvar em PDF.  
 > 3. Compartilhar o arquivo.    
 
-![Exemplo de ferramentas open source](/img/aulas/03-Imagens/NAPS2Imagem.png)
+![Exemplo de ferramentas open source](/img/opensource/NAPS2Imagem.png)
 <figure>
   <figcaption>Exemplo de ferramenta utilizada no curso.</figcaption>
 </figure>
@@ -67,7 +67,7 @@ etapa da atividade.
 > 4. Salvar o novo documento. 
 
 
-![Exemplo de ferramentas open source](/img/aulas/03-Imagens/PDFArrangerImagem.png)
+![Exemplo de ferramentas open source](/img/opensource/PDFArrangerImagem.png)
 <figure>
   <figcaption>Exemplo de ferramenta utilizada no curso.</figcaption>
 </figure>
@@ -108,7 +108,7 @@ etapa da atividade.
 > 3. Discutir os riscos de programas indesejados.
   
 
-![Exemplo de ferramentas open source](/img/aulas/03-Imagens/ADWCleanerImagem.png)
+![Exemplo de ferramentas open source](/img/opensource/ADWCleanerImagem.png)
 <figure>
   <figcaption>Exemplo de ferramenta utilizada no curso.</figcaption>
 </figure>

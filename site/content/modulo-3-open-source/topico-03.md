@@ -36,7 +36,7 @@ etapa da atividade.
 > 5. Exportar para PDF. 
 > (Arquivo → Exportar como → Exportar como PDF.) 
 
-![Exemplo de ferramentas open source](/img/aulas/03-Imagens/LibreofficeImagem.png)
+![Exemplo de ferramentas open source](/img/opensource/LibreofficeImagem.png)
 <figure>
   <figcaption>Exemplo de ferramenta utilizada no curso.</figcaption>
 </figure>
@@ -74,7 +74,7 @@ etapa da atividade.
 > 3. Compartilhar o arquivo compactado.  
 > 4. Descompactar o arquivo. 
 
-![Exemplo de ferramentas open source](/img/aulas/03-Imagens/7-ZipImagem.png)
+![Exemplo de ferramentas open source](/img/opensource/7-ZipImagem.png)
 <figure>
   <figcaption>Exemplo de ferramenta utilizada no curso.</figcaption>
 </figure>
@@ -112,7 +112,7 @@ etapa da atividade.
 > 3. Identificar o cadeado de segurança.  
 > 4. Comparar com exemplos de sites suspeitos. 
 
-![Exemplo de ferramentas open source](/img/aulas/03-Imagens/FireFoxImagem.png)
+![Exemplo de ferramentas open source](/img/opensource/FireFoxImagem.png)
 <figure>
   <figcaption>Exemplo de ferramenta utilizada no curso.</figcaption>
 </figure>
