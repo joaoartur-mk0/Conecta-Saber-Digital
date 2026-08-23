@@ -1,0 +1,228 @@
+# Acessórios do Windows
+
+## O que são os acessórios
+
+Os Acessórios são programas ou aplicativos que fazem parte do Windows no momento de sua instalação. Esses aplicativos são muito úteis e nos auxiliam nas tarefas cotidianas, eles são úteis e fáceis de se manusear.
+Já aqueles programas que não vem acoplados aos sistema operacional, e temos que fazer instalações posteriores, não podem ser chamados de programas de acessórios, como os programas do Microsoft Office por exemplo.
+É importante saber que, apesar de existir uma área chamada de acessórios, nem todos os programas acessórios do computador estarão lá.
+
+
+* Para abrir os acessórios
+
+Clique na tecla **Windows** > **Acessório do windows**, em seguida no aplicativo
+
+<!-- Imagem 168  -->
+![imagem 168](/img/Windows_img/Imagem168.png)
+
+* Principais Programas
+
+  * Alguns Acessórios:
+    - Bloco de Notas
+    - WordPad
+    - Paint/Paint 3D
+    - Calculadora
+    - Notas adesivas
+    - Ferramenta de captura
+    - Gravador de Passos
+
+
+## Bloco de Notas
+
+É um editor de textos simples que já vem instalado no Windows desde 1985. Na versão Windows 10, o bloco de notas ganhou algumas atualizações e melhorias, como a busca no Bing, Localizar/Substituir, e controle do zoom. Apesar de ser simples é possível criar alguns scripts para comandar o sistema através dele.
+
+* Para abrir clique tecla **Windows** > **Acessórios do Windows** > **Bloco de Notas**
+
+<!-- Imagem 169  -->
+![imagem 169](/img/Windows_img/Imagem169.png)
+
+Após digitar o texto, você faz uso dos menus
+
+<!-- Imagem 170  -->
+![imagem 170](/img/Windows_img/Imagem170.png)
+
+* Algumas dicas 
+
+  * Cabeçalho e Rodapé
+
+  <!-- Imagem 171  -->
+  ![imagem 171](/img/Windows_img/Imagem171.png)
+
+* Criar um arquivo de voz. Abra o Bloco de notas e digite. Em seguida, clique em Arquivo, Salvar Como, digite o nome do arquivo seguido de (.vbs). Agora, execute o arquivo.  
+
+<!-- Imagem 172  -->
+![imagem 172](/img/Windows_img/Imagem172.png)
+
+* Usá-lo como um diário sem a necessidade de digitar a hora e a data.
+É simples, abra o Bloco de notas e digite (.LOG) na primeira linha. Feche e salve o arquivo com o nome de Diário, feche-o. Abra o Arquivo diário, e observe que a hora e data já estarão.
+
+<!-- Imagem 173  -->
+![imagem 173](/img/Windows_img/Imagem173.png)
+
+* Efeito Matrix, o computador gera números aleatórios. Abra o Bloco de notas e digite os códigos abaixo, salve o arquivo com o nome de Matrix.bat, fecho-o. Execute-o
+
+<!-- Imagem 174  -->
+![imagem 174](/img/Windows_img/Imagem174.png)
+
+* Criar um Mensagem de vírus, falsa é claro. Abra o Bloco de notas, digite os comandos abaixo, salve o arquivo como **vírus.bat**. Execute-o
+
+<!-- Imagem 175  -->
+![imagem 175](/img/Windows_img/Imagem175.png)
+
+* Muito utilizado na criação de páginas web com comandos de HTML. Abra o Bloco de notas, digite os comandos abaixo, salve **Pagina.htm**.
+
+<!-- Imagem 176  -->
+![imagem 176](/img/Windows_img/Imagem176.png)
+
+* Simplesmente digitar textos que não precise de formatação. Abra o Bloco de notas e digite o texto abaixo. Salve com o nome de texto.
+
+<!-- Imagem 177  -->
+![imagem 177](/img/Windows_img/Imagem177.png)
+## WordPad
+
+É um editor de textos simples e discreto que já vem instalado no Windows, e que sempre é considerado como última opção a ser utilizado para digitar textos. Todos nós sabemos que o MS Word vem sempre em primeiro plano, e que até mesmo o bloco ne notas, mesmo sem recursos está à frente. Por isso chamamos o WordPad carinhosamente de Primo pobre do Word.
+
+Porém, se não há uma necessidade de tantos recursos e funcionalidades, e precisa apenas de um programa que te permite a utilização de algumas ações básicas, então pode fazer uso das funções do WordPad. É possível afirmar que pode-se criar textos apresentáveis, e bem aceitos.
+
+* Vamos abrir o WordPad e digitar o texto abaixo, em seguida formata-lo, e salvar com o nome de Texto WordPad. Para abrir clique tecla **Windows > Acessórios do windows > wordPad**.
+
+<!-- Imagem 178  -->
+![imagem 178](/img/Windows_img/Imagem178.png)
+
+Texto a ser digitado:
+
+"Planejamento e Organização
+A organização do ambiente de trabalho é um dos pilares essenciais para manter uma empresa com alta produtividade. É este fator que determinará a qualidade de vida de todos os membros da equipe.
+Sendo assim, um ambiente de trabalho bem planejado irá refletir e alavancar os resultados financeiros da organização.
+Com isso, é extremamente importante ter definido as condições sociais, físicas, culturais e espaciais que representarão o seu espaço corporativo. Mas como organizar tudo isso?"
+
+## Paint/Paint 3D
+
+Criado pela Microsoft ele possibilita a criação de imagens simples e edição de imagens, a primeira versão era chamada de Paintbrush, e ainda era em preto e branco, vem instalado na pasta de acessórios do Windows, e tem suporte para imagens nos formatos: BMP, JPG, JPEG, TIFF, ICO, GIF, e PNG.
+
+Por ter ferramentas de edição em pequena escala, o Paint é muito utilizado na criação de Pixel Art. Atualmente os usuários do Windows 10 contam com uma versão mais avançada do software, o Fresh Paint. Gratuito, ele pode baixado a qualquer momento. Em 2017, a Microsoft incluiu o Paint na lista de softwares que foram depreciados na atualização Windows 10 Spring Creator. Em seguida, ela afirmou que o software continuaria sendo disponibilizado através da Microsoft Store. Ele então foi substituído pelo Paint 3D.
+
+**Paint** para abrir clique tecla **Windows > Acessório do Windows > Paint**.
+
+<!-- Imagem 179  -->
+![imagem 179](/img/Windows_img/Imagem179.png)
+
+**Paint 3D** para abrir clique tecla **Windows > Acessório do Windows > Paint 3D**.
+
+<!-- Imagem 180  -->
+![imagem 180](/img/Windows_img/Imagem180.png)
+
+## Calculadora/Conversor
+
+É um programa de calculadora digital que já vem instalada no Windows na pasta de acessórios.
+
+* Tem 4 tipos de visualização:
+  - Padrão,
+  - Cientifica,
+  - Programador,
+  - Cálculo de data.
+
+* Tem 12 tipos de conversão:
+  - Volume,
+  - Comprimento,
+  - Peso e massa,
+  - Temperatura,
+  - Energia,
+  - Área,
+  - Velocidade,
+  - Tempo,
+  - Potência,
+  - Dados,
+  - Pressão,
+  - Ângulo.
+
+O aplicativo Calculadora para Windows 10 é uma versão Touch da calculadora da área de trabalho nas versões anteriores do Windows. Você pode abrir várias calculadoras ao mesmo tempo em janelas redimensionáveis na área de trabalho e alternar entre os modos Padrão, Científica, Programador, Cálculo de data e Conversor.
+
+* Para abrir clique tecla **Windows > Calculadora **
+  * Tipos de Calculadora
+
+  <!-- Imagem 181 -->
+  ![imagem 181](/img/Windows_img/Imagem181.png)
+  * Tipos de Conversores
+
+   <!-- Imagem 182 -->
+  ![imagem 182](/img/Windows_img/Imagem182.png)
+
+## Notas autoadesivas
+
+Conhecidas como "Post-Its", são os adesivos amarelos usados para colar em diversos locais, inclusive na tela do computador. É possível “colar” tudo na área de trabalho e ficar sempre de olho nas suas tarefas pendentes.  
+
+* Para abrir clique tecla **Windows > Notas Autoadesivas**.
+
+<!-- Imagem 183 -->
+![imagem 183](/img/Windows_img/Imagem183.png)
+
+** Você adicionar várias mensagens na tela, e mudar de cor em **"..."**.
+
+<!-- Imagem 184 -->
+![imagem 184](/img/Windows_img/Imagem184.png)
+## Ferramenta de captura
+
+Às vezes estamos trabalhando e acontece algum problema, e o computador, exibe uma mensagem de erro, não sabemos como fazer para passar esse código para um técnico exatamente como apresentado na tela. Não seria tão complicado, se as mensagens de erro não fosse em Inglês, ou outra língua, se não Português. Poderia ser Também uma imagem importante para um trabalho que está sendo desenvolvido, no Word, PowerPoint, e precisamos usar a mesma. As novas versões do Windows tem uma ferramenta que ajuda nesse tipo de situação. A Ferramenta de captura é simples, e permite a seleção da área de trabalho, ou parte dela. Essa captura de tela pode ser inclusive de aplicativos em uso, ou mensagem de erro do computador.
+
+* Opções de recorte de tela
+
+  - **Recorte de Formato Livre** – Permite que você faça o formato da imagem;
+  - **Captura Retangular** – Ideal para uma seleção em formato retangular;
+  - **Captura de Janela** – Seleciona toda a área da janela ativa, é só clicar na janela ou aplicativo eu você deseja copiar.
+  - **Recorte de Tela Cheia** – Copia toda a área de trabalho ativa
+
+* Para abrir clique tecla **Windows > Acessórios do Windows > Ferramenta de captura**.
+
+<!-- Imagem 185 e 186 -->
+![imagem 185](/img/Windows_img/Imagem185.png)
+![imagem 186](/img/Windows_img/Imagem186.png)
+
+## Gravador de Passos
+
+É uma ferramenta que já vem instalada no Windows, ela registra cada evento do mouse, e gera um passo a passo de tudo que foi feito. Muito bom para criar tutoriais de passo a passo. Imagine que você precise ensinar a alguém, o uso correto de um sistema, ou como fazer um download, e etc. Esse recurso é ideal, ele registra cada tela que entrou, tecla que usou, texto que digitou. Isso facilita a compreensão de repetir um evento.
+
+<!-- Imagem 187 -->
+![imagem 187](/img/Windows_img/Imagem187.png)
+
+* Para abrir clique tecla **Windows > Acessórios do Windows Gravador de passos**
+
+<!-- Imagem 188 -->
+![imagem 188](/img/Windows_img/Imagem188.png)
+
+* Clique em Iniciar Gravação, execute todo o processo, e ao final, clique em Para Gravação. Clique em Salvar
+
+<!-- Imagem 189 -->
+![imagem 189](/img/Windows_img/Imagem189.png)
+
+Para verificar o arquivo gravado, vá até a pasta, localize o arquivo e clique duas vezes.
+
+1) O que você entende por Acessórios?
+a.Programas ou apps baixados no Store, e instalados posteriormente.
+b.Programas ou apps que nos auxiliam no suporte a usuários.
+c.Programas ou apps que já vem instalados no Windows.
+d.Programas ou apps que não tem tanta utilidade.
+
+2) Crie um Post-Its na área de trabalho, com o texto: Não esquecer de rever essa aula
+
+3) Utilize a ferramenta de captura, e selecione uma parte da tela.
+
+4) Com o Conversor de Moeda, e converta R$ 1.285,00, em $ (dólar)
+
+5) Converta 684,7M, em Km
+
+6) Crie um desenho usando Paint, ou Paint 3D.
+
+7) No WordPad digite o Texto “É um editor de textos simples que já vem instalado no Windows desde 1985. Na versão Windows 10.” e formate-o.
+
+8) Abra o Bloco de notas, digite o texto abaixo, salve na área de trabalho com o nome de Aviso de Vírus.bat, em seguida execute.
+
+@echo off echo Olá!
+echo Acho que voce infectou seu computador. echo Esse virus ira formata-lo
+pause
+:a
+echo Formatando o seu computador... Aguarde 
+goto a
+
+9) Qual o apelido carinhoso do WordPad?
+
+10) Crie um passo a passo, abrindo e fechado qualquer aplicativo, salve na área de trabalho com o nome passo 1, e veja seu conteúdo.

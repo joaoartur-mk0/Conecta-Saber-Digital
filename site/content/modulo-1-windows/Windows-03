@@ -1,0 +1,707 @@
+# Painel de Controle X Configurações
+
+O Painel de Controle, tem sido por décadas, uma das ferramentas mais importantes do Windows, no momento de personalização e configuração do computador. Porém, desde o lançamento do Windows 8, que a Microsoft vem apostando em um aplicativo com cara nova, e mais flexível, chamado "Configurações" para realizar algumas tarefas que antes eram feitas apenas no Painel de Controle.
+ 
+O Windows 10 manteve o novo aplicativo, acrescentando mais responsabilidades a ele. O novo menu adotou o lado intuitivo do Painel de Controle do Windows 7 e diminuiu a necessidade de se acessar constantemente a ferramenta para personalizar seu desktop.
+ 
+Porém, apesar das mudança consideráveis do aplicativo, aqueles que não usaram ou conheceram o Windows 8, vão se sentir um pouco perdidos em relação à “Configurações” do Windows 10. E, por estarem tão acostumados a recorrer ao Painel de Controle para tudo, esses usuários vão perceber a diferença e precisarão de ajuda na hora de utilizar o aplicativo.
+ 
+Por exemplo, sempre que precisavam adicionar ou remover dispositivos e programas, ou, ajustar itens do sistema, recorriam ao painel de controle. Ele era como uma central administrativa do SO, e a partir dele o usuário podia configurar os recursos, e através dele, ter acesso às questões de segurança, aparência, cópias de segurança (backup), data/hora, idiomas, moeda corrente, e contas de usuário.
+
+<!-- imagem 63 -->
+![imagem 63](/img/Windows_img/Imagem63.png)
+
+* Lembre-se que não existe perfeição
+Painel de Controle ainda não é totalmente dispensável, com certeza algumas modificações e ajustes deverão ser feitos em Configurações, e tem mais, muita gente ainda não se acostumou com o novo aplicativo.
+
+ ## Painel de Controle
+
+Como Abrir o Painel de Controle?
+ 
+* Botão direito do mouse no logo do Windows, Executar, digitar Control ou Control Panel, clica em OK.
+
+<!-- imagem 64 e 65 -->
+![imagem 64](/img/Windows_img/Imagem64.png) ![imagem 65](/img/Windows_img/Imagem65.png)
+
+
+
+* Clicar na Barra de pesquisa, digitar Painel de Controle, clicar na opção correspondente.
+
+<!-- imagem 66 -->
+![imagem 66](/img/Windows_img/Imagem66.png)
+
+
+* Botão Iniciar, Configurações, Temas, Configurações de ícones da área de trabalho, clique na caixa para habilitar o Painel de Controle, clique em OK. No menu iniciar, pasta Sistema do Windows, Painel de Controle.
+
+<!-- imagem 67, 68 e 69 -->
+![imagem 67](/img/Windows_img/Imagem67.png) ![imagem 68](/img/Windows_img/Imagem68.png) ![imagem 69](/img/Windows_img/Imagem69.png)
+
+
+Não importa qual a forma que você usa, todas elas te levarão ao Painel de Controle, o que temos que ter atenção mesmo é, o que pretendemos ou precisamos fazer no Painel, para melhorar o meu dia a dia. Lembrando sempre de ir ao outro aplicativo e aos poucos verificando onde se encontram as opções que mais preciso, pois a Microsoft tem como objetivo, substituir o velho Painel de Controle.
+
+## Formas de Exibição do Painel de Controle
+
+### Formas de Exibição
+ 
+* Por padrão ele é dividido em categorias:
+
+<!-- imagem 70 -->
+![imagem 70](/img/Windows_img/Imagem70.png)
+
+
+* Mais é possível alterar o seu layout clicando na opção **Exibir** por
+
+<!-- imagem 71 -->
+![imagem 71](/img/Windows_img/Imagem71.png)
+
+* As 03 formas de exibição são:
+ 
+1) Categoria
+2) Ícones grandes
+3) Ícones pequenos
+
+## Itens do Painel de Controle
+
+* Categorias do Painel de Controle e seus itens mais importantes.
+
+<!-- imagem 72 -->
+![imagem 72](/img/Windows_img/Imagem72.png)
+
+## Conhecendo Itens do Painel de Controle
+
+### Windows Defender Firewall
+Firewall é uma forma de proteção, esse componente do Windows ajuda a bloquear ameaças e acessos de conteúdos maliciosos, ele impede que ataques de hackers ou programas indevidos através da rede. Uma curiosidade é que ao instalar outra proteção como um antivírus por exemplo, ele é automaticamente desabilitado. Mas se quiser você pode habilitar ou desabilitar a hora que achar necessário, apesar de não ser recomendado pela Microsoft.
+
+* Abra o Painel de Controle, clique em Sistema e Segurança
+
+<!-- imagem 73 -->
+![imagem 73](/img/Windows_img/Imagem73.png)
+
+* Clique em Windows Defender Firewall
+
+<!-- imagem 74 -->
+![imagem 74](/img/Windows_img/Imagem74.png)
+
+* Se precisar permitir o acesso de um Aplicativo, clique em permitir um aplicativo ou recurso através do Windows Defender Firewall
+
+<!-- imagem 75 -->
+![imagem 75](/img/Windows_img/Imagem75.png)
+
+* Se o aplicativo estiver na lista, habilite com um clique na caixa, se não clique em Permitir outro aplicativo.
+
+<!-- imagem 76 -->
+![imagem 76](/img/Windows_img/Imagem76.png)
+
+* Indique qual aplicativo e clique em adicionar
+
+<!-- imagem 77 -->
+![imagem 77](/img/Windows_img/Imagem77.png)
+
+* Para alterar as notificações, ativar ou desativar as configurações do Windows Defender Firewall, clique em **Alterar configurações** ou em **Ativar ou Desativar o Windows Defender Firewall** no menu lateral.
+
+<!-- imagem 78 -->
+![imagem 78](/img/Windows_img/Imagem78.png)
+
+* Marque as opções de sua preferência: verde ativa e vermelho desativa o Windows Defender. Nas caixas de seleção, você pode marcar e configurar os bloqueios e as notificações.
+
+<!-- imagem 79 -->
+![imagem 79](/img/Windows_img/Imagem79.png)
+* Pode-se ainda restaurar as configurações padrão ou acessar as configurações avançadas.
+
+<!-- imagem 80 -->
+![imagem 80](/img/Windows_img/Imagem80.png)
+
+* Restaurar padrões
+
+<!-- imagem 81 -->
+![imagem 81](/img/Windows_img/Imagem81.png)
+
+Configurações avançadas, nesta área aconselhamos só entrar quem conhece um pouco sobre políticas de segurança do Windows. É muito complexa.
+
+<!-- imagem 82 -->
+![imagem 82](/img/Windows_img/Imagem82.png)
+
+### Sistema
+
+Nesta área você pode verificar as configurações básicas do computador: Qual o SO instalado e sua versão, o tipo de Sistema, o Processador, a Memória RAM, Nome do Computador e Grupo de Trabalho. Além de permitir acesso à configuração de todos os dispositivos.
+
+<!-- imagem 83 -->
+![imagem 83](/img/Windows_img/Imagem83.png)
+
+Para verificar os **Dispositivos** instalados, clique em **Gerenciador de Dispositivos**
+
+<!-- imagem 84 -->
+![imagem 84](/img/Windows_img/Imagem84.png)
+
+* A tela de **Gerenciador de dispositivos** será exibida, observe bem: se algum sinal de **INTERROGAÇÃO** ou **EXCLAMAÇÃO** aparecer em algum dos dispositivos, neste caso ou não foi reconhecido e instalado corretamente ou está com mau funcionamento. Será necessária a sua desinstalação e reinstalação ou a **Atualização do Driver**. Para isso, clique com o botão direito do mouse sobre esse dispositivo e use a opção correta.
+
+<!-- imagem 85 -->
+![imagem 85](/img/Windows_img/Imagem85.png)
+
+Para fazer conexões remotas entre computadores usando o Windows e a própria rede:
+
+* Clique em **Configurações Remotas**
+
+<!-- imagem 86 -->
+![imagem 86](/img/Windows_img/Imagem86.png)
+
+* Clique em **Remoto** e defina as configurações: **Assistência Remota** ou **Área de Trabalho Remota**, dependendo da sua necessidade. Clique em **Permitir conexões**.
+
+<!-- imagem 87 -->
+![imagem 87](/img/Windows_img/Imagem87.png)
+
+Para os casos em que, após a atualização de algum aplicativo ou do próprio Windows, o SO fica ruim ou apresenta alguns danos (procedimento não recomendado para quem desconhece o SO), podemos recorrer ao recurso de **Restaurar o sistema** para um ponto anterior ao problema:
+
+* Clique em **Proteção do Sistema**, depois em **Restauração do Sistema**, escolha a data, cliqe em **Avançar** e depois em **concluir**.
+
+<!-- imagem 88 -->
+![imagem 88](/img/Windows_img/Imagem88.png)
+
+### Opções de energia
+
+Sempre que a tela do computador escurece o que normalmente você faz? Movimenta o mouse, o que faria com que a tela voltasse ao modo normal. Em outros casos, por exemplo, no notebook, você baixa a tampa e ele não suspende, não desliga, e você ciente que havia desligado, enquanto isso a bateria está em uso. Essas e outras necessidades podem ser configuradas em **Opções de Energia**. Além de ver as opções de gerenciamento de energia do computador e da bateria no caso dos Notebooks.
+
+* No **Painel de Controle**, clique em **Sistema e Segurança**
+
+<!-- imagem 89 -->
+![imagem 89](/img/Windows_img/Imagem89.png)
+
+* Em seguida, Opções de energia
+
+<!-- imagem 90 -->
+![imagem 90](/img/Windows_img/Imagem90.png)
+* Em Escolher ou personalizar um plano de energia, clique em alterar configurações do plano.
+
+<!-- imagem 91 -->
+![imagem 91](/img/Windows_img/Imagem91.png)
+
+* Agora você pode ajustar melhor ainda. As opções mais comuns são: Disco rígido, suspender, botões de energia e tampa, e vídeo.
+
+<!-- imagem 92 -->
+![imagem 92](/img/Windows_img/Imagem92.png)
+
+### Ferramentas administrativas
+
+São as ferramentas para uso dos administradores do SO e usuários de conhecimentos avançados sobre sistemas, lembrando que as opções do grupo ferramentas podem variar de acordo com a versão do Windows.
+
+* No Painel de Controle clique em **Sistema e Segurança**
+
+<!-- imagem 93 -->
+![imagem 93](/img/Windows_img/Imagem93.png)
+
+Em seguida, **Ferramentas Administrativas**
+
+<!-- imagem 94 -->
+![imagem 94](/img/Windows_img/Imagem94.png)
+
+* Se você entrou aqui, deve saber o que quer fazer, e como fazer, como foi mencionado acima, área para usuários avançados e administradores.
+
+<!-- imagem 95 -->
+![imagem 95](/img/Windows_img/Imagem95.png)
+
+* Por exemplo, tem algum aplicativo que deve rodar em determinados horário em dias programados e você pretende que o sistema o execute, use o agendador de tarefas, criar tarefa.
+
+<!-- imagem 96 -->
+![imagem 96](/img/Windows_img/Imagem96.png)
+
+* Na tela seguinte as ações e condições
+
+<!-- imagem 97 -->
+![imagem 97](/img/Windows_img/Imagem97.png)
+
+### Central de rede e compartilhamento
+
+Em **Central de rede e compartilhamento** é possível solucionar problemas da rede, diagnosticar, reparar problemas ou entender como solucionar, além de criar um grupo doméstico e ver o status da rede.
+
+* No Painel de Controle clique em Rede e Internet
+
+<!-- imagem 98 -->
+![imagem 98](/img/Windows_img/Imagem98.png)
+
+* Em seguida, Central de Compartilhamento e Rede
+
+<!-- imagem 99 -->
+![imagem 99](/img/Windows_img/Imagem99.png)
+
+* Na tela seguinte você terá informações da rede, você pode ainda escolher alterar as configurações do adaptador ou Compartilhamento
+
+<!-- imagem 100 -->
+![imagem 100](/img/Windows_img/Imagem100.png)
+
+* Tela par alterar a Configurações do adaptador
+
+<!-- imagem 101 -->
+![imagem 101](/img/Windows_img/Imagem101.png)
+
+· Tela para alterar as configurações de compartilhamento avançadas, nela você deve definir as configurações para os diferentes perfis:
+ 
+  * **Particular**
+  * **Convidado**
+  * **Todas as Redes**
+
+* Em **Particular** e **Convidado** as opções são de descoberta de rede e compartilhamento de arquivo e impressora.
+
+* Em **Todas as redes** atente aos detalhes de: Compartilhamento de pasta pública, compartilhamento de mídia, conexões de compartilhamento de arquivos e compartilhamento protegido por senha.
+
+**Central de rede e compartilhamento**
+
+   * **Rede Particular / Convidado ou público**
+
+   <!-- imagem 102 -->
+![imagem 102](/img/Windows_img/Imagem102.png)
+
+  * Todas as Redes  
+
+   <!-- imagem 103 -->
+   ![imagem 103](/img/Windows_img/Imagem103.png)
+
+### Dispositivos e impressoras
+
+Para ver quais os dispositivos e impressoras estão conectados ao computador, fazer uso dos mesmos ou solucionar o problema por que não estão funcionando corretamente.
+ 
+Podemos realizar essas entre outras tarefas na pasta de dispositivos e Impressoras, e algumas de tarefas que podemos realizar estão:
+ 
+  * **Adicionar uma impressora ou dispositivo** de rede ou sem fio.
+  * **Ver quais os dispositivos e impressoras** estão conectados.
+  * **Ver como está o funcionamento** dos dispositivos.
+  * **Visualizar informações**, como marca, modelo e fabricante.
+  * **Realizar tarefas** com um dispositivo.
+
+* No Painel de Controle clique em Hardware e Sons
+
+<!-- imagem 104 -->
+![imagem 104](/img/Windows_img/Imagem104.png)
+
+* Em seguida, Central de Compartilhamento e Rede
+
+<!-- imagem 105 e 106-->
+![imagem 105](/img/Windows_img/Imagem105.png)
+![imagem 106](/img/Windows_img/Imagem106.png)
+
+* Para verificar documentos na fila da impressora clique duas vezes sobre a impressora, em sua grande maioria será exibido uma nova ela com todas as informações do dispositivo. Por exemplo, se clicar em HP Deskjet 360 séries como no desenho acima, veja a próxima tela. Essas telas cheias de opções são definidas pelos fabricantes, quer dizer que nem todas as telas terão exatamente as mesmas opções.
+
+* Vejam as propriedades da impressora, mais essa tela tem mais opções que são muito importantes, como:
+
+  * Ver o que está sendo impresso
+  * Personalizar a impressora
+  * Definir preferências
+
+<!-- imagem 107 -->
+![imagem 107](/img/Windows_img/Imagem107.png)
+
+* Em Personalizar a Impressora temos Página teste, compartilhamento
+
+<!-- imagem 108 -->
+![imagem 108](/img/Windows_img/Imagem108.png)
+
+* Para compartilhar, após clicar em compartilhamento
+
+<!-- imagem 109 -->
+![imagem 109](/img/Windows_img/Imagem109.png)
+
+* Clique em alterar opções de compartilhamento
+
+<!-- imagem 110 -->
+![imagem 110](/img/Windows_img/Imagem110.png)
+
+* Marque a opção compartilhar esta impressora e digite um nome para o compartilhamento.
+
+<!-- imagem 111 -->
+![imagem 111](/img/Windows_img/Imagem111.png)
+
+* Para impressoras compartilhadas entre máquinas com diferentes versões do Windows, clique em drives adicionais, e aplicar
+
+<!-- imagem 112 -->
+![imagem 112](/img/Windows_img/Imagem112.png)
+
+* Em definir preferências temos layout do papel, qualidade/papel e atalho para impressão.
+
+<!-- imagem 113 -->
+![imagem 113](/img/Windows_img/Imagem113.png)
+
+* Tornar uma impressora como padrão, clicar com o botão direito sobre a impressora, em seguida em definir como impressora padrão.
+
+<!-- imagem 114 -->
+![imagem 114](/img/Windows_img/Imagem114.png)
+
+### Som
+
+Nesta pasta é possível ver as informações sobre os dispositivos de áudio, testar o microfone, o alto-falante, e definir esquema de sons a serem usados nos eventos do Windows ou em programas.
+
+* No **Painel de Controle**, clique em **Hardware e Sons**
+
+<!-- imagem 115 -->
+![imagem 115](/img/Windows_img/Imagem115.png)
+
+* Em seguida, clique em som
+
+<!-- imagem 116 -->
+![imagem 116](/img/Windows_img/Imagem116.png)
+
+* Em reprodução, é possível escolher o dispositivo. Às vezes você precisa alternar de caixas para som do monitor.
+
+<!-- imagem 117 -->
+![imagem 117](/img/Windows_img/Imagem117.png)
+
+* Em gravação, é possível escolher o dispositivo.
+
+<!-- imagem 118 -->
+![imagem 118](/img/Windows_img/Imagem118.png)
+
+* Em sons, você pode definir seu esquema.
+
+<!-- imagem 119 -->
+![imagem 119](/img/Windows_img/Imagem119.png)
+
+### Centro de Mobilidade do Windows
+
+Aplicativo prático que permite ao usuário acessar facilmente aos principais recursos móveis e ajustá-los, como o brilho da tela, volume, planos de energia, orientação da tela, sincronização e configurações de apresentação.
+
+* No Painel de Controle clique em Hardware e Sons
+
+<!-- imagem 120 -->
+![imagem 120](/img/Windows_img/Imagem120.png)
+
+* Em seguida, clique em Centro de Mobilidade do Windows
+
+<!-- imagem 121 -->
+![imagem 121](/img/Windows_img/Imagem121.png)
+
+* Como podemos observar é possível definir alguns pontos importantes antes de fazer uma apresentação, mais um ponto a ser observado é conectar vídeo.
+
+<!-- imagem 122 -->
+![imagem 122](/img/Windows_img/Imagem122.png)
+* Pode ser necessário definir como será projetado o vídeo.
+
+<!-- imagem 123 -->
+![imagem 123](/img/Windows_img/Imagem123.png)
+
+### Programas e Recursos
+
+Existem maneiras diferentes para remover ou reparar aplicativos e programas, porém, se você não encontrar aqui o que procura, tente outro local. É importante saber que alguns aplicativos e programas estão integrados ao Windows e não podem ser desinstalados.
+ 
+Supomos que foi instalado um aplicativo qualquer, e agora não tem utilidade, essa pasta tem a opção para remoção do mesmo. Outro caso é um aplicativo que vem instalado com o Windows, neste caso para retirá-lo do computador é necessário desativar o recurso do mesmo.
+ 
+Se alguns aplicativos e programas não estiverem funcionando corretamente, neste caso um reparo se faz necessário. É importante informar que não será possível reparar, alterar ou modificar todos os aplicativos e programas.
+
+* No Painel de Controle clique em Programas
+
+<!-- imagem 124 -->
+![imagem 124](/img/Windows_img/Imagem124.png)
+
+* Em seguida, clique em Programas e Recursos
+
+<!-- imagem 125 -->
+![imagem 125](/img/Windows_img/Imagem125.png)
+
+* Clique com o botão direito sobre o programa, em seguida na opção desejada.
+
+<!-- imagem 126 -->
+![imagem 126](/img/Windows_img/Imagem126.png)
+
+* Para ativar/desativar um recurso do Windows, na tela acima, clique em ativar ou desativar recursos do Windows
+
+<!-- imagem 127 -->
+![imagem 127](/img/Windows_img/Imagem127.png)
+* Use as caixas de seleção para ativar ou desativar um recurso.
+
+<!-- imagem 128 -->
+![imagem 128](/img/Windows_img/Imagem128.png)
+
+### Programas padrão
+
+Usado para definir qual o programa será utilizado quando clicar em um arquivo, documento ou link. Por exemplo, quando clicamos em um arquivo de áudio, podemos escolher se ele será executado pelo Windows Media Player, Groove Música, MPC-HC.
+
+* No Painel de Controle clique em Programas
+
+<!-- imagem 129 -->
+![imagem 129](/img/Windows_img/Imagem129.png)
+
+* Em seguida, clique em Programas Padrão
+
+<!-- imagem 130 -->
+![imagem 130](/img/Windows_img/Imagem130.png)
+
+* Nesta tela temos as opções possíveis, vamos conhecer.
+
+<!-- imagem 131 -->
+![imagem 131](/img/Windows_img/Imagem131.png)
+
+* Definir Padrão/Associar um tipo de arquivo/Definir acesso a programas e padrões do computador, clica e escolhe o aplicativo.
+
+<!-- imagem 132 -->
+![imagem 132](/img/Windows_img/Imagem132.png)
+
+* Alterar configuração de Reprodução Automática
+
+<!-- imagem 133 -->
+![imagem 133](/img/Windows_img/Imagem133.png)
+
+### Contas de Usuário
+
+É um modo seguro de gerenciar as contas dos usuários e configurar o controle de contas de usuários. É nesta parte da configuração que é permitido criar, alterar, e personalizar as contas. Uma conta de usuário pode alterar configurações como, plano de fundo da área de trabalho, criar e organizar pastas e arquivos, gerenciar o histórico de navegação na internet e suas senhas.
+Tipos de Contas de Usuário
+
+* Pode ser criado em dois tipos: padrão e administrador.
+
+A administrador tem mais direitos o padrão. Por exemplo, só um administrador pode criar, excluir ou alterar o tipo de outras contas, instalar e excluir dispositivos e aplicativos, configurar redes e impressoras sem fio. Já a conta padrão não os mesmo direitos de um administrador. Um curiosidade importante é que a primeira conta que criada no primeiro acesso ao computador é administrador, pois é preciso ter pelo menos uma.
+
+* No Painel de Controle clique em Contas de Usuário
+
+<!-- imagem 134 -->
+![imagem 134](/img/Windows_img/Imagem134.png)
+
+* Em seguida, clique em Contas de Usuário
+
+<!-- imagem 135 -->
+![imagem 135](/img/Windows_img/Imagem135.png)
+
+* Clique na opção de Alterar o nome, tipo, ou gerenciar outra conta
+
+<!-- imagem 136 -->
+![imagem 136](/img/Windows_img/Imagem136.png)
+
+* Alterar o nome da conta, digitar o novo nome e **Alterar Nome**
+
+<!-- imagem 137 -->
+![imagem 137](/img/Windows_img/Imagem137.png)
+
+* Contas de Usuário Alterar o tipo da conta
+
+<!-- imagem 138 -->
+![imagem 138](/img/Windows_img/Imagem138.png)
+
+* Em Gerenciar outra conta, e escolhe uma conta, ou Adicionar um novo usuário.
+
+<!-- imagem 139 -->
+![imagem 139](/img/Windows_img/Imagem139.png)
+
+* Escolhendo um usuário, pode alterar nome, criar senha, alterar tipo de conta, excluir a conta.
+
+<!-- imagem 140 -->
+![imagem 140](/img/Windows_img/Imagem140.png)
+
+* Criar uma senha
+
+<!-- imagem 141 -->
+![imagem 141](/img/Windows_img/Imagem141.png)
+
+* Excluir uma conta
+
+<!-- imagem 142 -->
+![imagem 142](/img/Windows_img/Imagem142.png)
+
+* Adicionando um novo usuário
+
+<!-- imagem 143 -->
+![imagem 143](/img/Windows_img/Imagem143.png)
+
+* Clique em adicionar outra pessoa
+
+<!-- imagem 144 -->
+![imagem 144](/img/Windows_img/Imagem144.png)
+
+* Clique em não tenho as informações
+
+<!-- imagem 145 -->
+![imagem 145](/img/Windows_img/Imagem145.png)
+
+* Clique em adicionar sem uma conta da Microsoft
+
+<!-- imagem 146 -->
+![imagem 146](/img/Windows_img/Imagem146.png)
+
+* Informar o nome e senha se houver a necessidade
+
+<!-- imagem 147 -->
+![imagem 147](/img/Windows_img/Imagem147.png)
+
+* Observe que a conta foi criada, mais para é necessária clicar nela para que o sistema crie a sua
+
+<!-- imagem 148 -->
+![imagem 148](/img/Windows_img/Imagem148.png)
+
+### Central de facilidade de acesso
+
+Traz algumas ferramentas de que facilitam o uso do computador, em determinadas ocasiões. Imagine que o teclado esteja ausente ou apresentou um defeito repentino, ou o usuário tenha algum problema de visão, então facilitamos o seu uso através de recursos, como: Lupa, Teclado Virtual, Narrador e Configuração de Alto Contraste.
+
+* No Painel de Controle clique em facilidade de acesso
+
+<!-- imagem 149 -->
+![imagem 149](/img/Windows_img/Imagem149.png)
+
+* Em seguida, clique em Central de facilidade de acesso
+
+<!-- imagem 150 -->
+![imagem 150](/img/Windows_img/Imagem150.png)
+
+* Nesta tela temos algumas opções em destaque, por serem as mais utilizadas, como a Lupa, Narrador, Teclado Virtual e Alto contraste.
+
+<!-- imagem 151 -->
+![imagem 151](/img/Windows_img/Imagem151.png)
+
+Tem ainda algumas opções, lembrando sempre que, ao selecionar uma das configurações, elas serão iniciadas automaticamente
+
+<!-- imagem 152 -->
+![imagem 152](/img/Windows_img/Imagem152.png)
+
+### Central de Facilidade de Acesso
+
+A Lupa amplia parte da tela ou a tela toda para que você possa ver melhor as palavras e as imagens. Em sua exibição e uso, se houver necessidade de ajustes, pode-se alterar o nível ou incremento de zoom, entre outras opções.
+
+* Clique em **Iniciar Lupa**, para sair use a tecla **Windows**  + **ESC**
+
+<!-- imagem 153 -->
+![imagem 153](/img/Windows_img/Imagem153.png)
+
+Existem vários tipos de teclado. O mais comum é o teclado físico externo. Porém, o Windows conta com uma ferramenta chamada teclado virtual, que pode ser usada no lugar de um teclado físico para se movimentar na tela do computador ou inserir texto, e não é necessário que sua tela seja Touch para usá-lo.
+
+* Clique em **Iniciar Teclado Virtual**
+
+<!-- imagem 154 -->
+![imagem 154](/img/Windows_img/Imagem154.png)
+
+O Narrador é um recurso que ajuda principalmente as pessoas com deficiência visual. Ele lê tudo que está presente na tela, e principalmente onde for posicionado o mouse.
+
+* Clique em **Iniciar Narrador**, para sair use a tecla **Caps lock** + **ESC**
+
+<!-- imagem 155 -->
+![imagem 155](/img/Windows_img/Imagem155.png)
+
+Às vezes, o usuário tem dificuldade para ler os textos, identificar links, devido as combinações de cores serem desfavoráveis, Esse tipo de página não são fácil de ler até para pessoas com a visão perfeita, imagine aquele com deficiências visuais. Cores de alto contraste podem facilitar e agilizar a leitura no seu computador.
+
+* Clique em **Configurar o Alto Contraste**, para sair use as teclas **ALT + Shift + PrtScn**
+
+<!-- imagem 156 -->
+![imagem 156](/img/Windows_img/Imagem156.png)
+
+### Data e hora
+
+Aqui alteramos data e hora do Windows e consequentemente do computador, o fuso horário, configurar o computador para modificar o relógio automaticamente para o horário de verão e incluir relógios adicionais para outros fusos horários. Não é possível ocultar o relógio.
+
+* No Painel de Controle clique em Relógio e Região
+
+<!-- imagem 157 -->
+![imagem 157](/img/Windows_img/Imagem157.png)
+
+* Em seguida, clique em Data e Hora
+
+<!-- imagem 158 -->
+![imagem 158](/img/Windows_img/Imagem158.png)
+
+Clique em **Alterar data e hora**, e ajuste o calendário e o relógio.
+
+<!-- imagem 159 -->
+![imagem 159](/img/Windows_img/Imagem159.png)
+
+Para exibir relógios com a hora em outros países, clique em **Relógios Adicionais**, em seguida ative as caixas de seleção , **Mostrar este relógio** e ajuste.
+
+<!-- imagem 160 -->
+![imagem 160](/img/Windows_img/Imagem160.png)
+
+### Região
+
+Configuração do formato de data, hora e moeda, e também o layout do teclado.
+
+* No Painel de Controle clique em Relógio e Região
+
+<!-- imagem 161 -->
+![imagem 161](/img/Windows_img/Imagem161.png)
+
+* Em seguida, clique em Região
+
+<!-- imagem 162 -->
+![imagem 162](/img/Windows_img/Imagem162.png)
+
+* Agora é só definir a configuração de sua preferência
+
+<!-- imagem 163 -->
+![imagem 163](/img/Windows_img/Imagem163.png)
+
+Para mais configurações, clique em **Configurações Adicionais**
+
+<!-- imagem 164 -->
+![imagem 164](/img/Windows_img/Imagem164.png)
+
+# Configurações
+
+## Configurações
+ 
+Como você pode observar, o **Painel de Controle** é um tópico grande, exige tempo e dedicação para entender bem cada opção. Algumas delas são usadas apenas em momentos de necessidade.
+
+> **Cuidado!** Existe uma diferença entre o *Painel de Controle* e as *Configurações do Windows 10*.
+ 
+Apesar de ter uma certa semelhança com o Painel de Controle, a tela de **Configurações** é mais limpa e adaptada à nova aparência da versão 10 do Windows, dispondo de mais recursos, como por exemplo a própria Cortana.
+
+É quase certo dizer que o componente Configurações veio para aposentar o Painel de Controle. Por isso, quem gosta do Painel de Controle, é bom estar preparado: ele pode ser removido em alguma das atualizações.
+ 
+E vale lembrar: os itens do Painel que aprendemos estão presentes no novo componente.
+ 
+Ficou de certa forma até mais fácil de navegar na nova tela: ao abrir o painel, clique na caixa de texto e digite o item que precisa encontrar.
+
+<!-- imagem 165 -->
+![imagem 165](/img/Windows_img/Imagem165.png)
+
+Para abrir, na caixa de pesquisa e digite Configurações, em seguida clique na opção certa.
+
+<!-- imagem 166 -->
+![imagem 166](/img/Windows_img/Imagem166.png)
+
+Ou clique no botão Iniciar, Configurações
+
+<!-- imagem 167 -->
+![imagem 167](/img/Windows_img/Imagem167.png)
+
+# Exercícios
+
+
+1) O que é o Painel de Controle?**
+
+a. Gerenciador de configurações e personalização do Windows.
+
+b. Ferramenta de configuração e personalização somente no Windows 10.
+
+c. Ferramenta de configuração e personalização do Windows em todas as versões.
+
+d. Ferramenta de configuração do teclado, mouse e monitor.
+
+
+
+2) No Painel de Controle, altere a data do sistema.**
+
+
+
+3) Ajuste o plano de energia para que o monitor seja desligado em 30 minutos.**
+
+
+
+4) Abra o Agendador de Tarefas.**
+
+
+
+5) Ative o compartilhamento de arquivos e impressoras.**
+
+
+
+6) Adicione um relógio com a hora de Cabul e, em seguida, compare com a hora do Brasil.**
+
+
+
+7) Visualize os adaptadores de rede.**
+
+
+
+8) Configure o formato de moeda para o de outro país.**
+
+
+
+9) Ative e desative os seguintes recursos de acessibilidade:**
+
+- Teclado Virtual
+- Lupa
+- Alto Contraste
+- Narrador
+
+
+
+10) Crie uma senha para o usuário `Aluno` e defina como senha `Aluno1`.**

@@ -1,0 +1,140 @@
+# Aula 6 - Vírus de Computador
+
+## Vírus, o que é?
+
+É verdade afirmar que navegar na rede já foi considerada bem mais insegura que hoje em dia. Apesar de existirem muitos malwares, spywares, não faltam programas que os combatam e também evitem que eles invadam nossos computadores.
+Vírus é um programa, ou linhas de comandos em códigos de um arquivos executável, que infeta as pastas, arquivos e até programas do computador. Quando você executa um programa com vírus, automaticamente ele se espalha em sua máquina, danificando todos os alvos na qual ele foi projetado. Esse prejuízo vai desde um arquivo, uma pasta, ou até mesmo comprometer todo o sistema. Eis o motivo de tomar muito cuidado ao navegar pela grande rede, se instala aplicativos sem saber sua finalidade ou origem, compartilha arquivos pela rede, e faz download de sites que não conhece.
+
+O vírus de computador ou celular, não se difere muito de um biológico. A partir do momento que são contraídos, eles podem permanecer no sistema, por determinado tempo, para depois entrarem em atividade quando menos se esperar. Se conseguir detectar a tempo, e tomar as medidas cabíveis, pode-se controlar a situação de infecção, sua expansão descontrolada, e recuperar rapidamente o sistema. Por outro lado, se não tratar, então esse vírus será capaz de contagiar outros partes, e também causar sérios danos.
+Segundo especialistas no assunto, o vírus de informática é um código executável ou software malicioso, que se autorreplica através do controle dos programas no computador infetado.
+
+Esta forma maliciosa de afetar os computadores, são criadas para se espalhar de um com facilidade de um computador anfitrião para outro, ele se agarra a um pedaço de software ou documento e ali fica até que o usuário abra a pasta em questão. Quando faz isso, o vírus executa o código, causando assim danos ao computador anfitrião.
+
+## Vírus, como se pega?
+
+Existem várias muitas formas se infectar. Uma forma ingênua e muito comum é através de downloads de programas, jogos, anexos de e-mails, instalações de software comprometido, ou links disfarçados nas redes sociais. O vírus se espalha através desses compartilhamentos de informações infetadas ou links. Porém, os computadores conectados em uma rede, que não estão protegidos de alguma forma, podem comprometer facilmente todo o ambiente, e botar abaixo toda a rede.
+
+Vale lembrar que mesmo que alguns vírus sejam considerados “não tão maliciosos” por terem efeitos positivos nas máquinas, eles são “maus” por definição, e quando são executados, podem enviar spam para todos que fazem parte da sua lista de contatos, do celular, de e-mail ou redes sociais, podem ainda corromper arquivos do disco rígido, e deixar o equipamento lento.
+
+Os vírus podem ser programados para roubar suas senhas, modificar seus dados de acesso, dificultar seu login em sua conta de e-mail, perfil de redes sociais, contas bancárias, ou até mesmo ao seu computador. O pior, é que ele pode apagar todos os dados do seu disco rígido em segundos.
+
+## Tipos de Vírus
+
+Pode até parecer brincadeira, mais acredite, existem mais de um milhão de vírus diferentes, sem contar que a cada dia surge um novo, com uma nova ação. Eles aparecem e evoluem rapidamente, para se ter uma ideia, alguns que um dia já foram tão assustadores, hoje eles são eliminados facilmente por um bom antivírus.
+Levando em consideração a gravidade, e a forma que afetam a máquina, já é possível classifica-los em dezenas de tipos. Alguns dos piores, são:
+  * Vírus de Macro
+  Esse é considerado o tipo mais comum, ele se associa a um programa ou arquivo que suportam macros (uma macro é uma sequência de comandos que pode ser executada pressionando uma única tecla). Normalmente eles são encontrados em documentos do Microsoft Word e em planilhas do Excel.
+  Estes vem como anexos no e-mail, e são ativados quando o arquivo infectado é aberto. O detalhe, é que, se for executado dentro da caixa de mensagens, ele envia uma cópia exata do arquivo para todos os contatos. Mas, se fizer o download do mesmo e executá-lo posteriormente, o vírus se propaga entre outras pastas de arquivos .docx e .xlsx na sua rede de computadores e altera o seu conteúdo.
+
+  * Vírus de Arquivo
+  Imagine um vírus chato, apesar de todos serem é claro, é que nesse tipo, ele procura em seu computador todos os arquivos criados nos aplicativos do Microsoft Office, e os associam a arquivos executáveis *.exe e *.com. Tudo isso com simples clicar em arquivo infectado, sem contar que ele pode, assumir o controle do programa e se espalhar, entre pastas, arquivos, ou computadores da rede.
+  Seu objetivo é comprometer a segurança de arquivos e dados dos computadores e da rede, criando botnets peer-to-peer e desabilitar o software de segurança nos computadores conectados. Alguns vírus de arquivo podem reescrever todos os arquivos executados, controlando o computador por completo. Tem relatos de que esses arquivos de vírus podem formatar os HDs.
+
+      - E como surgem esses botnets?
+      Para que seu computador faça parte de uma botnet, ele primeiro precisa estar infectado com um tipo de malware que se comunica com um servidor remoto ou com outros computadores infectados na rede para obter instruções de quem a esteja controlando, geralmente hackers e criminosos.
+
+      - Como reconhecer as botnets?
+      Entre os sinais estão lentidão do computador, comportamento estranho, mensagens de erro ou o acionamento repentino da ventoinha enquanto o computador está ocioso. Todos esses sintomas podem indicar que alguém está usando seu computador remotamente como parte de uma botnet.
+
+      - Como remover um PC de uma botnet?
+      É necessário remover o programa malicioso que o está controlando o computador. A melhor maneira de fazer isso é escanear seu computador usando um antivírus, que seja capaz de encontrar o malware da botnet e removê-lo para você.
+* Hijackers/Spywares
+Esse terrível invasor, é na verdade um sequestrador de informações. E o sentido real não fica muito longe disso. Entram em seu computador sem você perceber, utilizando controles ActiveX e brechas na segurança. Assim, modificam o registro do Windows, “sequestrando” o seu navegador e modificando a página inicial dele. Depois aparecem novas barras e botões, e páginas abrem sem parar na tela, contra a sua vontade.
+
+* Vírus de Script
+Vírus programado para executar comandos sem a interação do usuário. Há duas categorias de vírus script: a VB, baseada na linguagem de programação, e a JS, baseada em Java Script. O vírus script pode vir embutido em imagens e em arquivos com extensões estranhas, como
+.vbs.doc, vbs.xls ou js.jpg
+Algumas vezes, ficam exibindo anúncios em forma de textos, em outros casos, roubam os cookies, e usam essas informações para fazer comentários no site infectado.
+
+* Vírus de Boot
+Apesar de terem perdido alguma força nos últimos tempos, ainda podem aparecer sob algumas formas. Este tipo se infecta na área de inicialização e de discos rígidos, e é exatamente nessa área que se encontram arquivos essenciais ao sistema. Os vírus de boot costumam ter alto poder de destruição, impedindo, inclusive, que o usuário entre no micro.
+
+* Alarme Falso
+Apesar de não danificar o computador ou o sistema, ele consome tempo de conexão na internet, enviando o alarme para o maior número de pessoas possível. É uma espécie de vírus de boato.
+
+* Backdoor
+Esse vírus permite aos hackers controlar o computador infectado remotamente. Vem muitas vezes escondidos em arquivos recebidos por e-mail ou baixados da rede. Quando você executa esse o arquivo, o vírus é liberado e vai direto abrir uma porta de acesso da máquina, para que o autor do programa possa controlar a máquina de modo completo ou restrito.
+
+* Stealth
+É o vírus que usa técnicas para se tornar invisível. Ou seja, disfarçar quaisquer modificações que o malware possa fazer no sistema infectado. Isso inclui, por exemplo, rootkits.
+
+* Trojan (Cavalo de Tróia)
+Cavalo de Troia é um tipo de vírus que, normalmente se disfarça de software legítimo. Esses vírus podem ser enviados por criminosos virtuais e hackers na tentativa de obter acesso aos sistemas dos usuários. Uma vez ativados, os cavalos de Troia permitem que os criminosos o espionem, roubem seus dados confidenciais e obtenham acesso ao seu sistema pela porta de fundo.
+
+**Essas ações podem incluir:**
+  -  Excluir, copiar, bloquear ou modificar dados
+  - Atrapalhar o desempenho de computadores e redes de computadores Diferentemente esses vírus não conseguem se autorreplicar.
+
+* Ransomware / Encriptados
+Esse tipo de vírus foi criado para bloquear o acesso do usuário na máquina ou em determinados arquivos e envia mensagens, e para solucionar o problema seus criadores pedem um resgate, é quase sempre cobrado em bitcoins. Por isso, é comum ouvir que o Ransomware “sequestra computadores”.
+
+* Hoax
+Trata-se de boatos recebidos por e-mail ou compartilhados em redes sociais. Em geral, são mensagens dramáticas ou alarmantes que acompanham imagens chocantes, falam de crianças doentes ou avisam sobre falsos vírus. O objetivo de quem cria esse tipo de mensagem pode ser apenas se divertir com a brincadeira de mau gosto, denegrir a imagem de uma empresa ou espalhar uma ideologia política.
+
+* Multipartite
+São conhecidos como vírus híbridos, eles agem como dois tipos de vírus diferentes. Um geralmente atacam os arquivos, enquanto o outro afeta a inicialização do sistema. E por serem tão diferentes, eles podem ser difíceis de remover.
+
+* Mutante
+É programado para dificultar a ação do antivírus, fazendo com que o programa de segurança tenha dificuldades em encontrar as ameaças no dispositivo. Toda vez que alguém o executa, ele sofre uma alteração, fazendo com que a sua captura seja mais difícil.
+
+* Polimórfico
+É um pedaço de código que é caracterizado pelo seguinte comportamento, Encriptação, Auto multiplicação e mudança de um ou mais componentes de si mesmo para que permaneça elusivo. Ele é projetado para evitar a detecção, pois é capaz de criar cópias modificadas de si mesmo.
+
+## Como se proteger
+
+### Vírus, Proteção
+
+Quem não tem medo de ser infectado pelas pragas que rondam na internet? A verdade é que o avanço da tecnologia, não traz só coisas boas, algumas desagradáveis vem junto. Vejamos que a cada dia, mais e mais problemas são resolvidos com uso do computador pessoal, como pagamento de contas, arquivos com informações pessoais. Dessa forma, também aumenta o interesse dos bandidos virtuais em invadir os sistemas.
+Mais o que fazer para se proteger desses ataques tornou-se uma dúvida. Como pode ser infectado se já tem um antivírus instalado em seu computador? O problema é que o programa sozinho não vai te livrar desses riscos. Além desse programa, um conjunto de ações permitem que o computador fique o mais protegido possível:
+
+* Antivírus
+O programa sozinho pode não dar total segurança, mais vai ajudar a proteger o computador de ataques. Podemos encontrar alguns bons gratuitos que nos auxiliam na proteção, mais se quiser uma proteção superior, pode comprar, e ter um serviço de suporte maior.
+
+* Firewall
+Trabalha em parceria com o antivírus. Sua função é de expulsar o que é de caráter duvidoso antes que ele entre na máquina. Uma vez dentro, o antivírus fará o possível para eliminá-lo
+
+* Antispyware
+Tem a função de fazer varreduras no computador com o objetivo de tentar eliminar do sistema spywares - programas deixados pelos hackers em seu computador com o intuito de recolher suas informações.
+
+* Sistema operacional atualizado
+Um sistema desatualizado, torna seu computador mais vulnerável aos ataques hackers, As atualizações podem ser configuradas para serem realizadas automaticamente ou mesmo feitas quando o usuário a desejar.
+
+* Não acesse links desconhecidos
+Nem tudo que se vê é preciso clicar, em e-mails, sites, programas de bate papo, podem conter links que podem, vez ou outra, ser maliciosos. Cuidado e precaução nessa situação é essencial e ajuda, diretamente, na proteção da máquina.
+
+* Não enviar dados pessoais por e-mail
+Cuidado, não é seguro enviar dados pessoais via e-mail, hackers não brincam em serviços e dispõem de várias ferramentas para roubar, informações. Então, faça o possível, para não enviar dados pessoais, como senha de conta bancária, por exemplo.
+
+* Senhas improváveis e diferentes em cada site
+Procure não usar a mesma senha em sites, bancos ou redes. Isso já ajuda na proteção das suas contas. Sendo assim, mesmo que alguém descubra sua senha e o login de um determinado site, não acessará todas as suas contas.
+
+* Cuidado em downloads
+O maior de todos os vilões na inserção de vírus na máquina, são os Downloads. Isso acontece, quando se procura um programa específico, o site te faz acreditar que o download será feito por um link que, e na verdade, se trata de um vírus. Nunca é demais prestar atenção em todos os softwares que são indicados na instalação do arquivo, mesmo que não sejam maliciosos, esses serviços adicionais podem deixar o computador lento e vulnerável.
+
+* Arquivos “.exe” e “.scr”
+Um jeito simples, porém não eficaz, posicione o mouse sobre o link, e verifique no canto inferior esquerdo da barra de status, em que local o arquivo será encaminhado, o nome e o tipo. Caso se trate de um “.exe” quer dizer que é um executável, ou seja, um programa, provavelmente, e não site. Então, a possibilidade de ser um malware é muito grande. Evite os “.scr” que se refere a protetor de tela, o que costuma confundir o usuário.
+
+* Sites de confiança
+Quando o assunto é site de pesquisa, cuidado com os hiperlinks, e telas Popups, as vezes eles nos encaminham para sites desconhecidos de compra, de músicas, e de vídeos. Alguns usuários possuem malícia o suficiente para conseguir operar em tais sites sem adquirir vírus, mas para leigos evitar tais páginas, pelo menos no início, é essencial.
+
+# Exercício
+
+1) O que é um vírus?
+
+2) Para que serve o Antispyware?
+
+3) Cite 03 tipos de Vírus.
+
+4) O que é um Hacker?
+
+5) Por que devemos ter senhas diferentes e mudar constantemente.
+
+6) Explique o que é vírus Cavalo de Tróia?
+
+7) Duas formas de se manter seguro na internet?
+
+8) O que é um antivírus?
+
+9) Qual a importância do Firewall?
+ 
+10) Em sua opinião, qual o pior vírus?
