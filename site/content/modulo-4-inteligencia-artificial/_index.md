@@ -1,4 +1,4 @@
 ---
 title: "Módulo 4:  Inteligência Artificial (aplicações práticas)"
-weight: 10
+weight: 40
 ---

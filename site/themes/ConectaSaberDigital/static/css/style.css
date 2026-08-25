@@ -35,6 +35,21 @@ img {
   max-width: 100%;
 }
 
+/*
+  Anel de foco único e consistente para todo elemento interativo do site.
+  --leaf tem contraste suficiente sobre fundo escuro (header/hero) e claro
+  (conteúdo), então um só valor cobre o site inteiro sem overrides por
+  componente.
+*/
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--leaf);
+  outline-offset: 2px;
+  border-radius: 0.25rem;
+}
+
 .site-header,
 .course-header {
   display: flex;
@@ -64,6 +79,7 @@ img {
   padding: 0.72rem 1rem;
   border-radius: 0.5rem;
   font-weight: 800;
+  transition: filter 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
 }
 
 .btn-light,
@@ -72,9 +88,19 @@ img {
   color: var(--forest);
 }
 
+.btn-light:hover,
+.btn-primary:hover {
+  filter: brightness(0.94);
+}
+
 .btn-ghost {
   border: 1px solid rgba(255, 248, 233, 0.5);
   color: var(--cream);
+}
+
+.btn-ghost:hover {
+  background: rgba(255, 248, 233, 0.14);
+  border-color: rgba(255, 248, 233, 0.8);
 }
 
 .layout-home {
@@ -244,6 +270,33 @@ img {
   color: var(--muted);
 }
 
+/*
+  Módulo recomendado para começar: diferenciado por inversão de valor
+  (cartão sólido verde-mata), não por uma segunda cor de destaque — o
+  Broto-Verde já é usado pela tag de inscrição nesta mesma página.
+*/
+.module-card--featured {
+  background: var(--forest);
+  border-color: var(--forest);
+}
+
+.module-card--featured:hover {
+  background: var(--forest-deep);
+  border-color: var(--forest-deep);
+}
+
+.module-card--featured .module-kicker {
+  color: var(--mint);
+}
+
+.module-card--featured h3 {
+  color: var(--cream);
+}
+
+.module-card--featured p {
+  color: rgba(255, 248, 233, 0.78);
+}
+
 .site-footer {
   display: flex;
   flex-wrap: wrap;
@@ -256,6 +309,21 @@ img {
 
 .site-footer p {
   margin: 0;
+}
+
+.site-footer a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* Indica que o link sai do site (abre em nova aba) sem depender só do texto. */
+.external-icon {
+  margin-left: 0.3em;
+  vertical-align: -0.1em;
+}
+
+.site-footer a:hover {
+  color: var(--cream);
 }
 
 .page-wrapper {
@@ -319,16 +387,23 @@ img {
   color: var(--forest);
 }
 
+/* Tópico da aula que está sendo lida agora — resposta ao "onde estou". */
+.topicos-lista a.active {
+  background: rgba(118, 160, 100, 0.22);
+  color: var(--forest);
+  font-weight: 800;
+}
+
 .conteudo-aula {
   width: 100%;
-  max-width: 56rem;
+  max-width: 52rem;
   margin: 0 auto;
   padding: clamp(2rem, 5vw, 4rem);
 }
 
 .sobre-page {
   width: 100%;
-  max-width: 56rem;
+  max-width: 52rem;
   margin: 0 auto;
   padding: clamp(2rem, 5vw, 4rem);
 }
@@ -380,7 +455,7 @@ img {
 .corpo-aula p,
 .corpo-aula li {
   color: #253929;
-  font-size: 1.04rem;
+  font-size: 1.2rem;
 }
 
 /*justifica o texto do conteúdo da aula*/
@@ -412,7 +487,8 @@ img {
 
 .corpo-aula h3 {
   color: var(--forest-soft);
-  font-size: 1.25rem;
+  font-size: 1.4rem;
+  font-weight: 800;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
 }
@@ -420,6 +496,21 @@ img {
 .corpo-aula strong {
   color: var(--forest);
   font-weight: 800;
+}
+
+/*
+  Links dentro do conteúdo de aula herdavam `text-decoration: none` do
+  reset global e ficavam visualmente idênticos ao texto ao redor —
+  nada indicava que eram clicáveis.
+*/
+.corpo-aula a {
+  color: var(--forest-soft);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.corpo-aula a:hover {
+  color: var(--forest);
 }
 
 .corpo-aula blockquote {
@@ -447,22 +538,17 @@ img {
     height: auto;
     position: static;
   }
-  
+
+  .page-wrapper,
+  .page-wrapper.sidebar-collapsed {
+    grid-template-columns: 1fr;
+  }
+
   .sidebar-icon-toggle {
-  top: 5.5rem;
-}
-
-.page-wrapper,
-.page-wrapper.sidebar-collapsed {
-  grid-template-columns: 1fr;
-}
-
-.sidebar-icon-toggle {
-  left: 1rem;
-  top: 1rem;
-  transform: none;
-}
-
+    left: 1rem;
+    top: 1rem;
+    transform: none;
+  }
 }
 
 @media (max-width: 560px) {
@@ -488,20 +574,29 @@ img {
   transform: translateX(-50%);
   z-index: 20;
 
-  width: 2.25rem;
-  height: 2.25rem;
+  min-height: 2.75rem;
+  padding: 0.6rem 1rem;
   border: 0;
-  border-radius: 0.45rem;
+  border-radius: 0.5rem;
 
   background: var(--forest);
   color: var(--cream);
   cursor: pointer;
 
-  font-size: 1.4rem;
-  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
 
-  display: grid;
-  place-items: center;
+  font-family: inherit;
+  font-size: 0.92rem;
+  font-weight: 800;
+  white-space: nowrap;
+
+  transition: background-color 0.15s ease;
+}
+
+.sidebar-icon-toggle:hover {
+  background: var(--forest-deep);
 }
 
 .page-wrapper.sidebar-collapsed .sidebar-icon-toggle {
@@ -510,13 +605,8 @@ img {
   transform: none;
 }
 
-.sidebar-icon-toggle:hover {
-  background: var(--forest-deep);
-}
-
 .icon-sidebar-closed {
   display: none;
-  font-size: 1.05rem;
 }
 
 .page-wrapper.sidebar-collapsed {
@@ -528,7 +618,7 @@ img {
 }
 
 .page-wrapper.sidebar-collapsed .conteudo-aula {
-  max-width: 72rem;
+  max-width: 60rem;
 }
 
 .page-wrapper.sidebar-collapsed .icon-sidebar-open {
