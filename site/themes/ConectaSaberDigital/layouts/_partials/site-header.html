@@ -1,7 +1,7 @@
 {{/*
   Cabeçalho institucional do site.
 
-  @param {string} page Página atual: "home" | "aula" | "sobre".
+  @param {string} page Página atual: "home" | "aula" | "sobre" | "ajuda".
     Controla a classe compacta do logo e quais links do nav aparecem
     (o link para a própria página atual nunca é mostrado).
 
@@ -14,6 +14,9 @@
   </a>
 
   <nav class="header-actions" aria-label="Acesso rápido">
+    {{- if ne $page "ajuda" }}
+    <a href="/ajuda/" class="btn btn-light">Ajuda</a>
+    {{- end }}
     {{- if ne $page "sobre" }}
     <a href="/sobre/" class="btn btn-light">Sobre</a>
     {{- end }}

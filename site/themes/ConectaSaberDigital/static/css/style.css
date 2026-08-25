@@ -30,6 +30,19 @@ a {
   text-decoration: none;
 }
 
+/* Some conteúdo visualmente, mas continua audível para leitor de tela. */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 img {
   display: block;
   max-width: 100%;
@@ -154,18 +167,23 @@ summary:focus-visible,
   margin-top: 2rem;
 }
 
-.hero-enrollment {
-  display: grid;
-  gap: 0.6rem;
-  justify-items: start;
-  margin-top: 1.75rem;
-  padding: 1.1rem 1.35rem;
-  border: 1px solid rgba(255, 248, 233, 0.35);
-  border-radius: 0.5rem;
-  background: rgba(255, 248, 233, 0.08);
+/*
+  Faixa de inscrições: informação real, mas deliberadamente fora do hero e
+  com peso visual menor que os CTAs de aprendizagem — texto/link sublinhado
+  em vez de botão sólido, para não competir com "Começar agora" na primeira
+  tela nem soar como contagem regressiva.
+*/
+.enrollment-banner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 1rem;
+  padding: 0.9rem clamp(1rem, 6vw, 6rem);
+  background: var(--mint);
+  border-bottom: 1px solid var(--line);
 }
 
-.hero-enrollment .enrollment-tag {
+.enrollment-banner .enrollment-tag {
   display: inline-block;
   padding: 0.25rem 0.6rem;
   border-radius: 999px;
@@ -177,10 +195,22 @@ summary:focus-visible,
   text-transform: uppercase;
 }
 
-.hero-enrollment p {
+.enrollment-banner p {
   margin: 0;
-  color: rgba(255, 248, 233, 0.86);
-  font-size: 1.02rem;
+  color: var(--forest);
+  font-size: 0.98rem;
+}
+
+.enrollment-link {
+  margin-left: auto;
+  color: var(--forest);
+  font-weight: 800;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.enrollment-link:hover {
+  color: var(--forest-deep);
 }
 
 .hero-panel {
@@ -344,10 +374,17 @@ summary:focus-visible,
 }
 
 .sidebar-modulos h2 {
-  margin: 0 0 1rem;
+  margin: 0 0 0.5rem;
   color: var(--forest);
   font-size: 1rem;
   text-transform: uppercase;
+}
+
+.sidebar-hint {
+  margin: 0 0 1.1rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.4;
 }
 
 .dropdown-modulo {
