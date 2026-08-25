@@ -1,4 +1,4 @@
-baseURL = 'https://conecta-saber-digital.duckdns.org/'
+baseURL = 'https://conectasaberdigital.duckdns.org/'
 languageCode = 'pt-br'
 title = 'Conecta Saber Digital'
 theme = 'ConectaSaberDigital'
