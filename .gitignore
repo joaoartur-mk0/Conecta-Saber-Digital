@@ -3,6 +3,7 @@
 mempalace.yaml
 entities.json
 graphify-out
+.claude
 
 # Hugo build artifacts
 site/public/
