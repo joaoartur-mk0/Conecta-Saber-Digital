@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="{{ site.Params.description }}" />
+  <link rel="icon" type="image/png" href="/img/iconConecta.png" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <title>{{ .Title }} - Conecta Saber Digital</title>
+</head>
+
+<body class="layout-documentacao">
+  <header class="course-header">
+    <a class="brand-link compact" href="/" aria-label="Página inicial">
+      <img src="/img/logoConecta.png" alt="Conecta Saber Digital" />
+    </a>
+
+    <nav class="header-actions" aria-label="Acesso rápido">
+      <a href="/homepage/" class="btn btn-light">Acessar aulas</a>
+      <a href="/" class="btn btn-light">Início</a>
+    </nav>
+  </header>
+
+  <main class="sobre-page">
+    <section class="sobre-hero">
+      <span class="eyebrow">Conecta Saber Digital</span>
+      <h1>Sobre o Projeto</h1>
+    </section>
+
+    <article class="corpo-aula sobre-conteudo">
+      {{ .Content }}
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>Conecta Saber Digital - {{ now.Year }}</p>
+    <p>Repositório de conteúdos para alfabetização digital.</p>
+    <p>
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR" target="_blank" rel="license noopener">Licença CC BY-NC 4.0</a>
+      ·
+      <a href="https://github.com/joaoartur-mk0/Conecta-Saber-Digital" target="_blank" rel="noopener">GitHub</a>
+    </p>
+  </footer>
+</body>
+</html>
