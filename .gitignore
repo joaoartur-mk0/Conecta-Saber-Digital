@@ -1,0 +1,11 @@
+
+# MemPalace per-project files (issue #185)
+mempalace.yaml
+entities.json
+graphify-out
+.claude
+
+# Hugo build artifacts
+site/public/
+site/resources/
+site/.hugo_build.lock

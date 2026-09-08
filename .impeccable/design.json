@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-25T00:00:00-03:00",
+  "title": "Design System: Conecta Saber Digital",
+  "extensions": {
+    "colorMeta": {
+      "forest": {
+        "role": "primary",
+        "displayName": "Verde-Mata Profunda",
+        "canonical": "#0d351c",
+        "tonalRamp": ["#051208", "#082413", "#0d351c", "#14472a", "#1c5936", "#315f37", "#4d7a4f", "#76a064"]
+      },
+      "forest-deep": {
+        "role": "primary",
+        "displayName": "Verde-Mata Escura",
+        "canonical": "#082413",
+        "tonalRamp": ["#020a05", "#051208", "#082413", "#0d351c", "#14472a", "#1c5936", "#315f37", "#4d7a4f"]
+      },
+      "forest-soft": {
+        "role": "primary",
+        "displayName": "Verde-Suave",
+        "canonical": "#315f37",
+        "tonalRamp": ["#0d351c", "#14472a", "#1c5936", "#315f37", "#4d7a4f", "#76a064", "#a8c99a", "#d9e8cf"]
+      },
+      "leaf": {
+        "role": "secondary",
+        "displayName": "Broto-Verde",
+        "canonical": "#76a064",
+        "tonalRamp": ["#315f37", "#4d7a4f", "#5f8c57", "#76a064", "#8fb37d", "#a8c99a", "#c3dbb6", "#d9e8cf"]
+      },
+      "mint": {
+        "role": "neutral",
+        "displayName": "Menta",
+        "canonical": "#d9e8cf",
+        "tonalRamp": ["#76a064", "#8fb37d", "#a8c99a", "#c3dbb6", "#d9e8cf", "#e7f0de", "#f0f7ea", "#f8fbf4"]
+      },
+      "cream": {
+        "role": "neutral",
+        "displayName": "Creme",
+        "canonical": "#fff8e9",
+        "tonalRamp": ["#e8dcc0", "#f0e6cf", "#f7f0dc", "#fff8e9", "#fff9ed", "#fffaf1", "#fffcf6", "#fffefb"]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Papel",
+        "canonical": "#fffcf3",
+        "tonalRamp": ["#e8dcc0", "#f0e6cf", "#f7f2e0", "#fffcf3", "#fffdf6", "#fffdf8", "#fffefa", "#fffffc"]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Tinta",
+        "canonical": "#163221",
+        "tonalRamp": ["#050d08", "#0a1a10", "#0f2617", "#163221", "#1f4530", "#315f37", "#4d7a4f", "#76a064"]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Verde-Neutro",
+        "canonical": "#61705e",
+        "tonalRamp": ["#2a332a", "#3d463c", "#4f594d", "#61705e", "#798873", "#95a38e", "#b5c0ae", "#d6dccf"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Título único da hero da homepage." },
+      "headline": { "displayName": "Headline", "purpose": "Títulos de seção e cabeçalhos de página (Sobre, aulas)." },
+      "title": { "displayName": "Title", "purpose": "Títulos de card de módulo." },
+      "body": { "displayName": "Body", "purpose": "Parágrafos de conteúdo; justificado com recuo em aulas." },
+      "label": { "displayName": "Label", "purpose": "Eyebrows e kickers acima de títulos." }
+    },
+    "shadows": [
+      { "name": "shadow-low", "value": "0 12px 32px rgba(13, 53, 28, 0.08)", "purpose": "Repouso de cards de módulo." },
+      { "name": "shadow-high", "value": "0 18px 55px rgba(8, 36, 19, 0.14)", "purpose": "Hero-panel em repouso; hover de card de módulo. Sombra de destaque do sistema." },
+      { "name": "shadow-content", "value": "0 16px 45px rgba(13, 53, 28, 0.08)", "purpose": "Superfície de leitura longa (corpo da aula)." }
+    ],
+    "motion": [],
+    "breakpoints": [
+      { "name": "md", "value": "860px" },
+      { "name": "sm", "value": "560px" },
+      { "name": "content", "value": "700px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Ação principal, fundo creme sólido sobre qualquer contexto.",
+      "html": "<a href=\"#\" class=\"ds-btn ds-btn-primary\">Começar agora</a>",
+      "css": ".ds-btn { display: inline-flex; align-items: center; justify-content: center; min-height: 2.75rem; padding: 0.72rem 1rem; border-radius: 0.5rem; font-weight: 800; text-decoration: none; } .ds-btn-primary { background: #fff8e9; color: #0d351c; } .ds-btn-primary:hover { background: #fffcf3; } .ds-btn-primary:focus-visible { outline: 2px solid #76a064; outline-offset: 2px; }"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Ação secundária sobre fundo escuro (hero, headers).",
+      "html": "<a href=\"#\" class=\"ds-btn ds-btn-ghost\">Ver módulos</a>",
+      "css": ".ds-btn-ghost { display: inline-flex; align-items: center; justify-content: center; min-height: 2.75rem; padding: 0.72rem 1rem; border-radius: 0.5rem; font-weight: 800; text-decoration: none; border: 1px solid rgba(255, 248, 233, 0.5); color: #fff8e9; background: transparent; } .ds-btn-ghost:hover { background: rgba(255, 248, 233, 0.12); } .ds-btn-ghost:focus-visible { outline: 2px solid #76a064; outline-offset: 2px; }"
+    },
+    {
+      "name": "Module Card",
+      "kind": "card",
+      "refersTo": "card-module",
+      "description": "Card de acesso a um módulo do curso na grade da homepage.",
+      "html": "<a href=\"#\" class=\"ds-card\"><span class=\"ds-card-kicker\">Módulo</span><h3 class=\"ds-card-title\">Windows</h3><p class=\"ds-card-desc\">6 aulas disponíveis</p></a>",
+      "css": ".ds-card { display: block; min-height: 12rem; padding: 1.3rem; border: 1px solid rgba(13, 53, 28, 0.14); border-radius: 0.5rem; background: #fff; box-shadow: 0 12px 32px rgba(13, 53, 28, 0.08); text-decoration: none; transition: box-shadow 0.2s, border-color 0.2s; } .ds-card:hover { border-color: rgba(49, 95, 55, 0.4); box-shadow: 0 18px 55px rgba(8, 36, 19, 0.14); } .ds-card-kicker { display: inline-block; margin-bottom: 0.7rem; color: #315f37; font-size: 0.78rem; font-weight: 900; letter-spacing: 0.08em; text-transform: uppercase; } .ds-card-title { margin: 0; color: #0d351c; font-size: 1.45rem; line-height: 1.15; } .ds-card-desc { color: #61705e; }"
+    },
+    {
+      "name": "Enrollment Tag",
+      "kind": "chip",
+      "refersTo": "tag-pill",
+      "description": "Pílula de destaque pontual, uso exclusivo para chamadas de urgência/novidade.",
+      "html": "<span class=\"ds-tag\">Inscrições abertas</span>",
+      "css": ".ds-tag { display: inline-block; padding: 0.25rem 0.6rem; border-radius: 999px; background: #76a064; color: #082413; font-size: 0.72rem; font-weight: 900; letter-spacing: 0.06em; text-transform: uppercase; }"
+    },
+    {
+      "name": "Site Header",
+      "kind": "nav",
+      "refersTo": "header",
+      "description": "Cabeçalho institucional verde-mata, presente em toda página.",
+      "html": "<header class=\"ds-header\"><div class=\"ds-brand\">Conecta Saber Digital</div><nav class=\"ds-header-actions\"><a href=\"#\" class=\"ds-btn ds-btn-primary\">Acessar aulas</a></nav></header>",
+      "css": ".ds-header { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 1rem clamp(1rem, 4vw, 4rem); background: #0d351c; color: #fff8e9; } .ds-brand { font-weight: 800; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "O Reflório Acolhedor",
+    "overview": "O sistema visual é um verde-floresta profundo e institucional (--forest) suavizado por creme quente (--cream, --paper), como uma estufa que acolhe quem está entrando pela primeira vez. É sério o suficiente para carregar credibilidade de um projeto de extensão do IFNMG, mas nunca frio: cantos sempre arredondados, sombras esfumaçadas em vez de bordas duras, tipografia grande e confiante. A restrição mais importante do sistema é o público: idosos com pouca familiaridade digital. Isso empurra toda decisão visual para 'simples e direto' — mas simples nunca pode significar infantilizado. O sistema rejeita explicitamente qualquer traço de UI condescendente (mascotes, ícones fofos, linguagem visual de 'área infantil'): a seriedade institucional do verde-mata profundo é o que garante isso. É respeito, não decoração. Densidade é baixa: espaçamentos generosos (clamp em quase todo padding relevante), poucos elementos por tela, hierarquia tipográfica exagerada (títulos de até 5.7rem na hero) para que a primeira leitura nunca exija esforço.",
+    "keyCharacteristics": [
+      "Verde-mata profundo como base institucional, nunca como decoração isolada",
+      "Creme/paper como respiro — o sistema não é escuro, é aconchegante",
+      "Cantos sempre arredondados (nunca cortes retos), sombras suaves em vez de bordas duras",
+      "Tipografia grande por padrão; hierarquia faz o trabalho, não o peso de cor",
+      "Zero elementos que soem 'para crianças' ou 'para quem não entende' — simples é uma forma de respeito, não de simplificação condescendente"
+    ],
+    "rules": [
+      { "name": "A Regra do Sorriso Único", "body": "Broto-Verde (--leaf) é o único verde vivo do sistema e aparece em no máximo um elemento de destaque por tela. Se virar fundo de área grande ou se repetir em múltiplos elementos da mesma view, deixou de ser destaque.", "section": "colors" },
+      { "name": "A Regra da Fonte Única", "body": "Nenhuma segunda família tipográfica entra no sistema. Toda diferenciação visual vem de tamanho, peso e cor — nunca de trocar a fonte.", "section": "typography" },
+      { "name": "A Regra do Sobe-e-Desce", "body": "Toda sombra que existe em repouso tem uma variante mais intensa reservada para hover/interação. Uma superfície nunca ganha sombra nova do nada ao ser tocada — ela intensifica a sombra que já tinha.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do manter o verde-mata profundo como cor de header/footer em toda página nova",
+      "Do usar cantos arredondados (0.5rem ou 0.4rem) em qualquer superfície nova",
+      "Do intensificar a sombra existente no hover em vez de introduzir uma sombra nova",
+      "Do manter espaçamento generoso — é a principal defesa de acessibilidade do site hoje"
+    ],
+    "donts": [
+      "Don't introduzir uma segunda cor de destaque além de Broto-Verde (--leaf)",
+      "Don't usar --leaf como fundo de área grande",
+      "Don't trocar a família tipográfica para diferenciar hierarquia",
+      "Don't adicionar qualquer elemento com tom infantilizado ou condescendente"
+    ]
+  }
+}
