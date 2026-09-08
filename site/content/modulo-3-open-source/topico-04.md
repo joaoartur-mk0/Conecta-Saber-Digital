@@ -1,5 +1,5 @@
 ---
-title: "04"
+title: "04 - Digitalização com NAPS2"
 date: 2026-06-22T19:00:00-03:00
 type: "modules"
 layout: "single"
