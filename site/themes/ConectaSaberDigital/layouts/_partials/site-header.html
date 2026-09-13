@@ -1,0 +1,30 @@
+{{/*
+  Cabeçalho institucional do site.
+
+  @param {string} page Página atual: "home" | "aula" | "sobre" | "ajuda".
+    Controla a classe compacta do logo e quais links do nav aparecem
+    (o link para a própria página atual nunca é mostrado).
+
+  @example {{ partial "site-header.html" (dict "page" "home") }}
+*/}}
+{{- $page := .page }}
+<header class="{{ if eq $page "home" }}site-header{{ else }}course-header{{ end }}">
+  <a class="brand-link{{ if ne $page "home" }} compact{{ end }}" href="/" aria-label="Página inicial">
+    <img src="/img/logoConecta.png" alt="Conecta Saber Digital" />
+  </a>
+
+  <nav class="header-actions" aria-label="Acesso rápido">
+    {{- if ne $page "ajuda" }}
+    <a href="/ajuda/" class="btn btn-light">Ajuda</a>
+    {{- end }}
+    {{- if ne $page "sobre" }}
+    <a href="/sobre/" class="btn btn-light">Sobre</a>
+    {{- end }}
+    {{- if ne $page "aula" }}
+    <a href="/homepage/" class="btn btn-light">Acessar aulas</a>
+    {{- end }}
+    {{- if ne $page "home" }}
+    <a href="/" class="btn btn-light">Início</a>
+    {{- end }}
+  </nav>
+</header>

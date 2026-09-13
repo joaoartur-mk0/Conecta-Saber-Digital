@@ -10,15 +10,12 @@
 </head>
 
 <body class="layout-home">
-  <header class="site-header">
-    <a class="brand-link" href="/" aria-label="Página inicial">
-      <img src="/img/logoConecta.png" alt="Conecta Saber Digital" />
-    </a>
+  {{ partial "site-header.html" (dict "page" "home") }}
 
-    <nav class="header-actions" aria-label="Acesso rápido">
-      <a href="/homepage/" class="btn btn-light">Acessar aulas</a>
-    </nav>
-  </header>
+  {{ $modulos := where .Site.Sections "Section" "ne" "homepage" }}
+  {{ $modulos = $modulos.ByWeight }}
+  {{ $primeiroModulo := index $modulos 0 }}
+  {{ $primeiraAulaDoCurso := index $primeiroModulo.Pages.ByWeight 0 }}
 
   <main>
     <section class="home-hero">
@@ -32,7 +29,7 @@
         </p>
 
         <div class="hero-actions">
-          <a href="/homepage/" class="btn btn-primary">Começar agora</a>
+          <a href="{{ $primeiraAulaDoCurso.RelPermalink }}" class="btn btn-primary">Começar agora</a>
           <a href="#modulos" class="btn btn-ghost">Ver módulos</a>
         </div>
       </div>
@@ -46,6 +43,16 @@
       </div>
     </section>
 
+    <section class="enrollment-banner">
+      <span class="enrollment-tag">Inscrições abertas</span>
+      <p>Inscrições para a próxima turma do Conecta Saber Digital até <strong>30 de agosto</strong>.</p>
+      <a href="https://forms.gle/tmsu1Mf4SFTWvuWJ8" class="enrollment-link" target="_blank" rel="noopener">
+        Inscrever-se
+        <span class="sr-only">(abre em nova aba)</span>
+        <svg class="external-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+      </a>
+    </section>
+
     <section class="content-band" id="modulos">
       <div class="section-heading">
         <span class="eyebrow">Biblioteca do curso</span>
@@ -54,13 +61,13 @@
       </div>
 
       <div class="module-grid">
-          {{ range .Site.Sections.ByWeight }}
-          {{ if ne .Section "homepage" }}
+          {{ range $modulos }}
           {{ $aulas := .Pages.ByWeight }}
           {{ $primeiraAula := index $aulas 0 }}
+          {{ $ehRecomendado := eq .Section $primeiroModulo.Section }}
 
-      <a class="module-card" href="{{ $primeiraAula.RelPermalink }}">
-        <span class="module-kicker">Módulo</span>
+      <a class="module-card{{ if $ehRecomendado }} module-card--featured{{ end }}" href="{{ $primeiraAula.RelPermalink }}">
+        <span class="module-kicker">{{ if $ehRecomendado }}Comece por aqui{{ else }}Módulo{{ end }}</span>
         <h3>{{ .Title }}</h3>
         <p>
           {{ len .Pages }} aula{{ if ne (len .Pages) 1 }}s{{ end }}
@@ -68,15 +75,11 @@
         </p>
       </a>
     {{ end }}
-  {{ end }}
 </div>
 
     </section>
   </main>
 
-  <footer class="site-footer">
-    <p>Conecta Saber Digital - {{ now.Year }}</p>
-    <p>Repositório de conteúdos para alfabetização digital.</p>
-  </footer>
+  {{ partial "site-footer.html" . }}
 </body>
 </html>

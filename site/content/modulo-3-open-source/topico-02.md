@@ -59,10 +59,3 @@ Seguir boas práticas de download e utilizar ferramentas gratuitas e legais ajud
 | Baixar programas em sites desconhecidos. | Utilizar apenas páginas oficiais.
 | Instalar softwares sem verificar permissões. | Ler todas as telas do instalador.
 | Confiar em anúncios patrocinados sem verificar a origem. | Confirmar o endereço do site antes do download.
-
---! como adicionar uma imagem + legenda --
-
-![Exemplo de ferramentas open source](/img/aulas/libreOffice.png)
-<figure>
-  <figcaption>Exemplo de ferramentas web utilizadas no curso.</figcaption>
-</figure>

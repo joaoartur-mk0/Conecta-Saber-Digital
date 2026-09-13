@@ -30,9 +30,37 @@ a {
   text-decoration: none;
 }
 
+/* Some conteúdo visualmente, mas continua audível para leitor de tela. */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 img {
   display: block;
   max-width: 100%;
+}
+
+/*
+  Anel de foco único e consistente para todo elemento interativo do site.
+  --leaf tem contraste suficiente sobre fundo escuro (header/hero) e claro
+  (conteúdo), então um só valor cobre o site inteiro sem overrides por
+  componente.
+*/
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid var(--leaf);
+  outline-offset: 2px;
+  border-radius: 0.25rem;
 }
 
 .site-header,
@@ -64,6 +92,7 @@ img {
   padding: 0.72rem 1rem;
   border-radius: 0.5rem;
   font-weight: 800;
+  transition: filter 0.15s ease, background-color 0.15s ease, border-color 0.15s ease;
 }
 
 .btn-light,
@@ -72,9 +101,19 @@ img {
   color: var(--forest);
 }
 
+.btn-light:hover,
+.btn-primary:hover {
+  filter: brightness(0.94);
+}
+
 .btn-ghost {
   border: 1px solid rgba(255, 248, 233, 0.5);
   color: var(--cream);
+}
+
+.btn-ghost:hover {
+  background: rgba(255, 248, 233, 0.14);
+  border-color: rgba(255, 248, 233, 0.8);
 }
 
 .layout-home {
@@ -126,6 +165,52 @@ img {
   flex-wrap: wrap;
   gap: 0.8rem;
   margin-top: 2rem;
+}
+
+/*
+  Faixa de inscrições: informação real, mas deliberadamente fora do hero e
+  com peso visual menor que os CTAs de aprendizagem — texto/link sublinhado
+  em vez de botão sólido, para não competir com "Começar agora" na primeira
+  tela nem soar como contagem regressiva.
+*/
+.enrollment-banner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 1rem;
+  padding: 0.9rem clamp(1rem, 6vw, 6rem);
+  background: var(--mint);
+  border-bottom: 1px solid var(--line);
+}
+
+.enrollment-banner .enrollment-tag {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  background: var(--leaf);
+  color: var(--forest-deep);
+  font-size: 0.72rem;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.enrollment-banner p {
+  margin: 0;
+  color: var(--forest);
+  font-size: 0.98rem;
+}
+
+.enrollment-link {
+  margin-left: auto;
+  color: var(--forest);
+  font-weight: 800;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.enrollment-link:hover {
+  color: var(--forest-deep);
 }
 
 .hero-panel {
@@ -215,6 +300,33 @@ img {
   color: var(--muted);
 }
 
+/*
+  Módulo recomendado para começar: diferenciado por inversão de valor
+  (cartão sólido verde-mata), não por uma segunda cor de destaque — o
+  Broto-Verde já é usado pela tag de inscrição nesta mesma página.
+*/
+.module-card--featured {
+  background: var(--forest);
+  border-color: var(--forest);
+}
+
+.module-card--featured:hover {
+  background: var(--forest-deep);
+  border-color: var(--forest-deep);
+}
+
+.module-card--featured .module-kicker {
+  color: var(--mint);
+}
+
+.module-card--featured h3 {
+  color: var(--cream);
+}
+
+.module-card--featured p {
+  color: rgba(255, 248, 233, 0.78);
+}
+
 .site-footer {
   display: flex;
   flex-wrap: wrap;
@@ -227,6 +339,21 @@ img {
 
 .site-footer p {
   margin: 0;
+}
+
+.site-footer a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* Indica que o link sai do site (abre em nova aba) sem depender só do texto. */
+.external-icon {
+  margin-left: 0.3em;
+  vertical-align: -0.1em;
+}
+
+.site-footer a:hover {
+  color: var(--cream);
 }
 
 .page-wrapper {
@@ -247,10 +374,17 @@ img {
 }
 
 .sidebar-modulos h2 {
-  margin: 0 0 1rem;
+  margin: 0 0 0.5rem;
   color: var(--forest);
   font-size: 1rem;
   text-transform: uppercase;
+}
+
+.sidebar-hint {
+  margin: 0 0 1.1rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.4;
 }
 
 .dropdown-modulo {
@@ -290,11 +424,42 @@ img {
   color: var(--forest);
 }
 
+/* Tópico da aula que está sendo lida agora — resposta ao "onde estou". */
+.topicos-lista a.active {
+  background: rgba(118, 160, 100, 0.22);
+  color: var(--forest);
+  font-weight: 800;
+}
+
 .conteudo-aula {
   width: 100%;
-  max-width: 56rem;
+  max-width: 52rem;
   margin: 0 auto;
   padding: clamp(2rem, 5vw, 4rem);
+}
+
+.sobre-page {
+  width: 100%;
+  max-width: 52rem;
+  margin: 0 auto;
+  padding: clamp(2rem, 5vw, 4rem);
+}
+
+.sobre-hero {
+  margin-bottom: 2rem;
+  padding-bottom: 1.3rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.sobre-hero h1 {
+  margin: 0;
+  color: var(--forest);
+  font-size: clamp(2rem, 4vw, 3.35rem);
+  line-height: 1.05;
+}
+
+.sobre-conteudo {
+  padding: clamp(1.4rem, 4vw, 2.4rem);
 }
 
 .cabecalho-aula {
@@ -327,7 +492,7 @@ img {
 .corpo-aula p,
 .corpo-aula li {
   color: #253929;
-  font-size: 1.04rem;
+  font-size: 1.2rem;
 }
 
 /*justifica o texto do conteúdo da aula*/
@@ -359,7 +524,8 @@ img {
 
 .corpo-aula h3 {
   color: var(--forest-soft);
-  font-size: 1.25rem;
+  font-size: 1.4rem;
+  font-weight: 800;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
 }
@@ -367,6 +533,21 @@ img {
 .corpo-aula strong {
   color: var(--forest);
   font-weight: 800;
+}
+
+/*
+  Links dentro do conteúdo de aula herdavam `text-decoration: none` do
+  reset global e ficavam visualmente idênticos ao texto ao redor —
+  nada indicava que eram clicáveis.
+*/
+.corpo-aula a {
+  color: var(--forest-soft);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.corpo-aula a:hover {
+  color: var(--forest);
 }
 
 .corpo-aula blockquote {
@@ -394,22 +575,17 @@ img {
     height: auto;
     position: static;
   }
-  
+
+  .page-wrapper,
+  .page-wrapper.sidebar-collapsed {
+    grid-template-columns: 1fr;
+  }
+
   .sidebar-icon-toggle {
-  top: 5.5rem;
-}
-
-.page-wrapper,
-.page-wrapper.sidebar-collapsed {
-  grid-template-columns: 1fr;
-}
-
-.sidebar-icon-toggle {
-  left: 1rem;
-  top: 1rem;
-  transform: none;
-}
-
+    left: 1rem;
+    top: 1rem;
+    transform: none;
+  }
 }
 
 @media (max-width: 560px) {
@@ -435,20 +611,29 @@ img {
   transform: translateX(-50%);
   z-index: 20;
 
-  width: 2.25rem;
-  height: 2.25rem;
+  min-height: 2.75rem;
+  padding: 0.6rem 1rem;
   border: 0;
-  border-radius: 0.45rem;
+  border-radius: 0.5rem;
 
   background: var(--forest);
   color: var(--cream);
   cursor: pointer;
 
-  font-size: 1.4rem;
-  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
 
-  display: grid;
-  place-items: center;
+  font-family: inherit;
+  font-size: 0.92rem;
+  font-weight: 800;
+  white-space: nowrap;
+
+  transition: background-color 0.15s ease;
+}
+
+.sidebar-icon-toggle:hover {
+  background: var(--forest-deep);
 }
 
 .page-wrapper.sidebar-collapsed .sidebar-icon-toggle {
@@ -457,13 +642,8 @@ img {
   transform: none;
 }
 
-.sidebar-icon-toggle:hover {
-  background: var(--forest-deep);
-}
-
 .icon-sidebar-closed {
   display: none;
-  font-size: 1.05rem;
 }
 
 .page-wrapper.sidebar-collapsed {
@@ -475,7 +655,7 @@ img {
 }
 
 .page-wrapper.sidebar-collapsed .conteudo-aula {
-  max-width: 72rem;
+  max-width: 60rem;
 }
 
 .page-wrapper.sidebar-collapsed .icon-sidebar-open {

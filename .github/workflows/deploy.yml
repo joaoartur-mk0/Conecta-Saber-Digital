@@ -1,0 +1,24 @@
+name: CD - Deploy do site (Hugo)
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "site/**"
+      - ".github/workflows/deploy.yml"
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+      # O container hugo-dev (infra/containers/hugoserver/docker-compose.yml) serve o
+      # site direto de um volume montado no clone do repositório já existente no VPS.
+      # Por isso, em vez de checkout, apenas atualizamos esse clone com git pull.
+      # Configure o caminho absoluto do clone em:
+      # Settings > Secrets and variables > Actions > Variables > DEPLOY_PATH
+      - name: Atualizar código-fonte no VPS
+        run: |
+          cd "${{ vars.DEPLOY_PATH }}"
+          git fetch origin main
+          git reset --hard origin/main
